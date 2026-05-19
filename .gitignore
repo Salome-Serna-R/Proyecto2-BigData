@@ -37,3 +37,4 @@ build/
 ## Big data / notebook artifacts
 .ipynb_checkpoints/
 *.checkpoint
+punto2-fuentes-datos/structured
