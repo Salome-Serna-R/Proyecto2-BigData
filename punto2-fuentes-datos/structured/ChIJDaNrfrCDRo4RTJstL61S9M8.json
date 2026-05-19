@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJDaNrfrCDRo4RTJstL61S9M8",
+  "name": "La Santa Guadalupe (Medellin)",
+  "address": "Cra. 25 #4-165, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2019308,
+  "lng": -75.5565934,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–23:00",
+    "martes: 12:00–23:00",
+    "miércoles: 12:00–23:00",
+    "jueves: 12:00–1:00",
+    "viernes: 12:00–1:00",
+    "sábado: 12:00–1:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

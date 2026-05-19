@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJFzzifwCDRo4Rxu0qoieCjYM",
+  "name": "Restaurante Sazón de la 4Sur",
+  "address": "Cl. 2 Sur #50e-57, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.205193899999999,
+  "lng": -75.5827537,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:00–18:00",
+    "martes: 6:00–18:00",
+    "miércoles: 6:00–18:00",
+    "jueves: 6:00–18:00",
+    "viernes: 6:00–18:00",
+    "sábado: 6:00–18:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

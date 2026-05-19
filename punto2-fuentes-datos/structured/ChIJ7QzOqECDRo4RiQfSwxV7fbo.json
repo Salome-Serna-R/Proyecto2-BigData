@@ -1,0 +1,16 @@
+{
+  "place_id": "ChIJ7QzOqECDRo4RiQfSwxV7fbo",
+  "name": "El Bosque era Rosado",
+  "address": "Calle 16a sur # 9e -150, Los Balsos, Casaloma, Medellín, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Los Balsos",
+  "lat": 6.1845149,
+  "lng": -75.5502777,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 5
+}

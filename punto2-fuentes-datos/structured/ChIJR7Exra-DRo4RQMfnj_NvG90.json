@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJR7Exra-DRo4RQMfnj_NvG90",
+  "name": "Sushi Fun and Wok",
+  "address": "Cl. 30 Sur #45-07, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1776191,
+  "lng": -75.586288,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–21:00",
+    "martes: 11:30–9:00",
+    "miércoles: 11:30–21:00",
+    "jueves: 11:30–23:30",
+    "viernes: 11:30–10:30",
+    "sábado: 11:30–22:30",
+    "domingo: 11:30–21:00"
+  ],
+  "review_count": 5
+}

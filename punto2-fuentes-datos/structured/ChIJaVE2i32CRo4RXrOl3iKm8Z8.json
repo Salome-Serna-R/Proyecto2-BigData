@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJaVE2i32CRo4RXrOl3iKm8Z8",
+  "name": "Óleo Restaurante Medellín",
+  "address": "Cl. 4 Sur #43 A 97, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.200554299999999,
+  "lng": -75.5742281,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:30–22:00",
+    "martes: 6:30–22:00",
+    "miércoles: 6:30–22:00",
+    "jueves: 6:30–22:00",
+    "viernes: 6:30–22:00",
+    "sábado: 6:30–22:00",
+    "domingo: 6:30–22:00"
+  ],
+  "review_count": 5
+}

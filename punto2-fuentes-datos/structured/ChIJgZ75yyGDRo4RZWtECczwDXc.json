@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJgZ75yyGDRo4RZWtECczwDXc",
+  "name": "Cascada las palmas",
+  "address": "Av. Las Palmas, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Santa Elena",
+  "lat": 6.2003102,
+  "lng": -75.54476729999999,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "park"
+  ],
+  "hours": [],
+  "review_count": 2
+}

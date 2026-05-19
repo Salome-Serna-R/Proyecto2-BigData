@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJU9oAJTaDRo4RIyKHzZUN_sk",
+  "name": "Cala Roca",
+  "address": "Cra. 34 #5g-62, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2051796,
+  "lng": -75.5644892,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 7:00–12:00",
+    "martes: 7:00–21:00",
+    "miércoles: 7:00–21:00",
+    "jueves: 7:00–21:00",
+    "viernes: 7:00–23:00",
+    "sábado: 7:00–23:00",
+    "domingo: 7:00–21:00"
+  ],
+  "review_count": 5
+}

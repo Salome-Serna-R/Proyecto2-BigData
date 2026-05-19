@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJIWgxYykoRI4REYyRp8BF7Zc",
+  "name": "DANCEFREE",
+  "address": "Cl 10A #40-27, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.210415200000001,
+  "lng": -75.5680979,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club",
+    "school"
+  ],
+  "hours": [
+    "lunes: 9:00–22:30",
+    "martes: 9:00–22:30",
+    "miércoles: 9:00–22:30",
+    "jueves: 9:00–24:00",
+    "viernes: 9:00–2:00",
+    "sábado: 9:00–2:00",
+    "domingo: 9:00–19:00"
+  ],
+  "review_count": 5
+}

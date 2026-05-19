@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJDzB_rikoRI4RK7880NQlw-4",
+  "name": "Salón Amador",
+  "address": "Cl 10 #40-30, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.209896899999999,
+  "lng": -75.5682776,
+  "rating": 4.4,
+  "price_level": 3,
+  "types": [
+    "bar",
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 22:00–4:00",
+    "viernes: 22:00–4:00",
+    "sábado: 22:00–4:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJxUL5u1kpRI4RI7dSdTmGy_A",
+  "name": "Mangosta - Mejor discoteca de provenza",
+  "address": "Cra. 35 #8A - 72 Segundo Piso, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2083073,
+  "lng": -75.5655924,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 18:30–1:00",
+    "jueves: 18:30–3:00",
+    "viernes: 18:30–3:00",
+    "sábado: 18:30–3:00",
+    "domingo: 18:30–1:00"
+  ],
+  "review_count": 5
+}

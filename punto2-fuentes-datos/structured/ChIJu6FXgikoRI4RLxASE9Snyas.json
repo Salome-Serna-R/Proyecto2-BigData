@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJu6FXgikoRI4RLxASE9Snyas",
+  "name": "MIDNIGHT",
+  "address": "Cra. 36 #10-37, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2091697,
+  "lng": -75.565953,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 18:00–2:00",
+    "jueves: 18:00–2:00",
+    "viernes: 21:30–2:00",
+    "sábado: 18:00–2:00",
+    "domingo: 18:00–2:00"
+  ],
+  "review_count": 5
+}

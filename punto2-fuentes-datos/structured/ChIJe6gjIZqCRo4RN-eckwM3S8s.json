@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJe6gjIZqCRo4RN-eckwM3S8s",
+  "name": "MED Burger House",
+  "address": "Mall Del Este, Cra. 25 #3-45, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 25 #3-45",
+  "lat": 6.198443699999999,
+  "lng": -75.55677519999999,
+  "rating": 4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 9:00–20:45",
+    "martes: 9:00–20:45",
+    "miércoles: 9:00–20:45",
+    "jueves: 12:00–22:30",
+    "viernes: 12:00–22:30",
+    "sábado: 12:00–22:30",
+    "domingo: 12:00–22:30"
+  ],
+  "review_count": 5
+}

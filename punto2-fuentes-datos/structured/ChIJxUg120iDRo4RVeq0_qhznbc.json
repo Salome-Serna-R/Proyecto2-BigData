@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJxUg120iDRo4RVeq0_qhznbc",
+  "name": "Alcorte",
+  "address": "Cl. 20 Sur #27 - 115, La Abadia, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "La Abadia",
+  "lat": 6.180541,
+  "lng": -75.5687161,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 15:00–21:30",
+    "martes: 15:00–21:30",
+    "miércoles: 15:00–21:30",
+    "jueves: 14:00–21:30",
+    "viernes: 13:00–22:30",
+    "sábado: 13:00–22:30",
+    "domingo: 13:00–21:30"
+  ],
+  "review_count": 5
+}

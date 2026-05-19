@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJHWFPiUqDRo4R7RBhKU694Lk",
+  "name": "Milagros Milla de Oro",
+  "address": "Cra 43A calle 3 sur, Av. El Poblado #130 Piso 2 Local 213, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Av. El Poblado #130 Piso 2 Local 213",
+  "lat": 6.2000908,
+  "lng": -75.5723802,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 0:00–21:00",
+    "martes: 0:00–21:00",
+    "miércoles: 0:00–21:00",
+    "jueves: 0:00–21:00",
+    "viernes: 0:00–21:00",
+    "sábado: 0:00–21:00",
+    "domingo: 0:00–20:00"
+  ],
+  "review_count": 5
+}

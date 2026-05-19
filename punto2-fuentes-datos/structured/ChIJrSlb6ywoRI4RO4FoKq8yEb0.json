@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJrSlb6ywoRI4RO4FoKq8yEb0",
+  "name": "Galería Carlos Orozco",
+  "address": "Cl. 12 #43d 95, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2136594,
+  "lng": -75.5723921,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "art_gallery",
+    "store"
+  ],
+  "hours": [
+    "lunes: 9:00–18:00",
+    "martes: 9:00–18:00",
+    "miércoles: 9:00–18:00",
+    "jueves: 9:00–18:00",
+    "viernes: 9:00–18:00",
+    "sábado: 10:00–14:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

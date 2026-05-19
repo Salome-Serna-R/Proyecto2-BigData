@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJHXeLJpwpRI4RM6bLRHwG8uU",
+  "name": "Terraza El Poblado",
+  "address": "Cl. 9 #43b 71 5to piso, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.210275299999999,
+  "lng": -75.5720674,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 7:30–17:00",
+    "martes: 7:30–17:00",
+    "miércoles: 7:30–20:30",
+    "jueves: 7:30–17:00",
+    "viernes: 7:30–17:00",
+    "sábado: 7:30–17:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

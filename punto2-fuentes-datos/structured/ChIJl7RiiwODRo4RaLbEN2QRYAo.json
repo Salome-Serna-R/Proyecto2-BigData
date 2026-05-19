@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJl7RiiwODRo4RaLbEN2QRYAo",
+  "name": "Duomo Serata",
+  "address": "Cra. 34 #7-100, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.206991599999999,
+  "lng": -75.5649007,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: Cerrado",
+    "viernes: 22:00–4:00",
+    "sábado: 22:00–4:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

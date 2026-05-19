@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJwZn3BicoRI4RxcD_heQKD-Q",
+  "name": "Conservas ASTI",
+  "address": "L-210, Entrada A La CL10 #30-30, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Entrada A La CL10 #30-30",
+  "lat": 6.2091024,
+  "lng": -75.5594739,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 9:00–19:00",
+    "martes: 9:00–19:00",
+    "miércoles: 9:00–19:00",
+    "jueves: 9:00–19:00",
+    "viernes: 9:00–19:00",
+    "sábado: 9:00–15:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 2
+}

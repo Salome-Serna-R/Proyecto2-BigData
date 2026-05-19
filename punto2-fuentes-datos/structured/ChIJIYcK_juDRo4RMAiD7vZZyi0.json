@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJIYcK_juDRo4RMAiD7vZZyi0",
+  "name": "Valentina Bakery",
+  "address": "El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.1956611,
+  "lng": -75.5738186,
+  "rating": 3.8,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 9:00–21:00",
+    "martes: 9:00–21:00",
+    "miércoles: 9:00–21:00",
+    "jueves: 9:00–21:00",
+    "viernes: 9:00–21:00",
+    "sábado: 9:00–21:00",
+    "domingo: 9:00–21:00"
+  ],
+  "review_count": 5
+}

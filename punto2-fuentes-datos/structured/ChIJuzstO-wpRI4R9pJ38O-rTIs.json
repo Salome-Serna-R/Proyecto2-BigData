@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJuzstO-wpRI4R9pJ38O-rTIs",
+  "name": "Gema Café",
+  "address": "Cra. 29c #1 s sur 80, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1985277,
+  "lng": -75.5621489,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 7:00–16:00",
+    "martes: 7:00–16:00",
+    "miércoles: 7:00–16:00",
+    "jueves: 7:00–16:00",
+    "viernes: 7:00–16:00",
+    "sábado: 7:00–16:00",
+    "domingo: 7:00–16:00"
+  ],
+  "review_count": 5
+}

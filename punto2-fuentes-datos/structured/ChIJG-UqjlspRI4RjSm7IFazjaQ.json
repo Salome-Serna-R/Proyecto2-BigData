@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJG-UqjlspRI4RjSm7IFazjaQ",
+  "name": "Chocoro",
+  "address": "Cra. 43 #10-14, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.210674,
+  "lng": -75.5698479,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 12:00–19:30",
+    "miércoles: 11:00–19:30",
+    "jueves: 11:00–19:30",
+    "viernes: 11:00–19:30",
+    "sábado: 11:00–19:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

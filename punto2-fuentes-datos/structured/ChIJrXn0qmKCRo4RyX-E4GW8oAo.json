@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJrXn0qmKCRo4RyX-E4GW8oAo",
+  "name": "Leños & Carbón Santafé",
+  "address": "L 3003, Av. El Poblado #7 SUR 170, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Av. El Poblado #7 SUR 170",
+  "lat": 6.1961591,
+  "lng": -75.57423639999999,
+  "rating": 4.3,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–20:00"
+  ],
+  "review_count": 5
+}

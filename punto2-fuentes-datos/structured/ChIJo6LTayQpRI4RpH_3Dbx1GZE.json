@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJo6LTayQpRI4RpH_3Dbx1GZE",
+  "name": "Tostao Parque El Poblado",
+  "address": "Cra. 43A #7d-59, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.209002799999999,
+  "lng": -75.5712665,
+  "rating": 4,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 6:00–20:00",
+    "martes: 6:00–20:00",
+    "miércoles: 6:00–20:00",
+    "jueves: 6:00–20:00",
+    "viernes: 6:00–20:00",
+    "sábado: 6:00–20:00",
+    "domingo: 7:00–20:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJXdfouJyCRo4RgEyr0w9JGjY",
+  "name": "Mikaela Piazza Bella",
+  "address": "Cra. 29, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.203648599999999,
+  "lng": -75.561357,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 8:00–19:00",
+    "martes: 8:00–19:00",
+    "miércoles: 8:00–19:00",
+    "jueves: 8:00–19:00",
+    "viernes: 8:00–19:00",
+    "sábado: 8:00–19:00",
+    "domingo: 9:00–18:00"
+  ],
+  "review_count": 5
+}

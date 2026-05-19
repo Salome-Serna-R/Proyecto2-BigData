@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJe03nvX2CRo4Rfrju9F10xxg",
+  "name": "La Viña",
+  "address": "Cra 43C #4s-180, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2007316,
+  "lng": -75.5757271,
+  "rating": 4.4,
+  "price_level": 1,
+  "types": [
+    "bakery",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 10:30–18:10",
+    "martes: 10:30–18:10",
+    "miércoles: 10:30–18:10",
+    "jueves: 10:30–18:10",
+    "viernes: 10:30–18:10",
+    "sábado: 10:30–18:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

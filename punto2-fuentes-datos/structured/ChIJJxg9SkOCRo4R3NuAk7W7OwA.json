@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJJxg9SkOCRo4R3NuAk7W7OwA",
+  "name": "Chef Burger Contenedores",
+  "address": "Cra. 48 # 26 sur 87, Zona 1, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 1",
+  "lat": 6.1831819,
+  "lng": -75.5861821,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "meal_takeaway",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–23:00",
+    "viernes: 12:00–23:30",
+    "sábado: 12:00–23:30",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

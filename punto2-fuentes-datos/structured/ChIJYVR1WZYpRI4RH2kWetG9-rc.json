@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJYVR1WZYpRI4RH2kWetG9-rc",
+  "name": "Vapor Life Provenza - Hookah Lounge",
+  "address": "Cra. 35 #10 - 24, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2088281,
+  "lng": -75.56544219999999,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club",
+    "store"
+  ],
+  "hours": [
+    "lunes: 10:00–24:00",
+    "martes: 10:00–24:00",
+    "miércoles: 10:00–24:00",
+    "jueves: 10:00–2:00",
+    "viernes: 10:00–2:00",
+    "sábado: 10:00–2:00",
+    "domingo: 11:00–2:00"
+  ],
+  "review_count": 5
+}

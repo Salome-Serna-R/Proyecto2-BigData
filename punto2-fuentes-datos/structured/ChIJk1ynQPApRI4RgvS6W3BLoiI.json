@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJk1ynQPApRI4RgvS6W3BLoiI",
+  "name": "Arepas de Chocolo y Queso Las Estelares",
+  "address": "Cl. 4a #52-44, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.211282799999999,
+  "lng": -75.5845987,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 15:30–20:00",
+    "martes: 15:30–20:00",
+    "miércoles: 15:30–20:00",
+    "jueves: 15:30–20:00",
+    "viernes: 15:30–20:00",
+    "sábado: 15:30–20:00",
+    "domingo: 15:30–20:00"
+  ],
+  "review_count": 3
+}

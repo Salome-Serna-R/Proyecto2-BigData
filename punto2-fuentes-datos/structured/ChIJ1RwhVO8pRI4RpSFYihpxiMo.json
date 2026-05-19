@@ -1,0 +1,29 @@
+{
+  "place_id": "ChIJ1RwhVO8pRI4RpSFYihpxiMo",
+  "name": "The Somos Beats Hotel & Rooftop",
+  "address": "Cl 10A #40-19, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.210457099999999,
+  "lng": -75.5679796,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "bar",
+    "cafe",
+    "lodging",
+    "night_club",
+    "restaurant",
+    "spa",
+    "store"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

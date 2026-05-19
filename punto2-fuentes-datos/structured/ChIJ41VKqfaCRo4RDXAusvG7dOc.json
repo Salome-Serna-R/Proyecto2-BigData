@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJ41VKqfaCRo4RDXAusvG7dOc",
+  "name": "Restaurante Mistura - San Lucas",
+  "address": "Mall, San Lucas Pl. #Local 160, La Abadia, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "San Lucas Pl. #Local 160",
+  "lat": 6.180985499999999,
+  "lng": -75.5686381,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "bar",
+    "meal_delivery",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–18:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJOytA9ikoRI4RggVGQbqwzJo",
+  "name": "Donde Su Madre",
+  "address": "Cra. 39 #826, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2080674,
+  "lng": -75.56821680000002,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 18:30–24:00",
+    "miércoles: 18:30–24:00",
+    "jueves: 18:30–24:00",
+    "viernes: 18:30–24:00",
+    "sábado: 18:30–24:00",
+    "domingo: 18:30–4:00"
+  ],
+  "review_count": 5
+}

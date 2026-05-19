@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJrXn0qmKCRo4Rkz2_cYqKOUQ",
+  "name": "ASIAWOK",
+  "address": "L 4043, El Poblado #7SUR170, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado #7SUR170",
+  "lat": 6.196852,
+  "lng": -75.5743513,
+  "rating": 2.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–21:00",
+    "sábado: 12:00–21:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

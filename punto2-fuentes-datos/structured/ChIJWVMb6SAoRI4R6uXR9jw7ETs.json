@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJWVMb6SAoRI4R6uXR9jw7ETs",
+  "name": "La Makha - Cocina de Origen",
+  "address": "Cra. 25 #10-51, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2086673,
+  "lng": -75.55509789999999,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:00–10:30, 12:00–21:30",
+    "martes: 6:00–10:30, 12:00–21:30",
+    "miércoles: 6:00–10:30, 12:00–21:30",
+    "jueves: 6:00–10:30, 12:00–21:30",
+    "viernes: 6:00–10:30, 12:00–21:30",
+    "sábado: 6:00–11:00, 12:00–21:30",
+    "domingo: 6:00–11:00, 12:00–21:30"
+  ],
+  "review_count": 5
+}

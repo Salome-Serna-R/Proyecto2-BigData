@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJYb0SZ2aCRo4RdmfoDfsK4z0",
+  "name": "Discoteca Pranna",
+  "address": "Cra 42 #121, San Fernando, Itagüi, Medellín, Antioquia, Colombia",
+  "neighborhood": "San Fernando",
+  "lat": 6.1908885,
+  "lng": -75.5835073,
+  "rating": 3.5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [],
+  "review_count": 4
+}

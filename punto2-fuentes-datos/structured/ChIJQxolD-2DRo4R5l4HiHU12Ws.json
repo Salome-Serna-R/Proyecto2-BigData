@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJQxolD-2DRo4R5l4HiHU12Ws",
+  "name": "Juan Valdez - Centro Comercial Santa Fé, Medellín",
+  "address": "Poblado, CC Santafé, Cra. 43A #7 Sur-170 piso 5, Loc 5178, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "CC Santafé",
+  "lat": 6.1963137,
+  "lng": -75.5740837,
+  "rating": 3.1,
+  "price_level": 2,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

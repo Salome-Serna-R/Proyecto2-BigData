@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJTZ5mDykoRI4RRiEZQOVDEF4",
+  "name": "Galería Duque Arango",
+  "address": "Cra. 37 #10 a -34, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2102472,
+  "lng": -75.5660284,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "art_gallery"
+  ],
+  "hours": [
+    "lunes: 9:00–17:00",
+    "martes: 9:00–17:00",
+    "miércoles: 9:00–17:00",
+    "jueves: 9:00–17:00",
+    "viernes: 9:00–17:00",
+    "sábado: 9:00–12:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

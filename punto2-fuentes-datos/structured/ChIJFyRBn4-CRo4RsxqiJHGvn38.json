@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJFyRBn4-CRo4RsxqiJHGvn38",
+  "name": "Restaurante Malore",
+  "address": "Cl. 5 Sur, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1956871,
+  "lng": -75.5654265,
+  "rating": 4.5,
+  "price_level": 1,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 8:00–15:30",
+    "martes: 8:00–15:30",
+    "miércoles: 8:00–15:30",
+    "jueves: 8:00–15:30",
+    "viernes: 8:00–15:30",
+    "sábado: 8:00–15:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

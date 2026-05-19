@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJm8ANn7qDRo4RAxJ_Nqz7z3w",
+  "name": "El Rincon Del Sabor",
+  "address": "Cl. 3b Sur #29c 92, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1967634,
+  "lng": -75.5633769,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:00–16:00",
+    "martes: 6:00–16:00",
+    "miércoles: 6:00–16:00",
+    "jueves: 6:00–16:00",
+    "viernes: 6:00–16:00",
+    "sábado: 8:30–13:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJs_2VF9WDRo4R8f3YJD1Hrbg",
+  "name": "Enchilados Verona",
+  "address": "Cra. 30, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.206578299999999,
+  "lng": -75.5600418,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 15:00–23:00",
+    "martes: 15:00–23:00",
+    "miércoles: 15:00–23:00",
+    "jueves: 15:00–23:00",
+    "viernes: 15:00–23:00",
+    "sábado: 15:00–23:00",
+    "domingo: 15:00–23:00"
+  ],
+  "review_count": 2
+}

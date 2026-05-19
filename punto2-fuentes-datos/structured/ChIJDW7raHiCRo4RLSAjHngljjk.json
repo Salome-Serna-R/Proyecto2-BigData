@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJDW7raHiCRo4RLSAjHngljjk",
+  "name": "Cafetería Los Cerros de Oriente",
+  "address": "Cra. 51 #4, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2068175,
+  "lng": -75.5836297,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 8:00–22:00",
+    "martes: 8:00–22:00",
+    "miércoles: 8:00–22:00",
+    "jueves: 8:00–22:00",
+    "viernes: 8:00–22:00",
+    "sábado: 8:00–22:00",
+    "domingo: 8:00–22:00"
+  ],
+  "review_count": 5
+}

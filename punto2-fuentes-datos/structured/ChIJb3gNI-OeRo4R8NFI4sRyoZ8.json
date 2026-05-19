@@ -1,0 +1,16 @@
+{
+  "place_id": "ChIJb3gNI-OeRo4R8NFI4sRyoZ8",
+  "name": "Ártiga Café Cultural",
+  "address": "Tv. 5a #45-140, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2075846,
+  "lng": -75.575651,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 5
+}

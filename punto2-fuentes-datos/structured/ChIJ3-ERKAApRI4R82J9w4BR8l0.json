@@ -1,0 +1,16 @@
+{
+  "place_id": "ChIJ3-ERKAApRI4R82J9w4BR8l0",
+  "name": "Los super quesudos",
+  "address": "Cra. 48 #7248, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2116194,
+  "lng": -75.576228,
+  "rating": 3,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [],
+  "review_count": 2
+}

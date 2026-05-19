@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJh-yRdACDRo4RjUONlTg913M",
+  "name": "Dukes Pizzas Sede Poblado",
+  "address": "Cra. 43A #18 Sur-80, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1848924,
+  "lng": -75.5785482,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 16:00–22:30",
+    "martes: 16:00–22:30",
+    "miércoles: 16:00–22:30",
+    "jueves: 16:00–22:30",
+    "viernes: 16:00–23:00",
+    "sábado: 13:00–23:00",
+    "domingo: 13:00–22:30"
+  ],
+  "review_count": 5
+}

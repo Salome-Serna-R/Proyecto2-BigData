@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJC241XVCCRo4R01-Ldjqbcm4",
+  "name": "Go Wings",
+  "address": "Dg. 32D #32C Sur 33, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.1741879,
+  "lng": -75.5838453,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 14:00–21:00",
+    "martes: 11:30–21:00",
+    "miércoles: 11:30–21:00",
+    "jueves: 11:30–21:00",
+    "viernes: 11:30–22:00",
+    "sábado: 11:30–22:00",
+    "domingo: 11:30–21:00"
+  ],
+  "review_count": 5
+}

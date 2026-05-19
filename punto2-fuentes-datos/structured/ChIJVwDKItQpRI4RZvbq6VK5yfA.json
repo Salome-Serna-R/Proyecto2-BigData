@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJVwDKItQpRI4RZvbq6VK5yfA",
+  "name": "Empanadas Krokantes.",
+  "address": "Cl. 6 #50 - 31, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.211150099999999,
+  "lng": -75.5795409,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:00–16:00",
+    "martes: 6:00–16:00",
+    "miércoles: 6:00–16:00",
+    "jueves: 6:00–16:00",
+    "viernes: 6:00–16:00",
+    "sábado: 6:00–12:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

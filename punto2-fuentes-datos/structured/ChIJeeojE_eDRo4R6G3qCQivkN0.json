@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJeeojE_eDRo4R6G3qCQivkN0",
+  "name": "Estacion Central Pub",
+  "address": "Cra. 43 #31 sur - 32, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.176135,
+  "lng": -75.5851702,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 17:00–22:00",
+    "jueves: 17:00–22:00",
+    "viernes: 17:00–1:30",
+    "sábado: 17:00–1:30",
+    "domingo: 17:00–21:00"
+  ],
+  "review_count": 5
+}

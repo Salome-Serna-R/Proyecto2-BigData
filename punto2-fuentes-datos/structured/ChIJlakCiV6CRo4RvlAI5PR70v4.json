@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJlakCiV6CRo4RvlAI5PR70v4",
+  "name": "EL ALMUERZO",
+  "address": "Mall La Frontera Local 220, El Poblado #18 Sur-174, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado #18 Sur-174",
+  "lat": 6.1839001,
+  "lng": -75.57903139999999,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 8:00–16:00",
+    "martes: 8:00–16:00",
+    "miércoles: 8:00–16:00",
+    "jueves: 8:00–16:00",
+    "viernes: 8:00–16:00",
+    "sábado: 8:00–16:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJQcHvXSooRI4RbLGI9Dk2occ",
+  "name": "restaurante aguacate",
+  "address": "Cl. 7 #45-39, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2085646,
+  "lng": -75.5709158,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–23:00",
+    "martes: 12:00–23:00",
+    "miércoles: 12:00–23:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–2:00",
+    "sábado: 12:00–2:00",
+    "domingo: 10:00–22:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJMa1lYCApRI4ROuKY-Yfgt-c",
+  "name": "Así o más (Santa María de los Ángeles)",
+  "address": "Cra. 43A #17 sur 35, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1874841,
+  "lng": -75.5782902,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 7:00–21:30",
+    "martes: 7:00–21:30",
+    "miércoles: 7:00–21:30",
+    "jueves: 7:00–21:30",
+    "viernes: 7:00–23:00",
+    "sábado: 7:00–23:00",
+    "domingo: 7:00–21:30"
+  ],
+  "review_count": 5
+}

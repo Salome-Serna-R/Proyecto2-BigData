@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJNSGE7GiDRo4Rc54PzwqWF4M",
+  "name": "Libertad Café Bistró",
+  "address": "Cl. 18C Sur #43a150 43a-24 a 43a, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1849053,
+  "lng": -75.5794042,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 9:00–19:00",
+    "martes: 9:00–19:00",
+    "miércoles: 9:00–19:00",
+    "jueves: 9:00–19:00",
+    "viernes: 9:00–19:00",
+    "sábado: 9:00–17:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

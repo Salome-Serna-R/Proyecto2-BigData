@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJgQE-YaeDRo4RzW0PcajrU0Q",
+  "name": "Casa Museo Débora Arango Pérez Casablanca",
+  "address": "Cra. 43 #32a Sur-73, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.173989199999999,
+  "lng": -75.58584809999999,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "museum"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 14:00–17:00",
+    "miércoles: Cerrado",
+    "jueves: 14:00–17:00",
+    "viernes: Cerrado",
+    "sábado: Cerrado",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

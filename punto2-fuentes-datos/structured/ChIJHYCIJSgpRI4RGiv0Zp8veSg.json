@@ -1,0 +1,26 @@
+{
+  "place_id": "ChIJHYCIJSgpRI4RGiv0Zp8veSg",
+  "name": "Amasijo Repostería",
+  "address": "Cra. 47A #5-52, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2077607,
+  "lng": -75.576043,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–17:00",
+    "martes: 8:00–17:00",
+    "miércoles: 8:00–17:00",
+    "jueves: 8:00–17:00",
+    "viernes: 8:00–17:00",
+    "sábado: Cerrado",
+    "domingo: Cerrado"
+  ],
+  "review_count": 2
+}

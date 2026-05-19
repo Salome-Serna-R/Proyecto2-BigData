@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJbcGLjeuDRo4RFD_X8JmC_kY",
+  "name": "Comida Rápidas la aguacatala",
+  "address": "https://goo.gl/maps/F8xmMgFepwUaV4NS7 https://goo.gl/maps/F8xmMgFepwUaV4NS7, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1946992,
+  "lng": -75.5806741,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:30–23:00",
+    "martes: 12:30–23:00",
+    "miércoles: 12:30–23:00",
+    "jueves: 12:30–23:00",
+    "viernes: 12:30–23:00",
+    "sábado: 12:30–23:00",
+    "domingo: 12:30–23:00"
+  ],
+  "review_count": 2
+}

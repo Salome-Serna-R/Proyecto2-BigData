@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJ98fiiF6CRo4RIWbJjhz8jEY",
+  "name": "De Lolita La Frontera Mall",
+  "address": "N° 18 174 Bloque, Cra. 43a #11a Sur21, Colinas del Sur, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 43a #11a Sur21",
+  "lat": 6.1839425,
+  "lng": -75.5789405,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 6:30–20:30",
+    "martes: 6:30–20:30",
+    "miércoles: 6:30–20:30",
+    "jueves: 6:30–20:30",
+    "viernes: 6:30–20:30",
+    "sábado: 6:30–20:30",
+    "domingo: 7:00–15:00"
+  ],
+  "review_count": 5
+}

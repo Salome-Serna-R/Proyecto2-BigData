@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJIfPG1u-CRo4Rc_G__fx-9h0",
+  "name": "Tienda Kr21a",
+  "address": "Cra. 21a #69, Villa Novoa, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Villa Novoa",
+  "lat": 6.178189,
+  "lng": -75.562299,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–20:30"
+  ],
+  "review_count": 2
+}

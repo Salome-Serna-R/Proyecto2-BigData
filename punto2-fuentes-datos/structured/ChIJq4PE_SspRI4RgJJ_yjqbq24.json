@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJq4PE_SspRI4RgJJ_yjqbq24",
+  "name": "Hi, I'm SCI Club - Discoteca Medellín",
+  "address": "Cl 10A #34-11, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.208907,
+  "lng": -75.565188,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 21:00–4:00",
+    "viernes: 21:00–4:00",
+    "sábado: Cerrado",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

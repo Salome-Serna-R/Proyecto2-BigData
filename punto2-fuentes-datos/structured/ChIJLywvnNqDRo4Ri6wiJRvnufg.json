@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJLywvnNqDRo4Ri6wiJRvnufg",
+  "name": "La Cordura Restaurante",
+  "address": "Cl. 15 Sur #48-34, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1928207,
+  "lng": -75.5805112,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 8:00–15:00",
+    "martes: 8:00–15:00",
+    "miércoles: 8:00–15:00",
+    "jueves: 8:00–15:00",
+    "viernes: 8:00–15:00",
+    "sábado: 8:00–15:00",
+    "domingo: 8:00–15:00"
+  ],
+  "review_count": 5
+}

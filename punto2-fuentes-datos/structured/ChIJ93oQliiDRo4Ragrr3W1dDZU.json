@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ93oQliiDRo4Ragrr3W1dDZU",
+  "name": "THREE VILLA GRANDE",
+  "address": "Cra. 43A #25 sur 59 LOCAL 114, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.181495099999999,
+  "lng": -75.5823683,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 15:00–24:00",
+    "martes: 15:00–24:00",
+    "miércoles: 15:00–24:00",
+    "jueves: 15:00–24:00",
+    "viernes: 15:00–2:00",
+    "sábado: 15:00–2:00",
+    "domingo: 15:00–24:00"
+  ],
+  "review_count": 5
+}

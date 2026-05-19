@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJscefoPiDRo4RJ79Id6MXb08",
+  "name": "Rooftop Del Sol - 23 Hotel",
+  "address": "Cra. 34 #5g 62, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2052345,
+  "lng": -75.5645241,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 14:30–21:00",
+    "miércoles: 14:30–21:00",
+    "jueves: 14:30–21:00",
+    "viernes: 14:30–23:00",
+    "sábado: 14:30–23:00",
+    "domingo: 14:30–21:00"
+  ],
+  "review_count": 5
+}

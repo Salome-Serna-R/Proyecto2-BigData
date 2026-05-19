@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJM1ANV3iCRo4RqAX43UvflxM",
+  "name": "Brosty Apolo",
+  "address": "Cl. 2 Sur #50f-57, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2056017,
+  "lng": -75.58321149999999,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 9:00–19:00",
+    "martes: 9:00–19:00",
+    "miércoles: 9:00–19:00",
+    "jueves: 9:00–19:00",
+    "viernes: 9:00–19:00",
+    "sábado: 9:00–19:00",
+    "domingo: 9:00–16:00"
+  ],
+  "review_count": 4
+}

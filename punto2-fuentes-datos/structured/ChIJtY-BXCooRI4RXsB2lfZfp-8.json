@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJtY-BXCooRI4RXsB2lfZfp-8",
+  "name": "Discoteca Morena Crossover",
+  "address": "Cra. 38 #8-54, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.207801099999999,
+  "lng": -75.5676472,
+  "rating": 3.7,
+  "price_level": 2,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: 12:00–15:30",
+    "martes: 12:00–15:30",
+    "miércoles: 12:00–15:30",
+    "jueves: 12:00–15:30",
+    "viernes: 12:00–15:30",
+    "sábado: 12:00–16:00",
+    "domingo: 12:00–16:00"
+  ],
+  "review_count": 5
+}

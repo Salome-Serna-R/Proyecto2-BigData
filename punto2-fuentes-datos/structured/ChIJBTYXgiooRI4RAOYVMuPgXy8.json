@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJBTYXgiooRI4RAOYVMuPgXy8",
+  "name": "Starbucks One Plaza",
+  "address": "Cra. 43A #5 A 113, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2072921,
+  "lng": -75.57183979999999,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 6:30–19:30",
+    "martes: 6:30–19:30",
+    "miércoles: 6:30–19:30",
+    "jueves: 6:30–19:30",
+    "viernes: 6:30–19:30",
+    "sábado: 9:00–18:00",
+    "domingo: 8:30–19:30"
+  ],
+  "review_count": 5
+}

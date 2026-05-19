@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJj3W03rMpRI4RaR2zyy8Lvfc",
+  "name": "Bellaco Provenza",
+  "address": "Cl. 8a #35-40, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2077003,
+  "lng": -75.5664508,
+  "rating": 3.5,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 21:00–4:00",
+    "jueves: 21:00–4:00",
+    "viernes: 21:00–4:00",
+    "sábado: 21:00–4:00",
+    "domingo: 21:00–4:00"
+  ],
+  "review_count": 5
+}

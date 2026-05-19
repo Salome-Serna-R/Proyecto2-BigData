@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJObQhRACDRo4RV8joZ_ucvrE",
+  "name": "Sushi market Amsterdam",
+  "address": "Amsterdam Plaza Carrera 25, Tv. Superior #4-165 Local: 112, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Tv. Superior #4-165 Local: 112",
+  "lat": 6.201765399999999,
+  "lng": -75.5566887,
+  "rating": 3.8,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 3
+}

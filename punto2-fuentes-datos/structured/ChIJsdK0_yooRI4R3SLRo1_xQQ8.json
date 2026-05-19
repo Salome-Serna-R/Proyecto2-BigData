@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJsdK0_yooRI4R3SLRo1_xQQ8",
+  "name": "Latinería",
+  "address": "Calle 9 #43a 31 Multicentro Aliadas Local 19, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.209962,
+  "lng": -75.5713439,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 16:00–4:00",
+    "martes: 16:00–4:00",
+    "miércoles: 16:00–4:00",
+    "jueves: 16:00–4:00",
+    "viernes: 16:00–4:00",
+    "sábado: 16:00–4:00",
+    "domingo: 16:00–4:00"
+  ],
+  "review_count": 5
+}

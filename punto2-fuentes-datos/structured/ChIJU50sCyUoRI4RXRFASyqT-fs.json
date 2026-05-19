@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJU50sCyUoRI4RXRFASyqT-fs",
+  "name": "San Carbón",
+  "address": "Calle 14 # 30 - 10, Av. Las Palmas # 30 - 10, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Av. Las Palmas # 30 - 10",
+  "lat": 6.214997299999999,
+  "lng": -75.561098,
+  "rating": 4.6,
+  "price_level": 3,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–23:00",
+    "martes: 12:00–23:00",
+    "miércoles: 12:00–23:00",
+    "jueves: 12:00–23:00",
+    "viernes: 12:00–23:30",
+    "sábado: 12:00–23:30",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

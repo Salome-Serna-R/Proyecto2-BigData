@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJoWVNemOCRo4RLBWmVOHGN7s",
+  "name": "Social Club Academia",
+  "address": "Calle 12 sur #48-01 Rotonda Interior Local 102, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1949944,
+  "lng": -75.5796297,
+  "rating": 4.7,
+  "price_level": 2,
+  "types": [
+    "night_club",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 18:00–22:00",
+    "martes: 18:00–22:00",
+    "miércoles: 18:00–22:00",
+    "jueves: 18:00–2:00",
+    "viernes: 18:00–2:00",
+    "sábado: 18:00–2:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

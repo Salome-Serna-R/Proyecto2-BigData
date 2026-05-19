@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJR7hGsTYpRI4RklXPAEQgGhI",
+  "name": "SIMAH RESTAURANTE",
+  "address": "CARRERA 9 NO, Av. Las Palmas #16 A SUR - 42 INT 102, Casaloma, Medellín, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Av. Las Palmas #16 A SUR - 42 INT 102",
+  "lat": 6.183834399999999,
+  "lng": -75.5450659,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–15:30, 17:30–22:00",
+    "martes: 12:00–15:30, 17:30–22:00",
+    "miércoles: 12:00–15:30, 17:30–22:00",
+    "jueves: 12:00–15:30, 17:30–23:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

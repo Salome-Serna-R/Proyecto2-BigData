@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJtX6yCzWDRo4RcjS6OcVJbqE",
+  "name": "Rooca Urban",
+  "address": "DIAGONAL 31 D, Tv. 32 Sur #39, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Tv. 32 Sur #39",
+  "lat": 6.1763232,
+  "lng": -75.5810509,
+  "rating": 4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

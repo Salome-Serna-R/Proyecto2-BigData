@@ -1,0 +1,26 @@
+{
+  "place_id": "ChIJT2MahoeCRo4R2SDRi_WAVx8",
+  "name": "Café Le Gris",
+  "address": "Av. El Poblado #6S-15 Local 144, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1990379,
+  "lng": -75.574826,
+  "rating": 4.7,
+  "price_level": 3,
+  "types": [
+    "bar",
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 11:30–22:00",
+    "martes: 11:30–22:00",
+    "miércoles: 11:30–22:00",
+    "jueves: 11:30–22:30",
+    "viernes: 11:30–22:30",
+    "sábado: 11:30–22:00",
+    "domingo: 11:30–17:00"
+  ],
+  "review_count": 5
+}

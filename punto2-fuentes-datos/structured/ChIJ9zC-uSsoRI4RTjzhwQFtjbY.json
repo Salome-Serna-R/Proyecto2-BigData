@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ9zC-uSsoRI4RTjzhwQFtjbY",
+  "name": "Lord Dogs",
+  "address": "Cl 10 #43 16, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.210539700000001,
+  "lng": -75.5701406,
+  "rating": 3.7,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–24:00",
+    "martes: 11:00–24:00",
+    "miércoles: 11:00–24:00",
+    "jueves: 11:00–24:00",
+    "viernes: 11:00–5:00",
+    "sábado: 11:00–5:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

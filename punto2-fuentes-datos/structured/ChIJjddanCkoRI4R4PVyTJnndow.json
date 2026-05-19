@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJjddanCkoRI4R4PVyTJnndow",
+  "name": "Baren - Musica electronica",
+  "address": "Cra. 38 #1013, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2096522,
+  "lng": -75.5674635,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 18:00–4:00",
+    "miércoles: 18:00–4:00",
+    "jueves: 18:00–4:00",
+    "viernes: 18:00–4:00",
+    "sábado: 18:00–4:00",
+    "domingo: 18:00–4:00"
+  ],
+  "review_count": 5
+}

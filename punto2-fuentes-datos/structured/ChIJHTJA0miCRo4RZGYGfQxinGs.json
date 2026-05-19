@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJHTJA0miCRo4RZGYGfQxinGs",
+  "name": "La Esquina de la UVA",
+  "address": "Cl. 86 #46A-04, San Fernando, Itagüi, Antioquia, Colombia",
+  "neighborhood": "San Fernando",
+  "lat": 6.191969299999999,
+  "lng": -75.5880549,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "liquor_store",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:30–22:00",
+    "martes: 7:30–22:00",
+    "miércoles: 7:30–22:00",
+    "jueves: 7:30–22:00",
+    "viernes: 7:30–22:00",
+    "sábado: 8:00–22:30",
+    "domingo: 10:00–17:00"
+  ],
+  "review_count": 3
+}

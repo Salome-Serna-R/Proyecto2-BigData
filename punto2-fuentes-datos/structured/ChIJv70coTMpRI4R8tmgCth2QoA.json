@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJv70coTMpRI4R8tmgCth2QoA",
+  "name": "Baru Baru Islan",
+  "address": "Cra. 37a #8a-60, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2083935,
+  "lng": -75.5671505,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: 20:00–4:00",
+    "martes: 20:00–4:00",
+    "miércoles: 20:00–4:00",
+    "jueves: 20:00–4:00",
+    "viernes: 20:00–4:00",
+    "sábado: 20:00–4:00",
+    "domingo: 20:00–4:00"
+  ],
+  "review_count": 5
+}

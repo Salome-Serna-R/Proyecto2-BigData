@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJMZu3Ww6DRo4RdOugw2HeoCc",
+  "name": "JACK HOUSE BBQ ANTRO CULTURAL",
+  "address": "Cl. 31A Sur #43a 70, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1764357,
+  "lng": -75.5860871,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "meal_delivery",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 17:00–23:45",
+    "martes: Cerrado",
+    "miércoles: 14:00–23:45",
+    "jueves: 14:00–24:00",
+    "viernes: 14:00–0:45",
+    "sábado: 14:00–0:45",
+    "domingo: 2:00–23:45"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJfZTcYwCDRo4RvU5ntxaXhXA",
+  "name": "Berē Café",
+  "address": "Carrera 38 # 19 sur 38 050022, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1826168,
+  "lng": -75.5733418,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–17:00",
+    "martes: 8:00–17:00",
+    "miércoles: 8:00–17:00",
+    "jueves: 8:00–17:00",
+    "viernes: 8:00–17:00",
+    "sábado: 8:00–17:00",
+    "domingo: 8:00–17:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,16 @@
+{
+  "place_id": "ChIJrfSKRPiDRo4RlU9bt4pzfk8",
+  "name": "La Bodeguita del Mundo",
+  "address": "Cra. 43A #17 sur 4, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.186563899999999,
+  "lng": -75.5776901,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [],
+  "review_count": 5
+}

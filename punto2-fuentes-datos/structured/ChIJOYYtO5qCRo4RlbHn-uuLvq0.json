@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJOYYtO5qCRo4RlbHn-uuLvq0",
+  "name": "Sushi togo and enjoy",
+  "address": "Calle 3 local 112, Cl. 3 #3-45, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl. 3 #3-45",
+  "lat": 6.198449099999999,
+  "lng": -75.55739419999999,
+  "rating": 3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–23:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 2
+}

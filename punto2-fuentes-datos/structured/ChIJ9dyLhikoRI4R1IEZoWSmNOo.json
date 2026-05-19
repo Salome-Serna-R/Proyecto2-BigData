@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJ9dyLhikoRI4R1IEZoWSmNOo",
+  "name": "Bar Restaurante Divino Cielo",
+  "address": "Cra. 40 #9 A - 4, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2092572,
+  "lng": -75.56808889999999,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 16:00–24:00",
+    "martes: 16:00–24:00",
+    "miércoles: 16:00–24:00",
+    "jueves: 16:00–2:00",
+    "viernes: 16:00–2:00",
+    "sábado: 16:00–2:00",
+    "domingo: 16:00–24:00"
+  ],
+  "review_count": 5
+}

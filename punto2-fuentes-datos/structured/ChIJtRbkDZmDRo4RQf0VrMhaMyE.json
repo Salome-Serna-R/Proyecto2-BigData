@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJtRbkDZmDRo4RQf0VrMhaMyE",
+  "name": "Pastelicosas",
+  "address": "Cra. 10 #16a Sur-180, Casaloma, Medellín, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Casaloma",
+  "lat": 6.181655,
+  "lng": -75.551069,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 2
+}

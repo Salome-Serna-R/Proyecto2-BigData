@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJzenMLNcpRI4RzpNuZb8EMkU",
+  "name": "Fonda el Palmar",
+  "address": "Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.212779299999999,
+  "lng": -75.5834284,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 14:00–2:00",
+    "martes: 14:00–2:00",
+    "miércoles: 14:00–2:00",
+    "jueves: 14:00–2:00",
+    "viernes: 14:00–2:00",
+    "sábado: 14:00–2:00",
+    "domingo: 14:00–2:00"
+  ],
+  "review_count": 5
+}

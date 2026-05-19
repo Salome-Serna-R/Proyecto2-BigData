@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJZw209SkoRI4RQMWUNcp-pIU",
+  "name": "Donde Chepe DOS",
+  "address": "Cra. 39 #8-6 a 8-124, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.208183099999999,
+  "lng": -75.56834669999999,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 20:00–4:00",
+    "martes: 20:00–4:00",
+    "miércoles: 20:00–4:00",
+    "jueves: 20:00–4:00",
+    "viernes: 20:00–4:00",
+    "sábado: 20:00–4:00",
+    "domingo: 20:00–4:00"
+  ],
+  "review_count": 5
+}

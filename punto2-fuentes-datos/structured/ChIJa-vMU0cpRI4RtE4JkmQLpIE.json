@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJa-vMU0cpRI4RtE4JkmQLpIE",
+  "name": "Criminal Taqueria El Tesoro",
+  "address": "Centro Comercial El Tesoro, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1961277,
+  "lng": -75.56037669999999,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–20:00"
+  ],
+  "review_count": 5
+}

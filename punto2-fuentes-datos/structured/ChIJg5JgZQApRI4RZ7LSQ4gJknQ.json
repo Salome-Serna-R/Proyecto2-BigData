@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJg5JgZQApRI4RZ7LSQ4gJknQ",
+  "name": "Café Masa El Poblado | Café",
+  "address": "Cra. 34 #7 - 143, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.207284599999999,
+  "lng": -75.5651892,
+  "rating": 3.7,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 9:00–20:00",
+    "martes: 9:00–20:00",
+    "miércoles: 9:00–20:00",
+    "jueves: 9:00–20:00",
+    "viernes: 9:00–20:00",
+    "sábado: 9:00–20:00",
+    "domingo: 9:00–19:00"
+  ],
+  "review_count": 5
+}

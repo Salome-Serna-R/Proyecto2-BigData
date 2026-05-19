@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJwcJRxVAoRI4RuBXFHh-sp1k",
+  "name": "Purple Club",
+  "address": "Cl 10A #36-29, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.209672599999999,
+  "lng": -75.56612659999999,
+  "rating": 2,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: Cerrado",
+    "viernes: 22:00–4:00",
+    "sábado: 22:00–4:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 2
+}

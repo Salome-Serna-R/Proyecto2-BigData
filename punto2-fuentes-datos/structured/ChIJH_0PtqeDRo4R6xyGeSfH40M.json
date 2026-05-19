@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJH_0PtqeDRo4R6xyGeSfH40M",
+  "name": "Chef Burger Mall Amsterdam Plaza - Artesanal",
+  "address": "Cra. 25 # 4 - 165, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2015552,
+  "lng": -75.5565931,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "bar",
+    "meal_takeaway",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–23:00"
+  ],
+  "review_count": 5
+}

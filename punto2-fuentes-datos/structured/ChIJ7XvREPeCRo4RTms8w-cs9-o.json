@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ7XvREPeCRo4RTms8w-cs9-o",
+  "name": "Autoservicio El Monarca y Fiambres",
+  "address": "Cl. 23 Sur #68, La Abadia, Envigado, Antioquia, Colombia",
+  "neighborhood": "La Abadia",
+  "lat": 6.178184,
+  "lng": -75.5702889,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 8:00–20:00",
+    "martes: 8:00–20:00",
+    "miércoles: 8:00–20:00",
+    "jueves: 8:00–20:00",
+    "viernes: 8:00–20:00",
+    "sábado: 8:00–20:00",
+    "domingo: 8:00–15:00"
+  ],
+  "review_count": 5
+}

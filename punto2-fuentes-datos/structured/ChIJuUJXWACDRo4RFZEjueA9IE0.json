@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJuUJXWACDRo4RFZEjueA9IE0",
+  "name": "CLANDESTINO BAR",
+  "address": "Cl. 2 Sur #50e-10 INT 101, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2052263,
+  "lng": -75.5822663,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 16:00–24:00",
+    "jueves: 16:00–24:00",
+    "viernes: 16:00–2:00",
+    "sábado: 16:00–2:00",
+    "domingo: 16:00–2:00"
+  ],
+  "review_count": 2
+}

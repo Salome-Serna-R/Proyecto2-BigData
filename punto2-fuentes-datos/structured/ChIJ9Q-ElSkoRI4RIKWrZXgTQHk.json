@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJ9Q-ElSkoRI4RIKWrZXgTQHk",
+  "name": "Porto",
+  "address": "Cra. 37, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2085837,
+  "lng": -75.56699569999999,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ6Zj-Q9kpRI4RFsc8rsQOsbg",
+  "name": "Etro Rooftop",
+  "address": "Cra. 25 #10-51, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2086654,
+  "lng": -75.55509839999999,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

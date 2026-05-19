@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJIyvFSkODRo4RM5B4HoVm2pY",
+  "name": "Artesano by Crepes & Waffles",
+  "address": "Cra. 25 #4-165, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2020784,
+  "lng": -75.55643049999999,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–20:30",
+    "martes: 12:00–20:30",
+    "miércoles: 12:00–20:30",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–21:00",
+    "sábado: 9:00–21:00",
+    "domingo: 8:30–20:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJQw3-rC-DRo4RDpri0PjfJtA",
+  "name": "A LA FIJA",
+  "address": "Cra. 34 #7-63, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.206582,
+  "lng": -75.5650285,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 16:00–24:00",
+    "jueves: 16:00–24:00",
+    "viernes: 16:00–2:00",
+    "sábado: 16:00–2:00",
+    "domingo: 2:30–10:00"
+  ],
+  "review_count": 2
+}

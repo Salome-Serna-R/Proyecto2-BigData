@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJr6oOw1aDRo4RtPfPWMAjCzE",
+  "name": "TIPICA CAFE Milla de Oro",
+  "address": "Cl. 5 Sur #42-17, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1991438,
+  "lng": -75.5727,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:30–20:00",
+    "martes: 7:30–20:00",
+    "miércoles: 7:30–20:00",
+    "jueves: 7:30–20:00",
+    "viernes: 7:30–20:00",
+    "sábado: 7:30–20:00",
+    "domingo: 9:00–17:30"
+  ],
+  "review_count": 5
+}

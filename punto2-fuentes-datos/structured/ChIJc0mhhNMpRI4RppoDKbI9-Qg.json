@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJc0mhhNMpRI4RppoDKbI9-Qg",
+  "name": "Hijo de Tigre",
+  "address": "Cra. 25 #12 Sur-59, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1860557,
+  "lng": -75.56212289999999,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

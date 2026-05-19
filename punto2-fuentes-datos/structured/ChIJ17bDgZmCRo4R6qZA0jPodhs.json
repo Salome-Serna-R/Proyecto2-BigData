@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJ17bDgZmCRo4R6qZA0jPodhs",
+  "name": "Starbucks Tesoro Medellín",
+  "address": "Cra. 25a #1A SUR - 45 LOCAL 1001, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1974022,
+  "lng": -75.55810210000001,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:00–21:00",
+    "martes: 7:00–21:00",
+    "miércoles: 7:00–21:00",
+    "jueves: 7:00–21:00",
+    "viernes: 7:00–21:00",
+    "sábado: 8:00–21:00",
+    "domingo: 8:00–21:00"
+  ],
+  "review_count": 5
+}

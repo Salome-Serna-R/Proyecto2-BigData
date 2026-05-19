@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJm5ka0tkpRI4R3zIDtFU66bw",
+  "name": "Manzanares",
+  "address": "Cra. 52 #2C-3, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2106638,
+  "lng": -75.58648029999999,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "park"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

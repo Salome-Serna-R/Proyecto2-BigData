@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ3YO2e5qCRo4RjCRRmIPDNdk",
+  "name": "Frisby C.C: El Tesoro",
+  "address": "CRA 25A N° 1ASUR -45 LC 1220, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1975538,
+  "lng": -75.5592504,
+  "rating": 4.1,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–21:00",
+    "martes: 11:30–21:00",
+    "miércoles: 11:30–21:00",
+    "jueves: 11:30–21:00",
+    "viernes: 11:30–21:00",
+    "sábado: 11:30–21:00",
+    "domingo: 11:30–21:00"
+  ],
+  "review_count": 5
+}

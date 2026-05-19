@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ01N_mJCCRo4RyagqbQ6tYZA",
+  "name": "CUZCO LA SUPERIOR",
+  "address": "Edificio Platinum, Cra. 25 #1 a Sur 155 local 9901, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 25 #1 a Sur 155 local 9901",
+  "lat": 6.1962886,
+  "lng": -75.5583122,
+  "rating": 4.7,
+  "price_level": 3,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–14:30, 19:00–21:30",
+    "martes: 12:00–14:30, 19:00–21:30",
+    "miércoles: 12:00–14:30, 19:00–21:30",
+    "jueves: 12:00–14:30, 19:00–21:30",
+    "viernes: 12:00–14:30, 19:00–23:00",
+    "sábado: 12:00–16:00, 19:00–23:00",
+    "domingo: 12:00–16:30"
+  ],
+  "review_count": 5
+}

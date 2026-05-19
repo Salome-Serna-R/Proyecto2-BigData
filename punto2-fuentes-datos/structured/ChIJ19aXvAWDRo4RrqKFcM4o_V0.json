@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ19aXvAWDRo4RrqKFcM4o_V0",
+  "name": "La Llorona Taquería",
+  "address": "Cl. 17A Sur #44-46, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.187578100000001,
+  "lng": -75.5797743,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 17:30–21:30",
+    "miércoles: 17:30–21:30",
+    "jueves: 17:30–21:30",
+    "viernes: 17:00–22:00",
+    "sábado: 17:00–21:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

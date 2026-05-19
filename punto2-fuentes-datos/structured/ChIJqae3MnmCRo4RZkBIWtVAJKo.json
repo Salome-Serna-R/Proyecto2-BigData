@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJqae3MnmCRo4RZkBIWtVAJKo",
+  "name": "Skatepark Del Puente De La 4 Sur",
+  "address": "a 50-92, Cl. 2 Sur #5014, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl. 2 Sur #5014",
+  "lat": 6.204454999999999,
+  "lng": -75.5799708,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "park"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

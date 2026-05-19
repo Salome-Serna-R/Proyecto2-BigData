@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJtz4QCq2DRo4RPTvCHrnPe4Y",
+  "name": "Subway",
+  "address": "Cl. 7 Sur #50, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1997094,
+  "lng": -75.5792681,
+  "rating": 5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 7:00–20:00",
+    "martes: 7:00–20:00",
+    "miércoles: 7:00–20:00",
+    "jueves: 7:00–20:00",
+    "viernes: 7:00–20:00",
+    "sábado: 7:00–15:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 0
+}

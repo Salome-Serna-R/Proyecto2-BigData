@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJS_n-Lu6CRo4Rm43uxvIc0gM",
+  "name": "Donde Memo",
+  "address": "a 20-217, Cl 20ASur #20-189, Villa Novoa, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl 20ASur #20-189",
+  "lat": 6.1790729,
+  "lng": -75.5620709,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 17:00–24:00",
+    "martes: 17:00–24:00",
+    "miércoles: 17:00–24:00",
+    "jueves: 17:00–24:00",
+    "viernes: 17:00–24:00",
+    "sábado: 17:00–24:00",
+    "domingo: 17:00–24:00"
+  ],
+  "review_count": 5
+}

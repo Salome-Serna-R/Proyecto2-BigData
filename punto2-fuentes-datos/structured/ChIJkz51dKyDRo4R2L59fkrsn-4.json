@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJkz51dKyDRo4R2L59fkrsn-4",
+  "name": "Taco Factory",
+  "address": "Cra. 48 #a 7 77, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.199474599999999,
+  "lng": -75.5783995,
+  "rating": 3.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 5
+}

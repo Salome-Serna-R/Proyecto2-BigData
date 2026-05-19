@@ -1,0 +1,16 @@
+{
+  "place_id": "ChIJ65yE0CSDRo4Rs48aFoYtDPA",
+  "name": "SOLYMAR GOURMET",
+  "address": "Cra. 50F #3 Sur-28, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.204248799999999,
+  "lng": -75.5830529,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [],
+  "review_count": 4
+}

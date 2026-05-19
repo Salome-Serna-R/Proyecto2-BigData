@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJayaUsFGDRo4Rev4pRSc6TQ4",
+  "name": "Altoque | Dortance",
+  "address": "Cra. 25 #69, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.196886999999999,
+  "lng": -75.5578551,
+  "rating": 2.5,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 4
+}

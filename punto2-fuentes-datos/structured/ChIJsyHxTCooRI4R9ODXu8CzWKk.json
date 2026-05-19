@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJsyHxTCooRI4R9ODXu8CzWKk",
+  "name": "RAPIDOGS",
+  "address": "Cl. 9 #42-36, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2096614,
+  "lng": -75.57010009999999,
+  "rating": 3.4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

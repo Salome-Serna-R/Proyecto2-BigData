@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJd5CbkMaDRo4RqZttWrP0OXs",
+  "name": "Jaque Mate Coffee",
+  "address": "Av. El Poblado #43 #6 S-15 A, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1990592,
+  "lng": -75.5749178,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:30–20:30",
+    "martes: 8:30–20:30",
+    "miércoles: 8:30–20:30",
+    "jueves: 8:30–20:30",
+    "viernes: 8:30–20:30",
+    "sábado: 8:30–20:30",
+    "domingo: 8:30–20:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJqwzpOHCCRo4RRdhQ7-zvtrQ",
+  "name": "El Laboratorio de Café - The Coffee Lab",
+  "address": "Cl. 10B Sur #51 - 52, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.198506399999999,
+  "lng": -75.587727,
+  "rating": 4.7,
+  "price_level": 2,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 8:00–17:30",
+    "martes: 8:00–17:30",
+    "miércoles: 8:00–17:30",
+    "jueves: 8:00–17:30",
+    "viernes: 8:00–17:30",
+    "sábado: 8:00–13:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

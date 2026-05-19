@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJeXm3pikoRI4RQRkGnTuOPGs",
+  "name": "Bar Chiquita",
+  "address": "Cra. 37 #8a-88, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2083485,
+  "lng": -75.5668349,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 18:00–2:00",
+    "miércoles: 18:00–2:00",
+    "jueves: 18:00–2:00",
+    "viernes: 19:00–3:00",
+    "sábado: 19:00–3:00",
+    "domingo: 18:00–2:00"
+  ],
+  "review_count": 5
+}

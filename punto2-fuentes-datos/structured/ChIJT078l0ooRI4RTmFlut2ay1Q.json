@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJT078l0ooRI4RTmFlut2ay1Q",
+  "name": "Cambalache Parrilla Argentina",
+  "address": "Cra. 45 #6-55, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2084962,
+  "lng": -75.5747146,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–17:00"
+  ],
+  "review_count": 5
+}

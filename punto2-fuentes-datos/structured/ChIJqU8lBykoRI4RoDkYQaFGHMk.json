@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJqU8lBykoRI4RoDkYQaFGHMk",
+  "name": "Mundo arte galería",
+  "address": "Cl. 14 #40 a - 269, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2139126,
+  "lng": -75.569228,
+  "rating": 4,
+  "price_level": null,
+  "types": [
+    "art_gallery"
+  ],
+  "hours": [
+    "lunes: 10:30–18:00",
+    "martes: 10:30–18:00",
+    "miércoles: 10:30–18:00",
+    "jueves: 10:30–18:00",
+    "viernes: 10:30–18:00",
+    "sábado: 10:30–15:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

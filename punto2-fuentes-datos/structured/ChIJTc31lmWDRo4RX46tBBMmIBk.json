@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJTc31lmWDRo4RX46tBBMmIBk",
+  "name": "Cannario rooftop",
+  "address": "Hotel blues living suites, Cra. 29c #1 A sur- 80 piso 5, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 29c #1 A sur- 80 piso 5",
+  "lat": 6.1985402,
+  "lng": -75.5619601,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–23:00",
+    "viernes: 12:00–1:00",
+    "sábado: 12:00–1:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

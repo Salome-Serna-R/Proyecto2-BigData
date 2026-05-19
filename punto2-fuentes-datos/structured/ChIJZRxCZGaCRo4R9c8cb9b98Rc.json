@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJZRxCZGaCRo4R9c8cb9b98Rc",
+  "name": "Fonda La Guandola",
+  "address": "Cra 42 #85B-121, San Fernando, Itagüi, Antioquia, Colombia",
+  "neighborhood": "San Fernando",
+  "lat": 6.1911771,
+  "lng": -75.5837045,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 21:00–6:00",
+    "viernes: 21:00–6:00",
+    "sábado: 21:00–6:00",
+    "domingo: 21:00–6:00"
+  ],
+  "review_count": 5
+}

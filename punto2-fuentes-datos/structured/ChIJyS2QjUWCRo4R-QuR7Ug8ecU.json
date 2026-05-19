@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJyS2QjUWCRo4R-QuR7Ug8ecU",
+  "name": "Sushi Market - Contenedores",
+  "address": "Cra. 48 # 26 SUR 87, Zona 1, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 1",
+  "lat": 6.1830905,
+  "lng": -75.586102,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

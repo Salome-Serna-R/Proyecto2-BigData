@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ99L2-nmCRo4RHJst3RML9bA",
+  "name": "Maru Rico",
+  "address": "Cra. 51, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2028068,
+  "lng": -75.5851328,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 8:00–17:00",
+    "martes: 8:00–17:00",
+    "miércoles: 8:00–17:00",
+    "jueves: 8:00–17:00",
+    "viernes: 8:00–17:00",
+    "sábado: 8:00–17:00",
+    "domingo: 8:30–17:00"
+  ],
+  "review_count": 5
+}

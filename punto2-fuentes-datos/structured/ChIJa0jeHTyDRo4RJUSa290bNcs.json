@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJa0jeHTyDRo4RJUSa290bNcs",
+  "name": "La Excusa",
+  "address": "Cra. 43A #9 sur 174, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1944181,
+  "lng": -75.57612089999999,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–22:00",
+    "martes: 11:00–22:00",
+    "miércoles: 11:00–22:00",
+    "jueves: 11:00–23:00",
+    "viernes: 11:00–23:30",
+    "sábado: 11:00–23:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

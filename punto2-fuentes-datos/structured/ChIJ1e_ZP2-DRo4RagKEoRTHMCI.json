@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJ1e_ZP2-DRo4RagKEoRTHMCI",
+  "name": "NATTIVO COCINA ELEMENTAL",
+  "address": "Calle 20 Sur #No. 38 - 195, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1818766,
+  "lng": -75.5754761,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "bar",
+    "meal_delivery",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 12:00–15:00, 18:00–22:00",
+    "miércoles: 12:00–15:00, 18:00–22:00",
+    "jueves: 12:00–15:00, 18:00–22:00",
+    "viernes: 12:00–15:00, 18:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–17:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,29 @@
+{
+  "place_id": "ChIJbarVCNMpRI4RnDWRMaBiVcM",
+  "name": "Centro Comercial Monterrey",
+  "address": "Cra. 48 #10-45, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2141932,
+  "lng": -75.57674659999999,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "clothing_store",
+    "electronics_store",
+    "home_goods_store",
+    "movie_theater",
+    "restaurant",
+    "shopping_mall",
+    "store"
+  ],
+  "hours": [
+    "lunes: 10:00–19:30",
+    "martes: 10:00–19:30",
+    "miércoles: 10:00–19:30",
+    "jueves: 10:00–19:30",
+    "viernes: 10:00–19:30",
+    "sábado: 10:00–19:30",
+    "domingo: 11:00–17:00"
+  ],
+  "review_count": 5
+}

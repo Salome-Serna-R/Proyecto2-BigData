@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJH417loKCRo4R3cTdcNNgJVw",
+  "name": "Ocio / Oci.mde",
+  "address": "Tv. 7A #30-224 casa 130, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.205534099999999,
+  "lng": -75.5617625,
+  "rating": 4.6,
+  "price_level": 3,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 12:00–21:30",
+    "miércoles: 12:00–21:30",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJq88p0BGDRo4RjIXNVrcZHRE",
+  "name": "Ilegal taqueria poblado solo domicilios",
+  "address": "Cl. 3b Sur #29c 24, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.196551299999999,
+  "lng": -75.5629557,
+  "rating": 2.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 16:00–24:00",
+    "martes: 16:00–24:00",
+    "miércoles: 16:00–24:00",
+    "jueves: 16:00–24:00",
+    "viernes: 15:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: 12:00–24:00"
+  ],
+  "review_count": 2
+}

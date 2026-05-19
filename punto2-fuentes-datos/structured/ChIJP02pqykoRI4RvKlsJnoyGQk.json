@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJP02pqykoRI4RvKlsJnoyGQk",
+  "name": "Kokoriko Poblado",
+  "address": "Cra. 36 # 10-62, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.209445800000001,
+  "lng": -75.5656319,
+  "rating": 4.1,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–21:00",
+    "martes: 11:00–21:00",
+    "miércoles: 11:00–21:00",
+    "jueves: 11:00–21:00",
+    "viernes: 11:00–22:00",
+    "sábado: 11:00–22:00",
+    "domingo: 11:00–21:00"
+  ],
+  "review_count": 5
+}

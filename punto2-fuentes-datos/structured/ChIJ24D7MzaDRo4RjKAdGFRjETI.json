@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ24D7MzaDRo4RjKAdGFRjETI",
+  "name": "Terra Maaru (café restaurante natural)",
+  "address": "Cra 48A #16 sur - 01 Primer piso, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.191607899999999,
+  "lng": -75.5810355,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–17:30",
+    "martes: 11:00–17:30",
+    "miércoles: 11:00–17:30",
+    "jueves: 11:00–17:30",
+    "viernes: 11:00–17:30",
+    "sábado: 9:00–17:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

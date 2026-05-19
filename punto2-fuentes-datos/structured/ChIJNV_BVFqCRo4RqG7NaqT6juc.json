@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJNV_BVFqCRo4RqG7NaqT6juc",
+  "name": "La Estación Express",
+  "address": "Tv 27A Sur #42B - 80, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1791049,
+  "lng": -75.58272769999999,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 16:00–22:30",
+    "martes: 16:00–22:30",
+    "miércoles: 16:00–22:30",
+    "jueves: 16:00–22:30",
+    "viernes: 16:00–22:30",
+    "sábado: 16:00–22:30",
+    "domingo: 16:00–22:30"
+  ],
+  "review_count": 5
+}

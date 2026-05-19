@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJMx5wFQCDRo4RmhL_D9pd274",
+  "name": "Bocaditos y al carbón",
+  "address": "Dg. 29 #28sur03, Villa Isa Tamarindo, Envigado, Antioquia, Colombia",
+  "neighborhood": "Villa Isa Tamarindo",
+  "lat": 6.1758142,
+  "lng": -75.5775689,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 17:00–23:30",
+    "miércoles: 17:00–23:30",
+    "jueves: 17:00–23:30",
+    "viernes: 17:00–23:30",
+    "sábado: 17:00–23:30",
+    "domingo: 17:00–23:30"
+  ],
+  "review_count": 5
+}

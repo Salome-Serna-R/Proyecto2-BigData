@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJsRE2JJ2CRo4R6pPcVYMTF0s",
+  "name": "Pizza Americana",
+  "address": "Carrera 30, Tv. 7A #381 local 107, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Tv. 7A #381 local 107",
+  "lat": 6.206563699999999,
+  "lng": -75.5599606,
+  "rating": 4.2,
+  "price_level": 1,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 5
+}

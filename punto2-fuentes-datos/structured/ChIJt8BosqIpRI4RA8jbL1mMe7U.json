@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJt8BosqIpRI4RA8jbL1mMe7U",
+  "name": "CAFÉ DRAGÓN",
+  "address": "Cl. 8 #43B-124, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.209858199999999,
+  "lng": -75.57264909999999,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "bar",
+    "cafe",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 8:00–22:00",
+    "miércoles: 8:00–22:00",
+    "jueves: 8:00–24:00",
+    "viernes: 8:00–24:00",
+    "sábado: 9:00–24:00",
+    "domingo: 9:00–22:00"
+  ],
+  "review_count": 5
+}

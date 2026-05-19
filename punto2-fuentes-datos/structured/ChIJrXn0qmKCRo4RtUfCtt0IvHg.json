@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJrXn0qmKCRo4RtUfCtt0IvHg",
+  "name": "De Lolita RESTO/ CAFE",
+  "address": "L 3301 CC SANTA FE, Av. El Poblado #7 SUR 170, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Av. El Poblado #7 SUR 170",
+  "lat": 6.195493099999999,
+  "lng": -75.57581619999999,
+  "rating": 3.8,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 7:00–21:00",
+    "martes: 7:00–21:00",
+    "miércoles: 7:00–21:00",
+    "jueves: 7:00–21:00",
+    "viernes: 7:00–21:00",
+    "sábado: 7:00–21:00",
+    "domingo: 10:30–20:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJVbFQXd6DRo4RTu4Sn5iW29c",
+  "name": "Los Compadres",
+  "address": "57, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.206582,
+  "lng": -75.56502499999999,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 17:00–4:00",
+    "jueves: 17:00–4:00",
+    "viernes: 17:00–4:00",
+    "sábado: 17:00–4:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

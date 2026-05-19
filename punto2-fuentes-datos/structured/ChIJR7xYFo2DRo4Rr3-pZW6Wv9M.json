@@ -1,0 +1,26 @@
+{
+  "place_id": "ChIJR7xYFo2DRo4Rr3-pZW6Wv9M",
+  "name": "TOSTAO' Centro Comercial El Tesoro",
+  "address": "CRA. 25A No. 1A SUR - 45 Locales 1539,1542,1543 Medellín Poblado, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "1542",
+  "lat": 6.196346999999999,
+  "lng": -75.56029,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "grocery_or_supermarket",
+    "store"
+  ],
+  "hours": [
+    "lunes: 10:00–19:00",
+    "martes: 10:00–19:00",
+    "miércoles: 10:00–19:00",
+    "jueves: 10:00–19:00",
+    "viernes: 10:00–19:00",
+    "sábado: 10:00–19:00",
+    "domingo: 11:00–16:00"
+  ],
+  "review_count": 5
+}

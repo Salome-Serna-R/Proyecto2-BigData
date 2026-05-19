@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJAcNm1s6DRo4RbICdzM3yFXg",
+  "name": "THE PIZZA MAN",
+  "address": "Calle 3 sur, Calle #50c-34, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Calle #50c-34",
+  "lat": 6.2039857,
+  "lng": -75.58121600000001,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "meal_delivery",
+    "meal_takeaway",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 10:00–2:00",
+    "martes: 10:00–2:00",
+    "miércoles: 10:00–2:00",
+    "jueves: 10:00–2:00",
+    "viernes: 10:00–2:00",
+    "sábado: 10:00–2:00",
+    "domingo: 10:00–2:00"
+  ],
+  "review_count": 5
+}

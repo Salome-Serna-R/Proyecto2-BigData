@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJaTabhpmCRo4R-G13E6bAI2s",
+  "name": "Sushi Market - El Tesoro",
+  "address": "Carrera 25A # 1A Sur – 45 Local: 3468 – Piso: 2C, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1976243,
+  "lng": -75.5588321,
+  "rating": 4.1,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

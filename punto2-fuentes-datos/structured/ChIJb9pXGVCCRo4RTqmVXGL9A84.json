@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJb9pXGVCCRo4RTqmVXGL9A84",
+  "name": "Parque de La Fecundidad",
+  "address": "Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Envigado",
+  "lat": 6.1756973,
+  "lng": -75.5854876,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "park"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

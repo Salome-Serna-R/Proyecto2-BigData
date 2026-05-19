@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJD-RL3a2DRo4Ro_q0ruR2tKg",
+  "name": "La Gracia al Parque",
+  "address": "Cra. 47B #17b sur 30, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.187869999999999,
+  "lng": -75.5806776,
+  "rating": 4.7,
+  "price_level": 2,
+  "types": [
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–21:00",
+    "martes: 8:00–21:00",
+    "miércoles: 8:00–21:00",
+    "jueves: 8:00–21:00",
+    "viernes: 8:00–22:00",
+    "sábado: 8:00–22:00",
+    "domingo: 9:00–21:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJScnOpmKCRo4R31pP-xQso7Q",
+  "name": "KFC",
+  "address": "Av. El Poblado #105-7, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1964207,
+  "lng": -75.5740016,
+  "rating": 3.8,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–21:00",
+    "martes: 11:00–21:00",
+    "miércoles: 11:00–21:00",
+    "jueves: 11:00–21:00",
+    "viernes: 11:00–21:00",
+    "sábado: 11:00–22:00",
+    "domingo: 11:00–21:00"
+  ],
+  "review_count": 5
+}

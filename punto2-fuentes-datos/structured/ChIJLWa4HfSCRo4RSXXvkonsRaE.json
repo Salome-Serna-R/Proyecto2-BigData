@@ -1,0 +1,28 @@
+{
+  "place_id": "ChIJLWa4HfSCRo4RSXXvkonsRaE",
+  "name": "Carulla Fresh Market San Lucas",
+  "address": "Cl. 20 Sur #27-124, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.181784899999999,
+  "lng": -75.56942599999999,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "grocery_or_supermarket",
+    "home_goods_store",
+    "liquor_store",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:00–21:00",
+    "martes: 7:00–21:00",
+    "miércoles: 7:00–21:00",
+    "jueves: 7:00–21:00",
+    "viernes: 7:00–21:00",
+    "sábado: 7:00–21:00",
+    "domingo: 8:00–20:00"
+  ],
+  "review_count": 5
+}

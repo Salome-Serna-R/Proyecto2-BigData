@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJY5g3HgApRI4RN3nj1Mo5QOg",
+  "name": "Gioacchino Santoro Ristorante Pizzeria",
+  "address": "Cra. 30 #9A-47, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2086184,
+  "lng": -75.559471,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

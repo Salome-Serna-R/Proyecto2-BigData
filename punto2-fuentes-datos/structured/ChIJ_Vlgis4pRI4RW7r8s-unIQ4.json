@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJ_Vlgis4pRI4RW7r8s-unIQ4",
+  "name": "Uppertrip",
+  "address": "Cra. 41 #9 - 73, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2099011,
+  "lng": -75.5689295,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "art_gallery",
+    "clothing_store",
+    "store"
+  ],
+  "hours": [
+    "lunes: 10:00–20:00",
+    "martes: 10:00–20:00",
+    "miércoles: 10:00–20:00",
+    "jueves: 10:00–20:00",
+    "viernes: 10:00–20:00",
+    "sábado: 10:00–20:00",
+    "domingo: 10:00–20:00"
+  ],
+  "review_count": 5
+}

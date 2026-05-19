@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJ7Yh6wikoRI4RIAdoL7v_B3M",
+  "name": "PARANA PARRILLA & BAR",
+  "address": "Cra. 37 #8A-33, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2086169,
+  "lng": -75.5669135,
+  "rating": 4,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–17:30"
+  ],
+  "review_count": 3
+}

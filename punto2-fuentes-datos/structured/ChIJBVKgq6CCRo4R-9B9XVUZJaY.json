@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJBVKgq6CCRo4R-9B9XVUZJaY",
+  "name": "Ricos Pandeyucas - Las Palmas",
+  "address": "Av. Las Palmas, Medellín, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.2063348,
+  "lng": -75.5455449,
+  "rating": 4.3,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–21:30",
+    "martes: 8:00–21:30",
+    "miércoles: 8:00–21:30",
+    "jueves: 8:00–21:30",
+    "viernes: 8:00–21:30",
+    "sábado: 8:00–21:30",
+    "domingo: 7:00–21:30"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJr0QgegCDRo4Rrvxts9qnTtU",
+  "name": "Cabra Andaluz",
+  "address": "9a Sur-35, Cra. 11, Medellín, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 11",
+  "lat": 6.1856981,
+  "lng": -75.5512438,
+  "rating": 4.8,
+  "price_level": 4,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 12:00–23:00",
+    "miércoles: 12:00–23:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: 12:00–19:00"
+  ],
+  "review_count": 5
+}

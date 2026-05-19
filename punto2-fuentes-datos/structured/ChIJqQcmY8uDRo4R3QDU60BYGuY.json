@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJqQcmY8uDRo4R3QDU60BYGuY",
+  "name": "VOLÁ Gastrobar",
+  "address": "Cra. 25 #4-165, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2015614,
+  "lng": -75.5566089,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 11:00–24:00",
+    "martes: 11:00–24:00",
+    "miércoles: 11:00–24:00",
+    "jueves: 11:00–24:00",
+    "viernes: 11:00–24:00",
+    "sábado: 11:00–24:00",
+    "domingo: 11:00–24:00"
+  ],
+  "review_count": 5
+}

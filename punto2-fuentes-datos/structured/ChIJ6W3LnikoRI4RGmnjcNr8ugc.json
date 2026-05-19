@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJ6W3LnikoRI4RGmnjcNr8ugc",
+  "name": "Donde Juancho La 10",
+  "address": "Cl 10 #37-50, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2094746,
+  "lng": -75.5670354,
+  "rating": 3.7,
+  "price_level": null,
+  "types": [
+    "meal_delivery",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 19:00–4:30",
+    "martes: 19:00–4:30",
+    "miércoles: 19:00–4:30",
+    "jueves: 19:00–4:30",
+    "viernes: 19:00–4:30",
+    "sábado: 19:00–4:30",
+    "domingo: 19:00–4:30"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJx0dDdM1tRI4R318S6eFSsP8",
+  "name": "67 Drink House, Beer Garden",
+  "address": "Cra. 43A #17 sur - 04, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1865428,
+  "lng": -75.5773063,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 14:00–23:30",
+    "miércoles: 14:00–23:30",
+    "jueves: 14:00–23:30",
+    "viernes: 14:00–23:30",
+    "sábado: 10:00–23:30",
+    "domingo: 10:00–23:30"
+  ],
+  "review_count": 5
+}

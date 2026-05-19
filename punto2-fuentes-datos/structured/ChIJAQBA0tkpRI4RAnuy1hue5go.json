@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJAQBA0tkpRI4RAnuy1hue5go",
+  "name": "EL PINAL",
+  "address": "Manzanares, Cra. 52 #2C-3, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 52 #2C-3",
+  "lat": 6.2104721,
+  "lng": -75.5865252,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "park"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

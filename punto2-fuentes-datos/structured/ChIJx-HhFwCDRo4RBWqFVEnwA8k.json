@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJx-HhFwCDRo4RBWqFVEnwA8k",
+  "name": "Peter Brown company",
+  "address": "Cra 50G #1 SUR-29, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.206016399999999,
+  "lng": -75.5833371,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 16:00–20:00",
+    "viernes: 16:00–20:00",
+    "sábado: 16:00–20:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

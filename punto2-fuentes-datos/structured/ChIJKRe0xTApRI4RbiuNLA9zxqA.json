@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJKRe0xTApRI4RbiuNLA9zxqA",
+  "name": "Sommele Casa de Vinos",
+  "address": "Tv. 5a #45-164, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2076697,
+  "lng": -75.5754446,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 18:00–23:00",
+    "viernes: 18:00–23:00",
+    "sábado: Cerrado",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

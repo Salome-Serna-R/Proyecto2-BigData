@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJ0xbeMwCDRo4RnAqzxVMXI04",
+  "name": "Asados Alonso",
+  "address": "Av. Las Palmas, Medellín, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.1952241,
+  "lng": -75.5474337,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 5
+}

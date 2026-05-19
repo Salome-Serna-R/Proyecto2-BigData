@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJVStxs2aCRo4RL8RhIRgvxgM",
+  "name": "Restaurante Aquitania",
+  "address": "Cra. 48 #16 Sur-43, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.191329,
+  "lng": -75.580457,
+  "rating": 4.4,
+  "price_level": 1,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 5
+}

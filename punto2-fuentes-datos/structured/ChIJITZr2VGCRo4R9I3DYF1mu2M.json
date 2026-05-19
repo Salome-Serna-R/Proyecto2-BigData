@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJITZr2VGCRo4R9I3DYF1mu2M",
+  "name": "Mall La Bota del Día",
+  "address": "Dg. 40 #33 sur 15, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.173229399999999,
+  "lng": -75.5856969,
+  "rating": 4.2,
+  "price_level": 2,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 16:00–24:00",
+    "martes: 16:00–24:00",
+    "miércoles: 16:00–24:00",
+    "jueves: 16:00–4:00",
+    "viernes: 16:00–4:00",
+    "sábado: 16:00–4:00",
+    "domingo: 16:00–24:00"
+  ],
+  "review_count": 5
+}

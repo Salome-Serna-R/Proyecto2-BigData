@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJE1UtvsuDRo4R1i5RL-pBgFw",
+  "name": "Trigal Burger",
+  "address": "Cl. 1 #29D-41, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1999138,
+  "lng": -75.5625139,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 11:00–24:00",
+    "miércoles: 11:00–24:00",
+    "jueves: 11:00–24:00",
+    "viernes: 11:00–24:00",
+    "sábado: 11:00–24:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

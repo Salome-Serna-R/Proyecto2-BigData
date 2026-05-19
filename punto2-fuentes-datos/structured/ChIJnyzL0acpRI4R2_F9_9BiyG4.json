@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJnyzL0acpRI4R2_F9_9BiyG4",
+  "name": "Casa Tragaluz",
+  "address": "Cl. 9 #43c-50, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2107034,
+  "lng": -75.5725593,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "art_gallery"
+  ],
+  "hours": [
+    "lunes: 9:00–17:00",
+    "martes: 9:00–17:00",
+    "miércoles: 9:00–17:00",
+    "jueves: 9:00–17:00",
+    "viernes: 9:00–17:00",
+    "sábado: Cerrado",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

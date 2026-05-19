@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJr_1HmnSDRo4RYrlAhtsXkPc",
+  "name": "BBC Cervecería Amsterdam Plaza",
+  "address": "Carrera 25, Amsterdam Plaza, Tv. Superior #4-165 Local: 112, El Poblado, Medellín, El Poblado, Medellín, ANT, Colombia",
+  "neighborhood": "Amsterdam Plaza",
+  "lat": 6.20169,
+  "lng": -75.55666219999999,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 14:00–22:00",
+    "martes: 14:00–23:00",
+    "miércoles: 14:00–24:00",
+    "jueves: 14:00–24:00",
+    "viernes: 14:00–24:00",
+    "sábado: 14:00–24:00",
+    "domingo: 14:00–22:00"
+  ],
+  "review_count": 5
+}

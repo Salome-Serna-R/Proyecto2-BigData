@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJv8eiMdeDRo4RikR-tBIF6MU",
+  "name": "Mággika El Tesoro",
+  "address": "Carrera 25 A. 1A Sur – 45 (Sótano 1 Plaza Cines, Loma el tesoro, Local 9100, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Loma el tesoro",
+  "lat": 6.1975462,
+  "lng": -75.5593292,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:30–20:30",
+    "martes: 8:30–20:30",
+    "miércoles: 8:30–20:30",
+    "jueves: 8:30–21:00",
+    "viernes: 8:30–22:00",
+    "sábado: 8:30–22:00",
+    "domingo: 9:00–20:30"
+  ],
+  "review_count": 3
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJl6TBMpuCRo4R7MllozA8sSE",
+  "name": "Los de Lucho",
+  "address": "Cl. 1a Sur #29d-43, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1999442,
+  "lng": -75.5626663,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 15:00–2:00",
+    "martes: 15:00–2:00",
+    "miércoles: 15:00–2:00",
+    "jueves: 15:00–5:00",
+    "viernes: 15:00–5:00",
+    "sábado: 15:30–5:00",
+    "domingo: 15:00–2:00"
+  ],
+  "review_count": 5
+}

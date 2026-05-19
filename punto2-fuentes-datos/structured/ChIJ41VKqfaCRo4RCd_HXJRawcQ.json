@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ41VKqfaCRo4RCd_HXJRawcQ",
+  "name": "restaurante ponto comida de mar tapas y ceviches",
+  "address": "Cl. 20 Sur #27-55, La Abadia, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "La Abadia",
+  "lat": 6.1810335,
+  "lng": -75.56868949999999,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–22:00",
+    "martes: 11:00–22:00",
+    "miércoles: 11:00–22:00",
+    "jueves: 11:00–22:00",
+    "viernes: 11:00–22:00",
+    "sábado: 11:00–22:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

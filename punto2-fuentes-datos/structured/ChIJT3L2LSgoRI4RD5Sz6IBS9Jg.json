@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJT3L2LSgoRI4RD5Sz6IBS9Jg",
+  "name": "HashHouse",
+  "address": "Cra. 32d #9-35, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2077768,
+  "lng": -75.5642077,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: Cerrado",
+    "viernes: Cerrado",
+    "sábado: 13:00–17:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

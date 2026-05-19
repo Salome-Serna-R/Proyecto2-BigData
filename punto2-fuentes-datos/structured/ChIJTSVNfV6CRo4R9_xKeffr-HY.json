@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJTSVNfV6CRo4R9_xKeffr-HY",
+  "name": "FIREHOUSE Sao Paulo",
+  "address": "Cra. 43A #18 Sur - 135 Local 131, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.185305899999999,
+  "lng": -75.57909099999999,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–21:00",
+    "sábado: 12:00–21:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

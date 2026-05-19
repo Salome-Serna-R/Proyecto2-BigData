@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJ-8XP5ikoRI4RbGXZfyvahi4",
+  "name": "37 Park Medellín | Restaurante & Bar",
+  "address": "Cra. 37 #8a-4, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2076047,
+  "lng": -75.5670269,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–24:00",
+    "martes: 12:00–24:00",
+    "miércoles: 12:00–24:00",
+    "jueves: 12:00–2:00",
+    "viernes: 12:00–2:00",
+    "sábado: 12:00–2:00",
+    "domingo: 12:00–24:00"
+  ],
+  "review_count": 5
+}

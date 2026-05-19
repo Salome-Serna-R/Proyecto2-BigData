@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJu6Re83yCRo4RGxQcU3hQb9Q",
+  "name": "Cafeteria Principal",
+  "address": "El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.199348899999999,
+  "lng": -75.5785403,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 9:00–20:00",
+    "martes: 9:00–20:00",
+    "miércoles: 9:00–20:00",
+    "jueves: 9:00–20:00",
+    "viernes: 9:00–20:00",
+    "sábado: 9:00–20:00",
+    "domingo: 11:00–19:00"
+  ],
+  "review_count": 5
+}

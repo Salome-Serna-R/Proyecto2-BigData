@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJH1ksUmaCRo4Rldqfc91HcJ0",
+  "name": "Fonda los Famosos",
+  "address": "Cra 42 #85b - 121, San Fernando, Itagüi, Medellín, Antioquia, Colombia",
+  "neighborhood": "San Fernando",
+  "lat": 6.1907098,
+  "lng": -75.5835532,
+  "rating": 3.7,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 22:00–6:00",
+    "jueves: 22:00–6:00",
+    "viernes: 22:00–6:00",
+    "sábado: 22:00–6:00",
+    "domingo: 22:00–6:00"
+  ],
+  "review_count": 5
+}

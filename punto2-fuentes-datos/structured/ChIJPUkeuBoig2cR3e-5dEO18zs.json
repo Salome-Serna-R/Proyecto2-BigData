@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJPUkeuBoig2cR3e-5dEO18zs",
+  "name": "Matrianas",
+  "address": "Cra. 30 #1sur 18, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1998263,
+  "lng": -75.56271269999999,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "meal_delivery",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 8:00–20:00",
+    "martes: 8:00–20:00",
+    "miércoles: 8:00–20:00",
+    "jueves: 8:00–20:00",
+    "viernes: 8:00–20:00",
+    "sábado: 8:00–20:00",
+    "domingo: 8:30–19:00"
+  ],
+  "review_count": 5
+}

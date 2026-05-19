@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJtfaVsykoRI4RR8T4itvm_sI",
+  "name": "Chabuca Cocina Peruana",
+  "address": "Cl 10 #35-27, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.208648999999999,
+  "lng": -75.5658255,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:30",
+    "martes: 12:00–21:30",
+    "miércoles: 12:00–21:30",
+    "jueves: 12:00–21:30",
+    "viernes: 12:00–22:30",
+    "sábado: 12:00–22:30",
+    "domingo: 12:00–20:30"
+  ],
+  "review_count": 5
+}

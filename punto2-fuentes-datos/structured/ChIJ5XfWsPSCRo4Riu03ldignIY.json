@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJ5XfWsPSCRo4Riu03ldignIY",
+  "name": "Crepes & Waffles Campestre",
+  "address": "Mall Campestre Drive In, Cl 16A Sur #32B - 38, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl 16A Sur #32B - 38",
+  "lat": 6.1861098,
+  "lng": -75.56967159999999,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 12:00–20:30",
+    "martes: 12:00–20:30",
+    "miércoles: 12:00–20:30",
+    "jueves: 12:00–20:30",
+    "viernes: 12:00–20:30",
+    "sábado: 8:00–20:30",
+    "domingo: 8:00–20:00"
+  ],
+  "review_count": 5
+}

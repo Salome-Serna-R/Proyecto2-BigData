@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJx8Z5L_opRI4Rop9gRevIGwQ",
+  "name": "Food Tables - Café, Brunch & Tablas de Queso Medellín",
+  "address": "Cra. 50FF #8sur 27, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.200759199999999,
+  "lng": -75.58487699999999,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–16:30",
+    "martes: 8:00–16:30",
+    "miércoles: 8:00–16:30",
+    "jueves: 8:00–16:30",
+    "viernes: 8:00–16:30",
+    "sábado: 8:00–14:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

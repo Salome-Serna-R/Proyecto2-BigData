@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJnyth2XWDRo4RkHT4sxLNt6M",
+  "name": "Casa de Nadie",
+  "address": "loma los balsos, Casaloma, Medellín, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Casaloma",
+  "lat": 6.1838636,
+  "lng": -75.5516366,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–23:00",
+    "martes: 12:00–23:00",
+    "miércoles: 12:00–23:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: 9:30–17:30"
+  ],
+  "review_count": 5
+}

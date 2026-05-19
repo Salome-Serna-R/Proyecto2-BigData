@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ06uOfyeDRo4RZkNLGUDHfdk",
+  "name": "Milonga Repostería Mall Zona 2 Sur",
+  "address": "Carrera 32 # 2 Sur - 47 Local 115 Mall Zona 2 Sur, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1985094,
+  "lng": -75.5655565,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 8:30–19:30",
+    "martes: 8:30–19:30",
+    "miércoles: 8:30–19:30",
+    "jueves: 8:30–19:30",
+    "viernes: 8:30–19:30",
+    "sábado: 8:30–19:30",
+    "domingo: 10:00–19:00"
+  ],
+  "review_count": 5
+}

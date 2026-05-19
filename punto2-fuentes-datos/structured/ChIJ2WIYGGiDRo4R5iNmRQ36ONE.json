@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ2WIYGGiDRo4R5iNmRQ36ONE",
+  "name": "Porteño, carnes y parrilla",
+  "address": "Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Envigado",
+  "lat": 6.1791773,
+  "lng": -75.5834387,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–16:00"
+  ],
+  "review_count": 5
+}

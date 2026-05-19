@@ -1,0 +1,27 @@
+{
+  "place_id": "ChIJ6bs39KgpRI4RqAxz1fHkl38",
+  "name": "Café Noir Bar & Lounge",
+  "address": "Cl. 8 #37a41, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2074437,
+  "lng": -75.5681251,
+  "rating": 4.8,
+  "price_level": 3,
+  "types": [
+    "bar",
+    "cafe",
+    "night_club",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: 7:00–21:00",
+    "miércoles: 7:00–21:00",
+    "jueves: 7:00–21:00",
+    "viernes: 7:00–21:00",
+    "sábado: 7:00–21:00",
+    "domingo: 7:00–21:00"
+  ],
+  "review_count": 5
+}

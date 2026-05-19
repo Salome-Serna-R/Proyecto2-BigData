@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJa4cT1emDRo4RHpqplkHIddc",
+  "name": "Fenicia Complex los Balsos",
+  "address": "Cra. 25 #12 Sur 59, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1860557,
+  "lng": -75.56212289999999,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–18:30",
+    "martes: 12:00–18:30",
+    "miércoles: 12:00–18:30",
+    "jueves: 12:00–18:30",
+    "viernes: 12:00–18:30",
+    "sábado: 12:00–18:30",
+    "domingo: 12:00–15:30"
+  ],
+  "review_count": 5
+}

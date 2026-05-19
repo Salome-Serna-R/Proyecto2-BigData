@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ09cPPigoRI4RV1Dz2mfvQDI",
+  "name": "Color y Forma",
+  "address": "Cl. 2C #54-34, Barrio Manzanares, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Barrio Manzanares",
+  "lat": 6.210420800000001,
+  "lng": -75.58584929999999,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "art_gallery"
+  ],
+  "hours": [
+    "lunes: 9:00–18:00",
+    "martes: 9:00–18:00",
+    "miércoles: 9:00–18:00",
+    "jueves: 9:00–18:00",
+    "viernes: 9:00–18:00",
+    "sábado: 10:00–13:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

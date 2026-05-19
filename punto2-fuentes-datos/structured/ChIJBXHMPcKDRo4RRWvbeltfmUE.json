@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJBXHMPcKDRo4RRWvbeltfmUE",
+  "name": "La Cocina de María",
+  "address": "Edificio Danzas, Cl 16A Sur #42-88, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl 16A Sur #42-88",
+  "lat": 6.1890741,
+  "lng": -75.5769382,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 7:00–16:00",
+    "martes: 7:00–16:00",
+    "miércoles: 7:00–16:00",
+    "jueves: 7:00–16:00",
+    "viernes: 7:00–16:00",
+    "sábado: 8:30–16:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJmb6r4QmDRo4RTwOn0uMxLBU",
+  "name": "Ritual Artesano",
+  "address": "Los Sauces, Cra. 41 #21 Sur24 Local 4, Los Sauces, Envigado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 41 #21 Sur24 Local 4",
+  "lat": 6.1816076,
+  "lng": -75.5766467,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–20:00",
+    "martes: 8:00–20:00",
+    "miércoles: 8:00–20:00",
+    "jueves: 8:00–20:00",
+    "viernes: 8:00–20:00",
+    "sábado: 9:00–19:00",
+    "domingo: 9:00–18:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJfxo-qiwoRI4R_ggha-Mddqc",
+  "name": "Halong Vietnamita",
+  "address": "Cra. 43F #10-38, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.212499999999999,
+  "lng": -75.5737773,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–18:00"
+  ],
+  "review_count": 5
+}

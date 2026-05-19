@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJewEtkV6CRo4RWXppgm64hts",
+  "name": "Parrilla Grill Euro La Frontera",
+  "address": "a 41a-279,, Cl. 21 Sur #41a-177, Los Cristales, Medellín, Envigado, Antioquia, Colombia",
+  "neighborhood": "",
+  "lat": 6.1832699,
+  "lng": -75.57912329999999,
+  "rating": 3.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:00–21:00",
+    "martes: 6:00–21:00",
+    "miércoles: 6:00–21:00",
+    "jueves: 6:00–21:00",
+    "viernes: 6:00–21:00",
+    "sábado: 6:00–21:00",
+    "domingo: 6:00–21:00"
+  ],
+  "review_count": 4
+}

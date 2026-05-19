@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJC7qd5LGDRo4RC4Aa17qeots",
+  "name": "Migaito",
+  "address": "Cra. 51 #1 sur- 21, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2065265,
+  "lng": -75.5839148,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–12:00, 17:00–21:00",
+    "martes: 8:00–12:00, 17:00–21:00",
+    "miércoles: 8:00–12:00, 17:00–21:00",
+    "jueves: 8:00–12:00, 17:00–21:00",
+    "viernes: 8:00–12:00, 17:00–21:00",
+    "sábado: 8:00–12:00, 17:00–21:00",
+    "domingo: 8:00–12:00, 17:00–21:00"
+  ],
+  "review_count": 5
+}

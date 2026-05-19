@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJi5R21pqCRo4RIxnqoEZif38",
+  "name": "Pico De Gallo",
+  "address": "Cl. 1a Sur #29c34 29c- a, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.199227899999999,
+  "lng": -75.5622059,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 18:00–1:00",
+    "viernes: 18:00–1:00",
+    "sábado: 18:00–1:00",
+    "domingo: 18:00–24:00"
+  ],
+  "review_count": 2
+}

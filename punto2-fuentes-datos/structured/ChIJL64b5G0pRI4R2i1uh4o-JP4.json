@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJL64b5G0pRI4R2i1uh4o-JP4",
+  "name": "Starbucks Calle 10A",
+  "address": "Cl 10A #36-54 local 1, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2099446,
+  "lng": -75.56621919999999,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 6:30–21:00",
+    "martes: 6:30–21:00",
+    "miércoles: 6:30–21:00",
+    "jueves: 6:30–21:00",
+    "viernes: 6:30–21:00",
+    "sábado: 6:30–21:00",
+    "domingo: 7:00–20:30"
+  ],
+  "review_count": 5
+}

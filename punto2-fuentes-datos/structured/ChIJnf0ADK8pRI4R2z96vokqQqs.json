@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJnf0ADK8pRI4R2z96vokqQqs",
+  "name": "Bololoi MDE",
+  "address": "Cl. 8 #43a-89, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2093163,
+  "lng": -75.5721392,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–23:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

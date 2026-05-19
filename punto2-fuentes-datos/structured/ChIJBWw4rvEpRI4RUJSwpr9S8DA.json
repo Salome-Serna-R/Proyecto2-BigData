@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJBWw4rvEpRI4RUJSwpr9S8DA",
+  "name": "Simón Coffee",
+  "address": "Cra. 37 #10 -54, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2095859,
+  "lng": -75.5663768,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:30–18:00",
+    "martes: 8:30–18:00",
+    "miércoles: 8:30–18:00",
+    "jueves: 8:30–18:00",
+    "viernes: 8:30–18:00",
+    "sábado: 8:30–18:00",
+    "domingo: 8:30–16:00"
+  ],
+  "review_count": 5
+}

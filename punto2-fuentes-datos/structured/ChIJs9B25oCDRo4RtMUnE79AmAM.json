@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJs9B25oCDRo4RtMUnE79AmAM",
+  "name": "Tartina",
+  "address": "Cra. 32 #2 Sur-47, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1984287,
+  "lng": -75.56575289999999,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 12:00–20:00",
+    "martes: 12:00–20:00",
+    "miércoles: 12:00–20:00",
+    "jueves: 12:00–20:00",
+    "viernes: 12:00–20:00",
+    "sábado: 8:00–15:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

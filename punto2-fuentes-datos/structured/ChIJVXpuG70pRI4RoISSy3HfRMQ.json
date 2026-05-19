@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJVXpuG70pRI4RoISSy3HfRMQ",
+  "name": "Mojavi | Rooftop Lounge & Bohemian Restaurant",
+  "address": "Cra. 38 #8 – 55, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2080537,
+  "lng": -75.5681391,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–11:00",
+    "martes: 12:00–11:00",
+    "miércoles: 12:00–11:00",
+    "jueves: 12:00–3:00",
+    "viernes: 12:00–3:00",
+    "sábado: 12:00–3:00",
+    "domingo: 12:00–1:00"
+  ],
+  "review_count": 4
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ9025F16CRo4RzeU-9lPMsiY",
+  "name": "Parque Santa María de los Ángeles II",
+  "address": "59 entre Calle 17 y Carrera 22as, El Poblado #17 Sur, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado #17 Sur",
+  "lat": 6.1880885,
+  "lng": -75.5804423,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "park"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

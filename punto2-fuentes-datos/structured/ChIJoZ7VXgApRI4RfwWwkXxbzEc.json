@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJoZ7VXgApRI4RfwWwkXxbzEc",
+  "name": "Gato Club",
+  "address": "Cra 33 #8A - 10, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2075973,
+  "lng": -75.5644745,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: Cerrado",
+    "viernes: 22:00–4:00",
+    "sábado: 22:00–4:00",
+    "domingo: 22:00–4:00"
+  ],
+  "review_count": 2
+}

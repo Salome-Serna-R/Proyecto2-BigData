@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJlakCiV6CRo4RszHae8A3TLE",
+  "name": "Presto La Frontera",
+  "address": "Av. El Poblado, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1839001,
+  "lng": -75.5790313,
+  "rating": 4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–21:30",
+    "martes: 11:30–21:30",
+    "miércoles: 11:30–21:30",
+    "jueves: 11:30–21:30",
+    "viernes: 11:30–21:30",
+    "sábado: 11:30–21:30",
+    "domingo: 11:30–21:30"
+  ],
+  "review_count": 5
+}

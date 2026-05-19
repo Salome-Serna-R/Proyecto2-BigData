@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJxxi_CQCDRo4RvlEhLPnksao",
+  "name": "Badalona Café Bar",
+  "address": "Dg. 31d #32A Sur- 19, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.1754375,
+  "lng": -75.5817421,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 16:00–24:00",
+    "martes: Cerrado",
+    "miércoles: 16:00–24:00",
+    "jueves: 16:00–24:00",
+    "viernes: 16:00–1:00",
+    "sábado: 16:00–1:00",
+    "domingo: 16:00–24:00"
+  ],
+  "review_count": 2
+}

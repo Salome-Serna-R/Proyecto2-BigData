@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJhbIN5HeCRo4RX7TAsL6quZg",
+  "name": "Cafeteria y Restaurante el Atrio",
+  "address": "Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.2073559,
+  "lng": -75.58688719999999,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 5:00–22:00",
+    "martes: 5:00–22:00",
+    "miércoles: 5:00–22:00",
+    "jueves: 5:00–22:00",
+    "viernes: 5:00–22:00",
+    "sábado: 5:00–22:00",
+    "domingo: 5:00–22:00"
+  ],
+  "review_count": 5
+}

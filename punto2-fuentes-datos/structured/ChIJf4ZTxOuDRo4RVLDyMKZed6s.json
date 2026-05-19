@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJf4ZTxOuDRo4RVLDyMKZed6s",
+  "name": "VIUZ",
+  "address": "Cra 42 #85B-121, San Fernando, Itagüi, Antioquia, Colombia",
+  "neighborhood": "San Fernando",
+  "lat": 6.1910744,
+  "lng": -75.58346089999999,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 21:00–6:00",
+    "jueves: 21:00–6:00",
+    "viernes: 21:00–6:00",
+    "sábado: 21:00–6:00",
+    "domingo: 21:00–6:00"
+  ],
+  "review_count": 5
+}

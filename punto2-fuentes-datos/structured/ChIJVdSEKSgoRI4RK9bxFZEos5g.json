@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJVdSEKSgoRI4RK9bxFZEos5g",
+  "name": "Donde Juan",
+  "address": "21 calle 8#34, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2073309,
+  "lng": -75.5655436,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "bar",
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 10:00–23:30",
+    "martes: 10:00–23:30",
+    "miércoles: 10:00–23:30",
+    "jueves: 10:00–23:30",
+    "viernes: 10:00–24:00",
+    "sábado: 10:00–24:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

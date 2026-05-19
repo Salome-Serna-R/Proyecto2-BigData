@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJMYoK7CkoRI4RLhu_83ABWOs",
+  "name": "El Village",
+  "address": "Cra. 43A #9sur -51, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1958921,
+  "lng": -75.575546,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:30–22:00",
+    "martes: 6:30–22:00",
+    "miércoles: 6:30–22:00",
+    "jueves: 6:30–22:00",
+    "viernes: 6:30–22:00",
+    "sábado: 6:30–22:00",
+    "domingo: 6:30–22:00"
+  ],
+  "review_count": 5
+}

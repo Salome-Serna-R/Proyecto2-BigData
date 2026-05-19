@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJzyWMoIWCRo4RdaBn6Q9MrEk",
+  "name": "Milonga Repostería Calle de la Buena Mesa",
+  "address": "Cl 30A Sur #44A – 25, Zona 2, Envigado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1770496,
+  "lng": -75.58633569999999,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 9:00–18:00",
+    "martes: 9:00–18:00",
+    "miércoles: 9:00–18:00",
+    "jueves: 9:00–18:00",
+    "viernes: 9:00–18:00",
+    "sábado: 9:00–18:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

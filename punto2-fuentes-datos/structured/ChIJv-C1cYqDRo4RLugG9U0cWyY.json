@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJv-C1cYqDRo4RLugG9U0cWyY",
+  "name": "Natto Milla de Oro",
+  "address": "Cra. 42 #3 Sur-81, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.199921,
+  "lng": -75.5723366,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 7:30–20:00",
+    "martes: 7:30–20:00",
+    "miércoles: 7:30–20:00",
+    "jueves: 7:30–20:00",
+    "viernes: 7:30–20:00",
+    "sábado: 8:00–17:00",
+    "domingo: 8:00–17:00"
+  ],
+  "review_count": 5
+}

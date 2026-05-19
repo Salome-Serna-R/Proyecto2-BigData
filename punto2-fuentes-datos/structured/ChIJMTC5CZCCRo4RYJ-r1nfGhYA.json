@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJMTC5CZCCRo4RYJ-r1nfGhYA",
+  "name": "UVA Ilusión Verde",
+  "address": "Cl. 3b Sur #29 B - 56, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.196841999999999,
+  "lng": -75.5615887,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "park"
+  ],
+  "hours": [
+    "lunes: 9:00–18:00",
+    "martes: 9:00–18:00",
+    "miércoles: 9:00–18:00",
+    "jueves: 9:00–18:00",
+    "viernes: 9:00–18:00",
+    "sábado: 9:00–18:00",
+    "domingo: 9:00–18:00"
+  ],
+  "review_count": 5
+}

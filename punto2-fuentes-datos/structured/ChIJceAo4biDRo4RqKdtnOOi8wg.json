@@ -1,0 +1,26 @@
+{
+  "place_id": "ChIJceAo4biDRo4RqKdtnOOi8wg",
+  "name": "El Buñuelo Santa María de los Ángeles",
+  "address": "Cl. 14 Sur #43a-96, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1923119,
+  "lng": -75.5775373,
+  "rating": 4,
+  "price_level": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 6:00–20:00",
+    "martes: 6:00–20:00",
+    "miércoles: 6:00–20:00",
+    "jueves: 6:00–20:00",
+    "viernes: 6:00–20:00",
+    "sábado: 6:00–20:00",
+    "domingo: 6:00–20:00"
+  ],
+  "review_count": 5
+}

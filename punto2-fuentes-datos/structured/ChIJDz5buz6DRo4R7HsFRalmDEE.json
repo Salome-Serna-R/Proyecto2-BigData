@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJDz5buz6DRo4R7HsFRalmDEE",
+  "name": "BELVEDERE AMSTERDAM",
+  "address": "Cra. 25 #4 - 165, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2007769,
+  "lng": -75.55658749999999,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

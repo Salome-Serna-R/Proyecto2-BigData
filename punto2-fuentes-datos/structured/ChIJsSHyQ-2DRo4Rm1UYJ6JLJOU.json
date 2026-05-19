@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJsSHyQ-2DRo4Rm1UYJ6JLJOU",
+  "name": "EXPRESS 40 - MAGNOLIA",
+  "address": "Dg. 31E #33 sur -26, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.174449699999999,
+  "lng": -75.5812442,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 16:00–24:00",
+    "martes: 16:00–24:00",
+    "miércoles: 16:00–24:00",
+    "jueves: 16:00–24:00",
+    "viernes: 16:00–24:00",
+    "sábado: 16:00–24:00",
+    "domingo: 16:00–24:00"
+  ],
+  "review_count": 5
+}

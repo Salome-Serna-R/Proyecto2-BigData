@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJyYXzUFCDRo4R8CZwxfQgQmU",
+  "name": "Leonor Picadas y Sangría",
+  "address": "Cl. 23 Sur #42b-2 a 42b-108, Los Cristales, Envigado, Antioquia, Colombia",
+  "neighborhood": "Los Cristales",
+  "lat": 6.1817632,
+  "lng": -75.57976819999999,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:01–23:00",
+    "martes: 12:01–23:00",
+    "miércoles: 12:01–23:00",
+    "jueves: 12:01–23:00",
+    "viernes: 12:01–23:00",
+    "sábado: 12:01–23:00",
+    "domingo: 12:01–22:00"
+  ],
+  "review_count": 5
+}

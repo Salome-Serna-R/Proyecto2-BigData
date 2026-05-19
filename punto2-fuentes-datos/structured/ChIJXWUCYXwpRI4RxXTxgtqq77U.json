@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJXWUCYXwpRI4RxXTxgtqq77U",
+  "name": "☕️ latienda.delcafé (C.C Oviedo)",
+  "address": "cra 43A # 6S-15, Centro Comercial Oviedo, Local 1122, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Centro Comercial Oviedo",
+  "lat": 6.199302299999999,
+  "lng": -75.57488049999999,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 9:00–20:00",
+    "martes: 9:00–20:00",
+    "miércoles: 9:00–20:00",
+    "jueves: 9:00–20:00",
+    "viernes: 9:00–20:00",
+    "sábado: 9:00–20:00",
+    "domingo: 10:00–20:00"
+  ],
+  "review_count": 5
+}

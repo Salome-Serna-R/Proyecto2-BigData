@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJRQVcD4WCRo4Ra96_K-nOk94",
+  "name": "Shawarma - Tata Abisaad Janna",
+  "address": "Carrera 32, Cl. 1b Sur #51, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl. 1b Sur #51",
+  "lat": 6.1994072,
+  "lng": -75.56535760000001,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–19:30",
+    "martes: 11:30–19:30",
+    "miércoles: 11:30–19:30",
+    "jueves: 11:30–19:30",
+    "viernes: 11:30–20:30",
+    "sábado: 11:30–20:30",
+    "domingo: 11:30–16:00"
+  ],
+  "review_count": 5
+}

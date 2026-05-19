@@ -1,0 +1,26 @@
+{
+  "place_id": "ChIJGY75wQqDRo4R3PMpsmQaLJU",
+  "name": "Hija Mia MILLA DE ORO",
+  "address": "Cl. 4 Sur #43A 08, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2004945,
+  "lng": -75.5730991,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "bar",
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:00–19:00",
+    "martes: 7:00–19:00",
+    "miércoles: 7:00–19:00",
+    "jueves: 7:00–19:00",
+    "viernes: 7:00–19:00",
+    "sábado: 7:00–16:00",
+    "domingo: 7:00–16:00"
+  ],
+  "review_count": 5
+}

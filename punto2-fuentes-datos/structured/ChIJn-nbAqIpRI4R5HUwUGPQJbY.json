@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJn-nbAqIpRI4R5HUwUGPQJbY",
+  "name": "Distrito Radio",
+  "address": "Cra 42 ·8 00, Palermo Cultural, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Palermo Cultural",
+  "lat": 6.208349699999999,
+  "lng": -75.56983319999999,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 9:00–18:30",
+    "martes: 9:00–18:30",
+    "miércoles: 9:00–18:30",
+    "jueves: 9:00–18:30",
+    "viernes: 9:00–18:30",
+    "sábado: 9:00–12:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

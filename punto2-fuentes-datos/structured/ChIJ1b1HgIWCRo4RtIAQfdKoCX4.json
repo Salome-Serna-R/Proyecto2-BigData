@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ1b1HgIWCRo4RtIAQfdKoCX4",
+  "name": "Frisby Mall Visitacion",
+  "address": "# 4s 80 Local 107, Cra. 32, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 32",
+  "lat": 6.196653599999999,
+  "lng": -75.5654115,
+  "rating": 4.2,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 10:30–20:00",
+    "martes: 10:30–20:00",
+    "miércoles: 10:30–20:00",
+    "jueves: 10:30–20:00",
+    "viernes: 10:30–20:00",
+    "sábado: 10:30–20:00",
+    "domingo: 10:30–20:00"
+  ],
+  "review_count": 5
+}

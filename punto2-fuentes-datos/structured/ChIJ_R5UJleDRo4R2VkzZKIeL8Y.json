@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ_R5UJleDRo4R2VkzZKIeL8Y",
+  "name": "Burg-co Hamburguesas",
+  "address": "050021, Cra. 43A #9 sur 106 local 106, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 43A #9 sur 106 local 106",
+  "lat": 6.1951304,
+  "lng": -75.5756147,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

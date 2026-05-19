@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJu6cOkysoRI4R0Wbs0f7s87c",
+  "name": "Punto caliente",
+  "address": "El Poblado #10-112, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2114677,
+  "lng": -75.5699489,
+  "rating": 3.1,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 7:00–21:00",
+    "martes: 7:00–21:00",
+    "miércoles: 7:00–21:00",
+    "jueves: 7:00–21:00",
+    "viernes: 7:00–21:00",
+    "sábado: 7:00–21:00",
+    "domingo: 8:00–20:00"
+  ],
+  "review_count": 5
+}

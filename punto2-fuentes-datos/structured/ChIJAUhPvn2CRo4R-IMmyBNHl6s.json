@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJAUhPvn2CRo4R-IMmyBNHl6s",
+  "name": "Tamales Exquisitos",
+  "address": "Cra 43C #4 Sur-210, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.200422,
+  "lng": -75.5757733,
+  "rating": 4.3,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 9:00–19:00",
+    "martes: 9:00–19:00",
+    "miércoles: 9:00–19:00",
+    "jueves: 9:00–19:00",
+    "viernes: 9:00–19:00",
+    "sábado: 9:00–19:00",
+    "domingo: 9:00–18:00"
+  ],
+  "review_count": 5
+}

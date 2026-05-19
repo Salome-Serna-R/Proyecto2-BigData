@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJB4x0ekGDRo4R3o4SFcwvXwE",
+  "name": "La Guadalupe Tienda Mixta",
+  "address": "Tv. 34 Sur #32d63 #, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.173178099999999,
+  "lng": -75.5828303,
+  "rating": 4.6,
+  "price_level": 1,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 7:30–24:00",
+    "martes: 7:30–24:00",
+    "miércoles: 7:30–24:00",
+    "jueves: 7:30–24:00",
+    "viernes: 7:30–2:00",
+    "sábado: 8:00–2:00",
+    "domingo: 14:00–24:00"
+  ],
+  "review_count": 5
+}

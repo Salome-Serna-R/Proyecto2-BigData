@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ93hKs6uDRo4RIUiS80O2zMw",
+  "name": "Nomade Restaurante Medellin",
+  "address": "Cra. 43A #17 sur 63, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.187276799999999,
+  "lng": -75.5783647,
+  "rating": 4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:00–22:00",
+    "martes: 6:00–22:00",
+    "miércoles: 6:00–22:00",
+    "jueves: 6:00–22:00",
+    "viernes: 6:00–22:00",
+    "sábado: 6:00–22:00",
+    "domingo: 6:00–22:00"
+  ],
+  "review_count": 5
+}

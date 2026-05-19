@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJ-5iJ83iCRo4RfDv9AusSg8Y",
+  "name": "Restaurante Donde La Suegra",
+  "address": "Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.2060342,
+  "lng": -75.5826051,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 3
+}

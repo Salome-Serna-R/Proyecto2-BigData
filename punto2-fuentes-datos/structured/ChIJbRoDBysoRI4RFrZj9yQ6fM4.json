@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJbRoDBysoRI4RFrZj9yQ6fM4",
+  "name": "German Street Food",
+  "address": "Cra. 43B #9 - 07, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2102223,
+  "lng": -75.57147119999999,
+  "rating": 4.4,
+  "price_level": 1,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 17:00–24:00",
+    "martes: 17:00–24:00",
+    "miércoles: 17:00–24:00",
+    "jueves: 12:00–1:00",
+    "viernes: 12:00–1:00",
+    "sábado: 12:00–1:00",
+    "domingo: 12:00–24:00"
+  ],
+  "review_count": 5
+}

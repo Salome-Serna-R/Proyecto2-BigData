@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJtZ1J7hmDRo4RaeKrGkYxUQ4",
+  "name": "MomoTea Santafe Medellin",
+  "address": "Carrera 43a, Cl. 7 Sur #170, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl. 7 Sur #170",
+  "lat": 6.196262099999999,
+  "lng": -75.57372409999999,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 10:00–21:00",
+    "martes: 10:00–21:00",
+    "miércoles: 10:00–21:00",
+    "jueves: 10:00–21:00",
+    "viernes: 10:00–21:00",
+    "sábado: 10:00–21:00",
+    "domingo: 10:00–20:30"
+  ],
+  "review_count": 5
+}

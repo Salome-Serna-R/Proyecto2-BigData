@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJq71gC0yDRo4RD0jMjvm4z8I",
+  "name": "Temerario Mall Plaza",
+  "address": "Cra. 32 #1-24, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.200524799999999,
+  "lng": -75.5640182,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 14:00–24:00",
+    "martes: 14:00–24:00",
+    "miércoles: 14:00–24:00",
+    "jueves: 14:00–24:00",
+    "viernes: 14:00–24:00",
+    "sábado: 14:00–24:00",
+    "domingo: 14:00–24:00"
+  ],
+  "review_count": 5
+}

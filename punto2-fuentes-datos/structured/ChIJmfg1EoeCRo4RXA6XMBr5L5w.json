@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJmfg1EoeCRo4RXA6XMBr5L5w",
+  "name": "FIREHOUSE Milla de Oro",
+  "address": "Cra. 42 #3 Sur - 81 Local 215, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.199921,
+  "lng": -75.5723366,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 7:00–21:30",
+    "martes: 7:00–21:30",
+    "miércoles: 7:00–21:30",
+    "jueves: 7:00–21:30",
+    "viernes: 7:00–22:30",
+    "sábado: 7:00–22:30",
+    "domingo: 7:00–21:00"
+  ],
+  "review_count": 5
+}

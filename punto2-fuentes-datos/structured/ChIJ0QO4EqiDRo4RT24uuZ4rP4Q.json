@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ0QO4EqiDRo4RT24uuZ4rP4Q",
+  "name": "Los Perritos del Mono - San lucas",
+  "address": "Cl. 20 Sur #27-55, La Abadia, Envigado, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "La Abadia",
+  "lat": 6.1809242,
+  "lng": -75.5685611,
+  "rating": 2.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–24:00",
+    "martes: 12:00–24:00",
+    "miércoles: 12:00–24:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: 12:00–24:00"
+  ],
+  "review_count": 2
+}

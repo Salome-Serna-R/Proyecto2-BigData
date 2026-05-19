@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJ8TvseSkoRI4RClLg61kXaT0",
+  "name": "Bar El Deck",
+  "address": "Cra. 40 #10-34, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2098209,
+  "lng": -75.56791199999999,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "night_club",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 21:00–4:00",
+    "viernes: 21:00–4:00",
+    "sábado: 21:00–4:00",
+    "domingo: 21:00–4:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJjdwuvk-CRo4RQ2NqyZ1gQyI",
+  "name": "La Tortuga Amarilla",
+  "address": "Cl. 32B Sur #44a-81, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.175370099999999,
+  "lng": -75.5875726,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 8:00–19:00",
+    "martes: 8:00–19:00",
+    "miércoles: 8:00–19:00",
+    "jueves: 8:00–19:00",
+    "viernes: 8:00–19:00",
+    "sábado: 8:00–19:00",
+    "domingo: 8:00–14:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJA7oO9SkoRI4R8LUEkZ4ZZR4",
+  "name": "La Fonda de Palmahía Parque Lleras",
+  "address": "Cra. 39 #835, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2082856,
+  "lng": -75.5683425,
+  "rating": 3.9,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 17:00–4:00",
+    "jueves: 17:00–4:00",
+    "viernes: 17:00–4:00",
+    "sábado: 17:00–4:00",
+    "domingo: 17:00–24:00"
+  ],
+  "review_count": 5
+}

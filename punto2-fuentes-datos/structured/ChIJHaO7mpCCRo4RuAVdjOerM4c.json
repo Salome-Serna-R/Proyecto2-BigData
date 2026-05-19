@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJHaO7mpCCRo4RuAVdjOerM4c",
+  "name": "NIKU COCINA NIKKEI - Sushi Medellín",
+  "address": "Carrera 25, Cl. 1a Sur #155, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl. 1a Sur #155",
+  "lat": 6.1959082,
+  "lng": -75.5585579,
+  "rating": 4.7,
+  "price_level": 3,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:30",
+    "martes: 12:00–21:30",
+    "miércoles: 12:00–21:30",
+    "jueves: 12:00–23:30",
+    "viernes: 12:00–23:30",
+    "sábado: 12:00–23:30",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

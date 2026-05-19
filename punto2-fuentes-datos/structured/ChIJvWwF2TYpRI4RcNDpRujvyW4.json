@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJvWwF2TYpRI4RcNDpRujvyW4",
+  "name": "Distrito Federal del Perreo (DFP)",
+  "address": "Cra. 39 #7-106, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.207366100000001,
+  "lng": -75.5685773,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: Cerrado",
+    "viernes: 21:00–3:30",
+    "sábado: 21:00–3:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

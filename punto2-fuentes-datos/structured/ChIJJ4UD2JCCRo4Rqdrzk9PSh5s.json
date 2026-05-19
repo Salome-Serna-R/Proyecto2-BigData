@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJJ4UD2JCCRo4Rqdrzk9PSh5s",
+  "name": "De Lolita Clínica el Rosario sede Tesoro",
+  "address": "Cra. 20 #2 Sur185 N° 2, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1940823,
+  "lng": -75.55726829999999,
+  "rating": 3.9,
+  "price_level": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

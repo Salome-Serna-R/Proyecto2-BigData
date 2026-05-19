@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJserCBsEpRI4RYInu9NWueA4",
+  "name": "Medellín Burger Company",
+  "address": "Cra. 48 #15 sur 30, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1921339,
+  "lng": -75.5798416,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–20:45",
+    "martes: 12:00–21:45",
+    "miércoles: 12:00–21:45",
+    "jueves: 12:00–21:45",
+    "viernes: 12:00–22:45",
+    "sábado: 12:00–22:45",
+    "domingo: 12:00–20:45"
+  ],
+  "review_count": 5
+}

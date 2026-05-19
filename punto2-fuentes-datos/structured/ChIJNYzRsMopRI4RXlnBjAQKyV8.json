@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJNYzRsMopRI4RXlnBjAQKyV8",
+  "name": "Frisby Éxito Envigado",
+  "address": "Cra. 48 # 24-32, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2062472,
+  "lng": -75.5769759,
+  "rating": 4.1,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–21:00",
+    "martes: 11:30–21:00",
+    "miércoles: 11:30–21:00",
+    "jueves: 11:30–21:00",
+    "viernes: 11:30–21:00",
+    "sábado: 11:30–21:00",
+    "domingo: 11:30–21:00"
+  ],
+  "review_count": 5
+}

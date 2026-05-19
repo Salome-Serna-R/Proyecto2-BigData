@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJgYzrGIGCRo4Rw33TZ1ga4Jg",
+  "name": "Restaurante Spezia",
+  "address": "Cra. 42A #1-15, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.203494999999999,
+  "lng": -75.570801,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:00–22:00",
+    "martes: 6:00–22:00",
+    "miércoles: 6:00–22:00",
+    "jueves: 6:00–22:00",
+    "viernes: 6:00–22:00",
+    "sábado: 6:00–22:00",
+    "domingo: 6:00–22:00"
+  ],
+  "review_count": 5
+}

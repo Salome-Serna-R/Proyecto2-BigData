@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJXWT1geKDRo4Rudo38tvq1Os",
+  "name": "Falero El Uruguayo, choripanes, parrilla y amigos.",
+  "address": "Tv 27A Sur, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1789143,
+  "lng": -75.583213,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 0:30–21:00",
+    "miércoles: 0:30–21:00",
+    "jueves: 0:30–22:00",
+    "viernes: 0:30–22:00",
+    "sábado: 0:30–22:00",
+    "domingo: 0:00–21:00"
+  ],
+  "review_count": 5
+}

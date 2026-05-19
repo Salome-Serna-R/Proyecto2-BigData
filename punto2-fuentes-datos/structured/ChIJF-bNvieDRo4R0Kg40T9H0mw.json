@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJF-bNvieDRo4R0Kg40T9H0mw",
+  "name": "Saint Martin - Café Gelato Panaderia",
+  "address": "Tv. 32 Sur #32-4, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.175697599999999,
+  "lng": -75.5843656,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:30–20:30",
+    "martes: 7:30–20:30",
+    "miércoles: 7:30–20:30",
+    "jueves: 7:30–20:30",
+    "viernes: 7:30–20:30",
+    "sábado: 7:30–20:30",
+    "domingo: 7:30–20:30"
+  ],
+  "review_count": 5
+}

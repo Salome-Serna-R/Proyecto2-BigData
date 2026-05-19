@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ6z5zhL-CRo4RQhYTw4w6fxM",
+  "name": "Loutron",
+  "address": "Calle 16a Sur #9 E 500, Casaloma, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Casaloma",
+  "lat": 6.1838228,
+  "lng": -75.5484942,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–23:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–20:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJiTK4EkKDRo4RZMutTASKzu4",
+  "name": "La Puttanesca Fusión",
+  "address": "Cra. 25 # 4 - 165 local 126, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.201593799999999,
+  "lng": -75.5564946,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–23:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

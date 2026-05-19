@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ2SKukXeCRo4R31G0gUVixoE",
+  "name": "ANGELS BAR LOUNGE",
+  "address": "Cl. 3 Sur #52-15, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2058884,
+  "lng": -75.5868493,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 7:00–14:00",
+    "martes: 7:00–14:00",
+    "miércoles: 7:00–19:30",
+    "jueves: 7:00–24:00",
+    "viernes: 7:00–2:00",
+    "sábado: 7:00–2:00",
+    "domingo: 12:00–24:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ90h9f84pRI4RHk-bFWibI7I",
+  "name": "Granizados Paradise",
+  "address": "Cra. 54 #4-25, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.211037,
+  "lng": -75.58507569999999,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 17:00–1:00",
+    "jueves: 17:00–1:00",
+    "viernes: 17:00–2:00",
+    "sábado: 17:00–2:00",
+    "domingo: 17:00–24:00"
+  ],
+  "review_count": 5
+}

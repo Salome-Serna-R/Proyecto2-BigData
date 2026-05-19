@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJCwf6TwCDRo4RqrdL_jRC_jc",
+  "name": "Opulencia",
+  "address": "Cra. 42 #6 Sur-114 a 6 Sur-2, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.198316999999999,
+  "lng": -75.5730043,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 9:00–21:00",
+    "martes: 9:00–21:00",
+    "miércoles: 9:00–21:00",
+    "jueves: 9:00–21:00",
+    "viernes: 9:00–22:00",
+    "sábado: 9:00–22:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 2
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ3wBDcX2CRo4R7QXBZMsi9N0",
+  "name": "Todo Fresa Oviedo",
+  "address": "Av. El Poblado #6s-15 L-7-8 Piso 4, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1993816,
+  "lng": -75.57523909999999,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 9:00–19:20",
+    "martes: 9:00–19:20",
+    "miércoles: 9:00–19:20",
+    "jueves: 9:00–19:20",
+    "viernes: 9:00–19:20",
+    "sábado: 9:00–19:20",
+    "domingo: 9:00–19:00"
+  ],
+  "review_count": 5
+}

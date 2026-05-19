@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ7RygCT6DRo4RCG6o_WNspYg",
+  "name": "Magdalena Cocina Local",
+  "address": "Cra. 50C #3 Sur-21, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.203683600000001,
+  "lng": -75.581282,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 10:00–18:00",
+    "martes: 10:00–18:00",
+    "miércoles: 10:00–18:00",
+    "jueves: 10:00–18:00",
+    "viernes: 10:00–18:00",
+    "sábado: 10:00–15:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

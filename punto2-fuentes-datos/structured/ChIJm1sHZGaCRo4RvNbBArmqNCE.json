@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJm1sHZGaCRo4RvNbBArmqNCE",
+  "name": "Palmahia",
+  "address": "Cra 42 #85B-121, San Fernando, Itagüi, Antioquia, Colombia",
+  "neighborhood": "San Fernando",
+  "lat": 6.19116,
+  "lng": -75.58344459999999,
+  "rating": 4.3,
+  "price_level": 3,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 18:00–4:00",
+    "viernes: 17:00–4:00",
+    "sábado: 17:00–4:00",
+    "domingo: 17:00–3:30"
+  ],
+  "review_count": 5
+}

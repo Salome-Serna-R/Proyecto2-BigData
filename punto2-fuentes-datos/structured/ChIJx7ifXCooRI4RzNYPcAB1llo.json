@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJx7ifXCooRI4RzNYPcAB1llo",
+  "name": "Ajiacos y Mondongos",
+  "address": "Cl. 8 #42-46, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2088198,
+  "lng": -75.57070670000002,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–15:30",
+    "martes: 12:00–15:30",
+    "miércoles: 12:00–15:30",
+    "jueves: 12:00–15:30",
+    "viernes: 12:00–15:30",
+    "sábado: 12:00–16:00",
+    "domingo: 12:00–16:00"
+  ],
+  "review_count": 5
+}

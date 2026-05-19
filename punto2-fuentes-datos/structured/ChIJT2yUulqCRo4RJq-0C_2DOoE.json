@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJT2yUulqCRo4RJq-0C_2DOoE",
+  "name": "Restaurante Corrientes",
+  "address": "Cra. 45, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1782604,
+  "lng": -75.5850877,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 17:00–22:00",
+    "martes: 17:00–22:00",
+    "miércoles: 17:00–22:00",
+    "jueves: 17:00–22:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

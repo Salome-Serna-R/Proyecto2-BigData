@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJebEL-SkoRI4RcXaj3HEEDJU",
+  "name": "La Octava Bar",
+  "address": "Cl. 8 #37a-49, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2074808,
+  "lng": -75.56815379999999,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 18:00–4:00",
+    "martes: 18:00–4:00",
+    "miércoles: 18:00–4:00",
+    "jueves: 18:00–4:00",
+    "viernes: 18:00–4:00",
+    "sábado: 18:00–4:00",
+    "domingo: 18:00–4:00"
+  ],
+  "review_count": 5
+}

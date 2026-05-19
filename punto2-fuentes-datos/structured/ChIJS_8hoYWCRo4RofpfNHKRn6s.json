@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJS_8hoYWCRo4RofpfNHKRn6s",
+  "name": "Burger King Mall Zona 2",
+  "address": "Carrera 32 #2Sur-47 Mall Zona 2 Sur, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1985392,
+  "lng": -75.5657001,
+  "rating": 4.2,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–23:00",
+    "martes: 11:00–23:00",
+    "miércoles: 11:00–23:00",
+    "jueves: 11:00–23:00",
+    "viernes: 11:00–1:00",
+    "sábado: 11:00–1:00",
+    "domingo: 11:00–23:00"
+  ],
+  "review_count": 5
+}

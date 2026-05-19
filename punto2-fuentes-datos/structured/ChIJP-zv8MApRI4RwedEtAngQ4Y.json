@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJP-zv8MApRI4RwedEtAngQ4Y",
+  "name": "Casa Ninguno",
+  "address": "Cra. 32d #8-14, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.207648000000001,
+  "lng": -75.5645236,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 17:00–24:00",
+    "martes: 17:00–2:00",
+    "miércoles: 17:00–2:00",
+    "jueves: 17:00–2:00",
+    "viernes: 17:00–2:00",
+    "sábado: 17:00–2:00",
+    "domingo: 17:00–24:00"
+  ],
+  "review_count": 5
+}

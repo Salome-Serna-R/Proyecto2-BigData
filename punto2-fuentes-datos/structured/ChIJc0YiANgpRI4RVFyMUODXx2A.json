@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJc0YiANgpRI4RVFyMUODXx2A",
+  "name": "cafetería mary juan",
+  "address": "Cra. 52 #1-17, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.207720999999999,
+  "lng": -75.5859183,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 8:00–19:00",
+    "martes: 8:00–19:00",
+    "miércoles: 8:00–19:00",
+    "jueves: 8:00–19:00",
+    "viernes: 8:00–19:00",
+    "sábado: 8:00–19:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 2
+}

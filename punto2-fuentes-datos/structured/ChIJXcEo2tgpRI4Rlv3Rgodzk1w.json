@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJXcEo2tgpRI4Rlv3Rgodzk1w",
+  "name": "Amarte",
+  "address": "Cl. 12 #43b 31, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2131437,
+  "lng": -75.57089859999999,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "art_gallery"
+  ],
+  "hours": [
+    "lunes: 10:00–19:00",
+    "martes: 10:00–19:00",
+    "miércoles: 10:00–19:00",
+    "jueves: 10:00–19:00",
+    "viernes: 10:00–19:00",
+    "sábado: 10:00–19:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 4
+}

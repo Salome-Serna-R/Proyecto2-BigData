@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJRV2EH1CCRo4RjK-wxij6TO0",
+  "name": "Lácteos Vivian S.A.S",
+  "address": "Cl. 31A Sur #43a-4, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.1763851,
+  "lng": -75.5855899,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 8:30–19:30",
+    "martes: 8:30–19:30",
+    "miércoles: 8:30–19:30",
+    "jueves: 8:30–19:30",
+    "viernes: 8:30–19:30",
+    "sábado: 8:30–19:00",
+    "domingo: 8:30–15:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJsXz_ac8pRI4RtCiBUgbjJA4",
+  "name": "Sandwich or Salad",
+  "address": "Cra. 30 #1 Sur-18, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1997922,
+  "lng": -75.56257649999999,
+  "rating": 3.9,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–20:30",
+    "martes: 11:00–20:30",
+    "miércoles: 11:00–20:30",
+    "jueves: 11:00–20:30",
+    "viernes: 11:00–21:00",
+    "sábado: 11:00–21:00",
+    "domingo: 11:00–21:00"
+  ],
+  "review_count": 5
+}

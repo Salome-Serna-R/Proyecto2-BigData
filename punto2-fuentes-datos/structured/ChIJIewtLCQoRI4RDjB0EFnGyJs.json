@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJIewtLCQoRI4RDjB0EFnGyJs",
+  "name": "La Pampa - Parrilla Argentina - Poblado Interplaza - Restaurantes Medellin - Musica en Vivo",
+  "address": "Poblado Interplaza, Cra. 30 #10 C - 228 Local 201, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 30 #10 C - 228 Local 201",
+  "lat": 6.2129594,
+  "lng": -75.5591245,
+  "rating": 4.6,
+  "price_level": 3,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:30",
+    "martes: 12:00–22:30",
+    "miércoles: 12:00–22:30",
+    "jueves: 12:00–22:30",
+    "viernes: 12:00–23:30",
+    "sábado: 12:00–23:30",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

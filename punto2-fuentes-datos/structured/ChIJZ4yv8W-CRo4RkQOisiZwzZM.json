@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJZ4yv8W-CRo4RkQOisiZwzZM",
+  "name": "Shell",
+  "address": "Cra. 50g #12 Sur -04, San Fernando, Itagüi, Medellín, Antioquia, Colombia",
+  "neighborhood": "San Fernando",
+  "lat": 6.196415,
+  "lng": -75.586488,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "gas_station",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

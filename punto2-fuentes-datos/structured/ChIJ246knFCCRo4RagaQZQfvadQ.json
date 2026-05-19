@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ246knFCCRo4RagaQZQfvadQ",
+  "name": "Fitness Food",
+  "address": "Tv. 32 Sur #31e91 31e- a, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.1762419,
+  "lng": -75.5822214,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 8:00–20:00",
+    "martes: 8:00–20:00",
+    "miércoles: 8:00–20:00",
+    "jueves: 8:00–20:00",
+    "viernes: 8:00–20:00",
+    "sábado: 8:00–20:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 2
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJF2yVGIiCRo4RFco9y8XIl0c",
+  "name": "Las Paellitas de Masía",
+  "address": "a 7a 251, Cra. 42 #7a Sur-177, Vivendas del Sur, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 42 #7a Sur-177",
+  "lat": 6.1957624,
+  "lng": -75.5737874,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–21:00",
+    "sábado: 12:00–21:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

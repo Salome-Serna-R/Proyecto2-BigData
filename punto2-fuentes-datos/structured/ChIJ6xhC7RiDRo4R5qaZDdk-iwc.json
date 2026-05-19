@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJ6xhC7RiDRo4R5qaZDdk-iwc",
+  "name": "Public house",
+  "address": "Cra. 25 #4 - 165, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.201830999999999,
+  "lng": -75.5565361,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [],
+  "review_count": 5
+}

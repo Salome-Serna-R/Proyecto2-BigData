@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJS0TIRUODRo4RzlyAQHqvGq8",
+  "name": "Café Macanas",
+  "address": "Cra. 34 #7-88, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.206710600000001,
+  "lng": -75.56474349999999,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:30–19:00",
+    "martes: 7:30–19:00",
+    "miércoles: 7:30–19:00",
+    "jueves: 7:30–19:00",
+    "viernes: 7:30–19:00",
+    "sábado: 7:30–19:00",
+    "domingo: 7:30–19:00"
+  ],
+  "review_count": 5
+}

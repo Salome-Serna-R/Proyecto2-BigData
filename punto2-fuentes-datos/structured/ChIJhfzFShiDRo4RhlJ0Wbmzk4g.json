@@ -1,0 +1,16 @@
+{
+  "place_id": "ChIJhfzFShiDRo4RhlJ0Wbmzk4g",
+  "name": "Mi buñuelo 7c",
+  "address": "Cl. 23 Sur #27-68, Montiel II, Envigado, Antioquia, Colombia",
+  "neighborhood": "Montiel II",
+  "lat": 6.175966700000001,
+  "lng": -75.5676256,
+  "rating": 3,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [],
+  "review_count": 5
+}

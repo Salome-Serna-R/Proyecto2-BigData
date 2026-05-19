@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJfVj40oWDRo4RQbc1f0r0Qk4",
+  "name": "PERGAMINO Café Wake Biohotel El Tesoro",
+  "address": "Cl. 2 Sur #25115, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1956831,
+  "lng": -75.5593736,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 7:30–20:00",
+    "martes: 7:30–20:00",
+    "miércoles: 7:30–20:00",
+    "jueves: 7:30–20:00",
+    "viernes: 7:30–20:00",
+    "sábado: 7:30–20:00",
+    "domingo: 8:00–19:00"
+  ],
+  "review_count": 5
+}

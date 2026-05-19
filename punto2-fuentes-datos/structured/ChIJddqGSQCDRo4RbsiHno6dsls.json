@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJddqGSQCDRo4RbsiHno6dsls",
+  "name": "BIGX MANDINGAS",
+  "address": "Cra. 30, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1998311,
+  "lng": -75.5627047,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 16:00–24:00",
+    "martes: 16:00–24:00",
+    "miércoles: 16:00–24:00",
+    "jueves: 16:00–24:00",
+    "viernes: Cerrado",
+    "sábado: 16:00–24:00",
+    "domingo: 16:00–24:00"
+  ],
+  "review_count": 2
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJWXEZ72KCRo4Ru09sos7THGs",
+  "name": "Parque Lorena",
+  "address": "Cl. 10 Sur #43A-54, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1956701,
+  "lng": -75.5762961,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "park"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 4
+}

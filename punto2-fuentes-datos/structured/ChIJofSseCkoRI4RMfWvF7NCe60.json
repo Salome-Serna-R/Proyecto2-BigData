@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJofSseCkoRI4RMfWvF7NCe60",
+  "name": "Il Castello",
+  "address": "Cra. 40 #10a-02, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2104838,
+  "lng": -75.5675735,
+  "rating": 4.7,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–14:30, 18:30–22:00",
+    "martes: 12:00–14:30, 18:30–22:00",
+    "miércoles: 12:00–14:30, 18:30–22:00",
+    "jueves: 12:00–14:30, 18:30–22:00",
+    "viernes: 12:00–14:30, 18:30–22:00",
+    "sábado: 12:00–14:30, 18:00–22:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

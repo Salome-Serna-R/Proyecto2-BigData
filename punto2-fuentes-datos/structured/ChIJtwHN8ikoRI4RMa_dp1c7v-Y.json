@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJtwHN8ikoRI4RMa_dp1c7v-Y",
+  "name": "Juan Bala Fonda",
+  "address": "Cra. 38 #895, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.208501399999999,
+  "lng": -75.5678752,
+  "rating": 4.3,
+  "price_level": 2,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 18:00–4:00",
+    "jueves: 18:00–4:00",
+    "viernes: 18:00–4:00",
+    "sábado: 18:00–4:00",
+    "domingo: 18:00–24:00"
+  ],
+  "review_count": 5
+}

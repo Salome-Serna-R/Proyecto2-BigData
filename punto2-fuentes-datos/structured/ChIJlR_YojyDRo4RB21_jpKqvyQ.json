@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJlR_YojyDRo4RB21_jpKqvyQ",
+  "name": "El Lounge",
+  "address": "Cra. 43A #29 SUR 85, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1778049,
+  "lng": -75.5851383,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 17:00–22:00",
+    "martes: 17:00–22:00",
+    "miércoles: 17:00–22:00",
+    "jueves: 17:00–22:00",
+    "viernes: 16:00–2:00",
+    "sábado: 16:00–2:00",
+    "domingo: 16:00–22:00"
+  ],
+  "review_count": 5
+}

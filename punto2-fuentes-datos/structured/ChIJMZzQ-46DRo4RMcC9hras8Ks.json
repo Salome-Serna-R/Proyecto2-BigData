@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJMZzQ-46DRo4RMcC9hras8Ks",
+  "name": "bonsai Sushi Express",
+  "address": "0500, Cra. 50F #2sur 22, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 50F #2sur 22",
+  "lat": 6.205082399999999,
+  "lng": -75.5829941,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–22:00",
+    "martes: 11:00–22:00",
+    "miércoles: 11:00–22:00",
+    "jueves: 11:00–22:00",
+    "viernes: 11:00–22:00",
+    "sábado: 11:00–22:00",
+    "domingo: 11:00–22:00"
+  ],
+  "review_count": 5
+}

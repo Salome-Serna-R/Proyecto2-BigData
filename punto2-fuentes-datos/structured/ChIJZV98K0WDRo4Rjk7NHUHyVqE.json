@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJZV98K0WDRo4Rjk7NHUHyVqE",
+  "name": "Restaurante La Causa San Lucas",
+  "address": "Cl. 20 Sur #27-55, La Abadia, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "La Abadia",
+  "lat": 6.1806029,
+  "lng": -75.5679711,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:30",
+    "martes: 12:00–21:30",
+    "miércoles: 12:00–21:30",
+    "jueves: 12:00–22:30",
+    "viernes: 12:00–22:30",
+    "sábado: 12:00–22:30",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

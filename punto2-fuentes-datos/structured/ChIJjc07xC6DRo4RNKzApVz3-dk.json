@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJjc07xC6DRo4RNKzApVz3-dk",
+  "name": "Mosaico Coworking - Espacios Únicos & Rooftop Café Bar",
+  "address": "Tv. 32a Sur #31 D 49, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.1758516,
+  "lng": -75.5814005,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar",
+    "real_estate_agency",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 9:00–21:00",
+    "martes: 9:00–21:00",
+    "miércoles: 9:00–21:00",
+    "jueves: 9:00–21:00",
+    "viernes: 9:00–22:00",
+    "sábado: 9:00–22:00",
+    "domingo: 9:00–21:00"
+  ],
+  "review_count": 5
+}

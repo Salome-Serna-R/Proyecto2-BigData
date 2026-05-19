@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJxcAWzWODRo4RpI22sVetESI",
+  "name": "Café Don Rafa",
+  "address": "Al lado de la iglesia de, Cra. 43A #31A sur - 37, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Cra. 43A #31A sur - 37",
+  "lat": 6.1758935,
+  "lng": -75.58586369999999,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:00–19:00",
+    "martes: 7:00–19:00",
+    "miércoles: 7:00–19:00",
+    "jueves: 7:00–19:00",
+    "viernes: 7:00–19:00",
+    "sábado: 7:00–19:00",
+    "domingo: 7:00–19:00"
+  ],
+  "review_count": 5
+}

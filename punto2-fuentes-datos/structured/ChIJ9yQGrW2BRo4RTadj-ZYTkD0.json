@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ9yQGrW2BRo4RTadj-ZYTkD0",
+  "name": "Hakuna Beer",
+  "address": "Hakuna Beer, Cl 30A Sur #44 A 7, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Cl 30A Sur #44 A 7",
+  "lat": 6.1770315,
+  "lng": -75.5861571,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 16:00–23:30",
+    "miércoles: 16:00–23:30",
+    "jueves: 16:00–23:30",
+    "viernes: 16:00–23:30",
+    "sábado: 16:00–23:30",
+    "domingo: 16:00–22:00"
+  ],
+  "review_count": 5
+}

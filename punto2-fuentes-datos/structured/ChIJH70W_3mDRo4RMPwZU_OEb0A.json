@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJH70W_3mDRo4RMPwZU_OEb0A",
+  "name": "esencia. restaurante",
+  "address": "Cl. 2 #20-50 Local 104, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.197610699999999,
+  "lng": -75.5565079,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–23:00",
+    "martes: 12:00–23:00",
+    "miércoles: 12:00–23:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJlwuYoYWCRo4R2-y19bTmbVE",
+  "name": "Mezzaluna",
+  "address": "Carrera 32 #2Sur-49 Mall Zona Dos, Local - 213, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Local - 213",
+  "lat": 6.1983742,
+  "lng": -75.5657785,
+  "rating": 3.9,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:30",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–20:30"
+  ],
+  "review_count": 5
+}

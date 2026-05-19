@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJxaVHwOcpRI4RyMDmhYor3BM",
+  "name": "Restaurante Gala Medellín",
+  "address": "Cra. 39 #8-45, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.208351,
+  "lng": -75.568339,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 18:30–4:00",
+    "jueves: 18:30–4:00",
+    "viernes: 18:30–4:00",
+    "sábado: 18:30–4:00",
+    "domingo: 18:30–4:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJtc2a5jWDRo4RUx7hx24us1I",
+  "name": "Repostería Astor San Lucas",
+  "address": "Calle 20 sur Nº 27-55 Local 145 Mall San Lucas Plaza, La Abadia, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "La Abadia",
+  "lat": 6.1808293,
+  "lng": -75.5683799,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "bakery",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 10:00–19:00",
+    "martes: 10:00–19:00",
+    "miércoles: 10:00–19:00",
+    "jueves: 9:00–19:00",
+    "viernes: 10:00–19:00",
+    "sábado: 10:00–19:00",
+    "domingo: 11:00–19:00"
+  ],
+  "review_count": 5
+}

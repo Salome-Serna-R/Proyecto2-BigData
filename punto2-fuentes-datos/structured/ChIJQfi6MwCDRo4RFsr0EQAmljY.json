@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJQfi6MwCDRo4RFsr0EQAmljY",
+  "name": "Dual Café",
+  "address": "Cl. 2 Sur #51 - 37, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.205826699999999,
+  "lng": -75.58437660000001,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 8:00–20:00",
+    "martes: 8:00–20:00",
+    "miércoles: 8:00–20:00",
+    "jueves: 8:00–20:00",
+    "viernes: 8:00–20:00",
+    "sábado: 8:00–20:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 2
+}

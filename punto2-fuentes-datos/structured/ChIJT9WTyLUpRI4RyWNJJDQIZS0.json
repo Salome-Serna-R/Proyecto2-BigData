@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJT9WTyLUpRI4RyWNJJDQIZS0",
+  "name": "La cuñada de pablo",
+  "address": "Av. Las Palmas #km 7, Medellín, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.211631499999999,
+  "lng": -75.5462348,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "museum"
+  ],
+  "hours": [
+    "lunes: 9:00–17:00",
+    "martes: 9:00–17:00",
+    "miércoles: 9:00–17:00",
+    "jueves: 9:00–17:00",
+    "viernes: 9:00–17:00",
+    "sábado: 9:00–17:00",
+    "domingo: 9:00–17:00"
+  ],
+  "review_count": 5
+}

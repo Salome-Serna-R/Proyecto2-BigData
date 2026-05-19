@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJWWiasuKDRo4RELHDiH8VMtg",
+  "name": "The Capital Store",
+  "address": "Cl. 6 Sur #43A-227, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1987779,
+  "lng": -75.5750293,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–20:00"
+  ],
+  "review_count": 5
+}

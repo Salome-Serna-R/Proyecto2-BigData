@@ -1,0 +1,18 @@
+{
+  "place_id": "ChIJ5Qd9M8TCuYoR7eyKsM-puBM",
+  "name": "Hola Café",
+  "address": "Tv. 32a Sur #33 - 27, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.1746662,
+  "lng": -75.58498589999999,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar",
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [],
+  "review_count": 5
+}

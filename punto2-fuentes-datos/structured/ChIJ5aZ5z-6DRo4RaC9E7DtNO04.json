@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJ5aZ5z-6DRo4RaC9E7DtNO04",
+  "name": "Azai Praia Lovers Vía Primavera",
+  "address": "Vía Primavera, Cra. 37a #7-78, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 37a #7-78",
+  "lat": 6.2072724,
+  "lng": -75.56773199999999,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–17:00",
+    "martes: 8:00–17:00",
+    "miércoles: 8:00–17:00",
+    "jueves: 8:00–17:00",
+    "viernes: 8:00–17:00",
+    "sábado: 8:00–16:00",
+    "domingo: 8:00–16:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJr_GuTYIpRI4RC-JCt5valas",
+  "name": "Montecarlo | Parque Lleras | NightClub",
+  "address": "Cra. 40 #9-21, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.209032499999999,
+  "lng": -75.56834119999999,
+  "rating": 2.6,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: 20:30–4:00",
+    "martes: 20:30–4:00",
+    "miércoles: 20:30–4:00",
+    "jueves: 20:30–4:00",
+    "viernes: 20:30–4:00",
+    "sábado: 20:30–4:00",
+    "domingo: 20:30–4:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJnf-ZdywoRI4R7dkK1gtgwJQ",
+  "name": "Restaurante Pisco Y Marisco",
+  "address": "Cl. 11 #43b-71, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2122039,
+  "lng": -75.571664,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 0:00–12:00",
+    "martes: 0:00–12:00",
+    "miércoles: 0:00–12:00",
+    "jueves: 0:00–12:00",
+    "viernes: 0:00–12:00",
+    "sábado: 0:00–12:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

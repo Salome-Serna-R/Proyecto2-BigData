@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJBajvuhKDRo4RjK4RmjXnC_c",
+  "name": "Black Coffee",
+  "address": "Mall las vegas TERRAZA - ROOFTOP, Cra. 48 #7-282, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 48 #7-282",
+  "lat": 6.2118591,
+  "lng": -75.5761278,
+  "rating": 4.7,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "cafe"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 16:00–23:00",
+    "miércoles: 16:00–23:00",
+    "jueves: 16:00–23:00",
+    "viernes: 16:00–23:00",
+    "sábado: 16:00–23:00",
+    "domingo: 16:00–23:00"
+  ],
+  "review_count": 5
+}

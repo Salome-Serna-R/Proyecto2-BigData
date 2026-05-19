@@ -1,0 +1,26 @@
+{
+  "place_id": "ChIJSXBfX5SDRo4Rz1y6_MwQR8E",
+  "name": "ONE café barber",
+  "address": "Dg. 32B #32 sur 31, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.1756389,
+  "lng": -75.58349869999999,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "hair_care",
+    "health",
+    "store"
+  ],
+  "hours": [
+    "lunes: 10:00–20:00",
+    "martes: 10:00–20:00",
+    "miércoles: 9:00–20:00",
+    "jueves: 9:00–20:00",
+    "viernes: 9:00–20:00",
+    "sábado: 9:00–20:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

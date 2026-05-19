@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJNSJzN-WDRo4RZWJVNVkrtNE",
+  "name": "Pecositas",
+  "address": "Carrera 43Aa 25 b sur 124, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.180019,
+  "lng": -75.5829469,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 8:00–20:30",
+    "martes: 8:00–20:30",
+    "miércoles: 8:00–20:30",
+    "jueves: 8:00–20:30",
+    "viernes: 8:00–20:30",
+    "sábado: 8:00–20:30",
+    "domingo: 8:00–20:30"
+  ],
+  "review_count": 5
+}

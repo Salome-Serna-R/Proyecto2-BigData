@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ_WyuzVGCRo4RB3xk2I3T_QU",
+  "name": "La Chinca",
+  "address": "Tv. 32c Sur, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.1736694,
+  "lng": -75.5849368,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 7:00–24:00",
+    "martes: 7:00–24:00",
+    "miércoles: 7:00–24:00",
+    "jueves: 7:00–24:00",
+    "viernes: 7:00–2:00",
+    "sábado: 7:00–2:00",
+    "domingo: 7:00–2:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ8R3qDYeCRo4Rf7ThYIW-IWI",
+  "name": "Fresh And Easy",
+  "address": "CENTRO DE NEGOCIOS MILLA DE ORO, Cra. 42 #3 SUR 81 LOCAL 211, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 42 #3 SUR 81 LOCAL 211",
+  "lat": 6.2000685,
+  "lng": -75.5724762,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 9:00–18:00",
+    "martes: 9:00–18:00",
+    "miércoles: 9:00–18:00",
+    "jueves: 9:00–18:00",
+    "viernes: 9:00–18:00",
+    "sábado: 9:00–17:00",
+    "domingo: 9:00–17:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,16 @@
+{
+  "place_id": "ChIJsXXtIVCCRo4R1qhHaal0DAY",
+  "name": "Restaurante Bar Dosabores Sal & Dulce",
+  "address": "Cl. 32 Sur #35, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.175110099999999,
+  "lng": -75.5858417,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 5
+}

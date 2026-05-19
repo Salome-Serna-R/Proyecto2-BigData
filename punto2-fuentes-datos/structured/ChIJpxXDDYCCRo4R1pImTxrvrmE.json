@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJpxXDDYCCRo4R1pImTxrvrmE",
+  "name": "SPECIALTY COFFE SHOP",
+  "address": "El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.2062801,
+  "lng": -75.5736263,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [],
+  "review_count": 2
+}

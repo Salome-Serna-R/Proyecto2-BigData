@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJW0lWUouDRo4RLmQclchr2ZY",
+  "name": "BBC - Bodega Square (Medellín)",
+  "address": "Cra. 43A #9 sur-98, El Poblado, Medellín, El Poblado, Medellín, ANT, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1950531,
+  "lng": -75.5756553,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "liquor_store",
+    "store"
+  ],
+  "hours": [
+    "lunes: 14:00–24:00",
+    "martes: 14:00–24:00",
+    "miércoles: 14:00–2:00",
+    "jueves: 14:00–2:00",
+    "viernes: 14:00–2:00",
+    "sábado: 14:00–2:00",
+    "domingo: 14:00–24:00"
+  ],
+  "review_count": 5
+}

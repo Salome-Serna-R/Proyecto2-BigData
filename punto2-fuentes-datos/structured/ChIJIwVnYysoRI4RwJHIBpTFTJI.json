@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJIwVnYysoRI4RwJHIBpTFTJI",
+  "name": "Marquetería Renacimiento Taller",
+  "address": "Cra 43D #10 - 84, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.212097399999999,
+  "lng": -75.57210859999999,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "art_gallery",
+    "home_goods_store",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–18:00",
+    "martes: 8:00–18:00",
+    "miércoles: 8:00–18:00",
+    "jueves: 8:00–18:00",
+    "viernes: 8:00–18:00",
+    "sábado: Cerrado",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

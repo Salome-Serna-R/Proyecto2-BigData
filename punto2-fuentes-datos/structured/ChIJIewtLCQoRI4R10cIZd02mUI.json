@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJIewtLCQoRI4R10cIZd02mUI",
+  "name": "123 WOK Mall Interplaza Medellín | Sushi, Wok y Comida Asiática",
+  "address": "Cra. 30 #10C 228, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2127284,
+  "lng": -75.5590828,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:45–20:45",
+    "martes: 11:45–20:45",
+    "miércoles: 11:45–20:45",
+    "jueves: 11:45–20:45",
+    "viernes: 11:45–21:45",
+    "sábado: 12:00–21:45",
+    "domingo: 12:00–20:30"
+  ],
+  "review_count": 5
+}

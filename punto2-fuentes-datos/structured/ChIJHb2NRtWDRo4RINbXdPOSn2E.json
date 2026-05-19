@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJHb2NRtWDRo4RINbXdPOSn2E",
+  "name": "Sentimiento Bar",
+  "address": "Cl. 31 Sur #43a-47, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1767324,
+  "lng": -75.58579739999999,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 18:00–24:00",
+    "martes: 18:00–24:00",
+    "miércoles: 18:00–24:00",
+    "jueves: 18:00–24:00",
+    "viernes: 18:00–1:00",
+    "sábado: 18:00–1:00",
+    "domingo: 18:00–24:00"
+  ],
+  "review_count": 5
+}

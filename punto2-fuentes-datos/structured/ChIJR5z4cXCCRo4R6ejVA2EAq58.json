@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJR5z4cXCCRo4R6ejVA2EAq58",
+  "name": "Mikaela Punto Planta",
+  "address": "Cl. 10 Sur # 50ff-120, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.199005000000001,
+  "lng": -75.5866175,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 7:30–16:30",
+    "martes: 7:30–16:30",
+    "miércoles: 7:30–16:30",
+    "jueves: 7:30–16:30",
+    "viernes: 7:30–16:30",
+    "sábado: 8:00–12:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

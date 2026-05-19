@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJzyKil9-DRo4RlaVq3ItfPCk",
+  "name": "El Corral Oviedo",
+  "address": "Carrera 43 A, Carulla Oviedo #6 Sur - 15 Local 172, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Carulla Oviedo #6 Sur - 15 Local 172",
+  "lat": 6.1957403,
+  "lng": -75.57362289999999,
+  "rating": 3.7,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 10:00–21:00",
+    "martes: 10:00–21:00",
+    "miércoles: 10:00–21:00",
+    "jueves: 10:00–21:00",
+    "viernes: 10:00–22:00",
+    "sábado: 10:00–22:00",
+    "domingo: 10:00–21:00"
+  ],
+  "review_count": 5
+}

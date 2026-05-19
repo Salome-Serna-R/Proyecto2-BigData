@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJD8dMLVCCRo4R5YHN2xhaf4g",
+  "name": "Mocalú Pastelería y Café",
+  "address": "Tv. 32c Sur #33-78, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.174182099999999,
+  "lng": -75.5852747,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 9:00–18:00",
+    "martes: 9:00–18:00",
+    "miércoles: 9:00–18:00",
+    "jueves: 9:00–18:00",
+    "viernes: 9:00–18:00",
+    "sábado: 9:00–17:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJYXCyxYGCRo4R8dHRadjJpLc",
+  "name": "il capuccino",
+  "address": "Cl. 7 #215, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2063568,
+  "lng": -75.570441,
+  "rating": 3.2,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 6:30–19:00",
+    "martes: 6:30–19:00",
+    "miércoles: 6:30–19:00",
+    "jueves: 6:30–19:00",
+    "viernes: 6:30–19:00",
+    "sábado: 7:00–12:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

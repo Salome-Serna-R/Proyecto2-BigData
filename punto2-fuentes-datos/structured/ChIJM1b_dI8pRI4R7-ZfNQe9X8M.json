@@ -1,0 +1,27 @@
+{
+  "place_id": "ChIJM1b_dI8pRI4R7-ZfNQe9X8M",
+  "name": "Mosquito Rooftop",
+  "address": "10th floor, Cl 10A #40 - 19, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl 10A #40 - 19",
+  "lat": 6.2103698,
+  "lng": -75.5680323,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "bar",
+    "cafe",
+    "night_club",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 16:00–22:00",
+    "martes: 16:00–22:00",
+    "miércoles: 16:00–22:00",
+    "jueves: 17:00–24:00",
+    "viernes: 17:00–2:00",
+    "sábado: 17:00–2:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

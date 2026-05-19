@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJl_ZrVH2CRo4RCvBEFPiWjPA",
+  "name": "Sandwich Gourmet Santafe",
+  "address": "a 7 146, Av. El Poblado, Vivendas del Sur, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Av. El Poblado",
+  "lat": 6.197224299999999,
+  "lng": -75.57454129999999,
+  "rating": 3.9,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 0:01–21:00",
+    "martes: 0:01–21:00",
+    "miércoles: 0:01–21:00",
+    "jueves: 0:01–21:00",
+    "viernes: 0:01–21:00",
+    "sábado: 0:01–21:00",
+    "domingo: 0:01–21:00"
+  ],
+  "review_count": 4
+}

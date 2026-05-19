@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJsQJ-LygoRI4RWN1LubA4Gi0",
+  "name": "Mad Radio Medellín",
+  "address": "Cl. 8a # 33 - 40, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2079143,
+  "lng": -75.56511239999999,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 17:00–24:00",
+    "miércoles: 17:00–2:30",
+    "jueves: 17:00–2:30",
+    "viernes: 17:00–3:30",
+    "sábado: 17:00–3:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

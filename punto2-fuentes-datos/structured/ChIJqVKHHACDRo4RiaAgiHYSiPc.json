@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJqVKHHACDRo4RiaAgiHYSiPc",
+  "name": "Bread Factory San Fernando",
+  "address": "Cra. 43A #1-50, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2045183,
+  "lng": -75.5707557,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 6:30–18:00",
+    "martes: 6:30–18:00",
+    "miércoles: 6:30–18:00",
+    "jueves: 6:30–18:00",
+    "viernes: 6:30–18:00",
+    "sábado: Cerrado",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

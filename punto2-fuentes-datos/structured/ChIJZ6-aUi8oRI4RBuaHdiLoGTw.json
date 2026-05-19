@@ -1,0 +1,16 @@
+{
+  "place_id": "ChIJZ6-aUi8oRI4RBuaHdiLoGTw",
+  "name": "Hotel Lomas 10 Medellin",
+  "address": "Cl. 11B #31A-172, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.212383699999999,
+  "lng": -75.5630814,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "lodging",
+    "restaurant"
+  ],
+  "hours": [],
+  "review_count": 5
+}

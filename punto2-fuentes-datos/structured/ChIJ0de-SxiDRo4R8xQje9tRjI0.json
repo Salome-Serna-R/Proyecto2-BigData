@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ0de-SxiDRo4R8xQje9tRjI0",
+  "name": "MEDALLO CLUB",
+  "address": "Carrera 35 # 7 -21 Provenza, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2063733,
+  "lng": -75.56556359999999,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: Cerrado",
+    "viernes: 21:00–4:00",
+    "sábado: 21:00–4:00",
+    "domingo: 21:30–4:00"
+  ],
+  "review_count": 5
+}

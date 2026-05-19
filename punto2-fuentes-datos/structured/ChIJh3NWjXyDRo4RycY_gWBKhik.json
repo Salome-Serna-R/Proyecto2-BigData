@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJh3NWjXyDRo4RycY_gWBKhik",
+  "name": "Bites Burger and Grill",
+  "address": "Cl. 1 #29D-41, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1999138,
+  "lng": -75.5625139,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 6:00–17:00",
+    "martes: 6:00–17:00",
+    "miércoles: 6:00–17:00",
+    "jueves: 6:00–17:00",
+    "viernes: 6:00–17:00",
+    "sábado: 6:00–17:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

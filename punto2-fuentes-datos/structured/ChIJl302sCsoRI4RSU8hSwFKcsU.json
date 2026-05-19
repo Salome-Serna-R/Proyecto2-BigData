@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJl302sCsoRI4RSU8hSwFKcsU",
+  "name": "EMPANADITAS EL POBLADO",
+  "address": "El Poblado #9-125, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.210269100000001,
+  "lng": -75.57046319999999,
+  "rating": 3.3,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 6:00–19:00",
+    "martes: 6:00–19:00",
+    "miércoles: 6:00–19:00",
+    "jueves: 6:00–19:00",
+    "viernes: 6:00–19:00",
+    "sábado: 6:00–19:00",
+    "domingo: 6:00–19:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ6XqQBXmCRo4RUX2_luc5Vyg",
+  "name": "cafetería el esquinazo",
+  "address": "Cl. 3 Sur, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2043121,
+  "lng": -75.5825026,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 5:00–17:00",
+    "martes: 5:00–17:00",
+    "miércoles: 5:00–17:00",
+    "jueves: 5:00–17:00",
+    "viernes: 5:00–17:00",
+    "sábado: 5:00–16:00",
+    "domingo: 5:00–15:00"
+  ],
+  "review_count": 3
+}

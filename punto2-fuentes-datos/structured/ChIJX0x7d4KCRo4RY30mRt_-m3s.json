@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJX0x7d4KCRo4RY30mRt_-m3s",
+  "name": "Cafetería El Reverbero",
+  "address": "Cra. 36 #40, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2079162,
+  "lng": -75.56637270000002,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 9:00–19:00",
+    "martes: 9:00–19:00",
+    "miércoles: 9:00–19:00",
+    "jueves: 9:00–19:00",
+    "viernes: 9:00–19:00",
+    "sábado: 9:00–19:00",
+    "domingo: 9:00–19:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJOSYqC1CCRo4Rg0WHSZYKixw",
+  "name": "Kit Kof Burger",
+  "address": "Tv. 31 Sur #32D - 29, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.1763369,
+  "lng": -75.58484179999999,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–22:30",
+    "sábado: 12:00–22:30",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJfW61pJ6CRo4RFZRBJtBZ9yo",
+  "name": "El Laboratorio de Café - El Tesoro, Todo en Artes",
+  "address": "En el interior de Todo En Artes, Cra. 25a #1A Sur-45, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 25a #1A Sur-45",
+  "lat": 6.1965181,
+  "lng": -75.55859389999999,
+  "rating": 3.9,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 9:00–20:30",
+    "martes: 9:00–20:30",
+    "miércoles: 9:00–20:30",
+    "jueves: 9:00–20:30",
+    "viernes: 9:00–20:30",
+    "sábado: 9:00–20:30",
+    "domingo: 11:00–19:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJxwYgLtcpRI4Rn3ycBUqz4I8",
+  "name": "Frisby Guayabal",
+  "address": "Cl. 6 Sur #N° 52-20 LC 9, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2049841,
+  "lng": -75.5874211,
+  "rating": 4.3,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–21:00",
+    "martes: 11:30–21:00",
+    "miércoles: 11:30–21:00",
+    "jueves: 11:30–21:00",
+    "viernes: 11:30–21:00",
+    "sábado: 11:30–21:00",
+    "domingo: 11:30–21:00"
+  ],
+  "review_count": 5
+}

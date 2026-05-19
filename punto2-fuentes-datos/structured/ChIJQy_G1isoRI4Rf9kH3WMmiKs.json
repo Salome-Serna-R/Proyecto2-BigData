@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJQy_G1isoRI4Rf9kH3WMmiKs",
+  "name": "Kit Kof Burger",
+  "address": "Cra. 41 #10-9, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2101326,
+  "lng": -75.56877829999999,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–23:00"
+  ],
+  "review_count": 5
+}

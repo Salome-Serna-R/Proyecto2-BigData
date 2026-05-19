@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJcYhG7Q0pRI4RqC1VhvkzQzM",
+  "name": "Rojo",
+  "address": "Cra. 45 #25 - 35, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2077155,
+  "lng": -75.5660838,
+  "rating": 3.2,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: Cerrado",
+    "viernes: 22:30–4:00",
+    "sábado: 22:30–4:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 3
+}

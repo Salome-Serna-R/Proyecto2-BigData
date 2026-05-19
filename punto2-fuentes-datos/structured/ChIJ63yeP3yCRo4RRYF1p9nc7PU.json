@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ63yeP3yCRo4RRYF1p9nc7PU",
+  "name": "Frisby EAFIT",
+  "address": "Las vegas con 7 sur, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1991635,
+  "lng": -75.5783769,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–20:30",
+    "martes: 11:30–20:30",
+    "miércoles: 11:30–20:30",
+    "jueves: 11:30–20:30",
+    "viernes: 11:30–20:30",
+    "sábado: 11:30–15:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

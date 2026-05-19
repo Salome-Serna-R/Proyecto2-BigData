@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJgVCkKxEpRI4RWipdyMe4kaM",
+  "name": "DEEP 9 / HOOKAH / DISCOTECA / BAR / RESTAURANT / CÓCTELES / DRINK / EL POBLADO /",
+  "address": "Cra. 38 #9A-26 Local 102, El Poblado, Envigado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2091236,
+  "lng": -75.5674298,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 17:00–4:00",
+    "martes: 17:00–4:00",
+    "miércoles: 17:00–4:00",
+    "jueves: 17:00–4:00",
+    "viernes: 17:00–4:00",
+    "sábado: 17:00–4:00",
+    "domingo: 17:00–4:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJO20C1xUpRI4RaRgIB28pSEw",
+  "name": "Medallo Drinks",
+  "address": "Cra. 34 #7-129, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2071276,
+  "lng": -75.5651944,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 12:00–20:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–24:00",
+    "jueves: 10:00–2:00",
+    "viernes: 10:00–2:00",
+    "sábado: 10:00–2:00",
+    "domingo: 15:00–22:00"
+  ],
+  "review_count": 3
+}

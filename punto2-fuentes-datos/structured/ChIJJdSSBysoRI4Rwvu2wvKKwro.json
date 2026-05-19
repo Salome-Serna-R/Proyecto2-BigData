@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJJdSSBysoRI4Rwvu2wvKKwro",
+  "name": "Galería De La Fama",
+  "address": "Cra. 43B #8-44, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2095797,
+  "lng": -75.57142929999999,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 17:00–24:00",
+    "martes: 17:00–24:00",
+    "miércoles: 17:00–24:00",
+    "jueves: 17:00–1:00",
+    "viernes: 17:00–4:00",
+    "sábado: 17:00–4:00",
+    "domingo: 17:00–1:00"
+  ],
+  "review_count": 5
+}

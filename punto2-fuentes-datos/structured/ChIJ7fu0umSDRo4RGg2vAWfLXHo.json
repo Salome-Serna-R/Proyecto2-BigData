@@ -1,0 +1,26 @@
+{
+  "place_id": "ChIJ7fu0umSDRo4RGg2vAWfLXHo",
+  "name": "Le Brunch Express",
+  "address": "Cl 30A Sur #44 A-51, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1772246,
+  "lng": -75.586512,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "bar",
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–17:00",
+    "martes: 8:00–17:00",
+    "miércoles: 8:00–17:00",
+    "jueves: 8:00–17:00",
+    "viernes: 8:00–17:00",
+    "sábado: 8:00–17:00",
+    "domingo: 8:00–17:00"
+  ],
+  "review_count": 5
+}

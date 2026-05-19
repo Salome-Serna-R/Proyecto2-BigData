@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJiewOLf4pRI4RqA6VxATmJXo",
+  "name": "Klock Club",
+  "address": "Cl. 82 #42-104, Itagüi, Antioquia, Colombia",
+  "neighborhood": "Itagüi",
+  "lat": 6.1867633,
+  "lng": -75.5880638,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 0:00–7:00",
+    "viernes: 0:00–8:00",
+    "sábado: 0:00–8:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

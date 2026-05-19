@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJJTEMeCkoRI4RUrz-xjhNnxw",
+  "name": "Restaurante Mondongo's Poblado",
+  "address": "Cl 10 #38-38, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.209775899999999,
+  "lng": -75.56772699999999,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–21:00",
+    "martes: 11:30–21:00",
+    "miércoles: 11:30–21:00",
+    "jueves: 11:30–21:00",
+    "viernes: 11:30–21:00",
+    "sábado: 11:30–21:00",
+    "domingo: 11:00–20:00"
+  ],
+  "review_count": 5
+}

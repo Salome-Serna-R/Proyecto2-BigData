@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJ7wrfWAwpRI4RTHa9kRvQgl0",
+  "name": "Tostao Vizcaya",
+  "address": "Cra. 32d #9-2 a 9-114, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2078294,
+  "lng": -75.5633345,
+  "rating": 3.9,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [],
+  "review_count": 5
+}

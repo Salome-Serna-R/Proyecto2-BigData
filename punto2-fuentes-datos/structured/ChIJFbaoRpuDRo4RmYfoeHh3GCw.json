@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJFbaoRpuDRo4RmYfoeHh3GCw",
+  "name": "Romero | Cocina Artesanal & Restaurante en San Lucas, El Poblado, Medellin",
+  "address": "Cl. 20 Sur, San Lucas Pl. #27-55, La Abadia, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "San Lucas Pl. #27-55",
+  "lat": 6.1810236,
+  "lng": -75.5689802,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 10:00–21:30",
+    "martes: 10:00–21:30",
+    "miércoles: 10:00–21:30",
+    "jueves: 10:00–22:30",
+    "viernes: 9:00–22:30",
+    "sábado: 9:00–22:30",
+    "domingo: 9:00–21:00"
+  ],
+  "review_count": 5
+}

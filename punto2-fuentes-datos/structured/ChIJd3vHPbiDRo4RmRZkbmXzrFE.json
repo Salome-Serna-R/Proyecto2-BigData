@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJd3vHPbiDRo4RmRZkbmXzrFE",
+  "name": "Peccato Postres Repostería y Café",
+  "address": "Cra. 48 #25 AA SUR 70 Local 120, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1826176,
+  "lng": -75.5855574,
+  "rating": 4.8,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 10:00–19:00",
+    "martes: 10:00–19:00",
+    "miércoles: 10:00–19:00",
+    "jueves: 10:00–19:00",
+    "viernes: 10:00–19:00",
+    "sábado: 8:00–17:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 3
+}

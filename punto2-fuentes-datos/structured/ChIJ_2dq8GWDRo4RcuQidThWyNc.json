@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJ_2dq8GWDRo4RcuQidThWyNc",
+  "name": "Salsa y Sabor",
+  "address": "Diagonal 33 #32 Sur-2 a 32 Sur-72, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.174939699999999,
+  "lng": -75.5846918,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [],
+  "review_count": 2
+}

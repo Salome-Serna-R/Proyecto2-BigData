@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ-6ntz-qCRo4RdoGDksNP9VM",
+  "name": "Parque Roa",
+  "address": "El Poblado, Medellín, Santa Elena, Medellín, Antioquia, Colombia",
+  "neighborhood": "Medellín",
+  "lat": 6.185493,
+  "lng": -75.55306399999999,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "park"
+  ],
+  "hours": [
+    "lunes: Abierto 24 horas",
+    "martes: Abierto 24 horas",
+    "miércoles: Abierto 24 horas",
+    "jueves: Abierto 24 horas",
+    "viernes: Abierto 24 horas",
+    "sábado: Abierto 24 horas",
+    "domingo: Abierto 24 horas"
+  ],
+  "review_count": 5
+}

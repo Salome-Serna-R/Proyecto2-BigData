@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJl6skiWSDRo4R-smWgjKj9R8",
+  "name": "Instinto rooftop",
+  "address": "Carrera 35 #7-69 rooftop, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2068865,
+  "lng": -75.5657209,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: 18:00–24:00",
+    "jueves: 18:00–2:00",
+    "viernes: 18:00–2:00",
+    "sábado: 18:00–2:00",
+    "domingo: 18:00–2:00"
+  ],
+  "review_count": 5
+}

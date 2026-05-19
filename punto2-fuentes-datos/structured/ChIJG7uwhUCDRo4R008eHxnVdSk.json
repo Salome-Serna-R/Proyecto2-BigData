@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJG7uwhUCDRo4R008eHxnVdSk",
+  "name": "Sport Wings Milla de Oro",
+  "address": "Carrera 42 N° 3 SUR-81 LOCAL 207 Centro empresarial milla de oro, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2002419,
+  "lng": -75.57243009999999,
+  "rating": 3.8,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–22:00",
+    "martes: 11:30–22:00",
+    "miércoles: 11:30–22:00",
+    "jueves: 11:30–22:00",
+    "viernes: 11:30–22:00",
+    "sábado: 11:30–22:00",
+    "domingo: 11:30–21:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJhxAxgUopRI4R2Zvf41vfcio",
+  "name": "Sazon Puerto Rico/ El Chinchorro De Sazon",
+  "address": "Cl. 9 #39-23 piso 1, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2087376,
+  "lng": -75.5682786,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "night_club",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 14:00–3:45",
+    "martes: 14:00–3:45",
+    "miércoles: 14:00–3:45",
+    "jueves: 14:00–3:45",
+    "viernes: 14:00–3:45",
+    "sábado: 14:00–3:45",
+    "domingo: 14:00–3:45"
+  ],
+  "review_count": 5
+}

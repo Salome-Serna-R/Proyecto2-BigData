@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJs8P7iFuCRo4Rs-eY3nDiwyY",
+  "name": "Il Forno - Mall Villa Grande",
+  "address": "Cra. 43A #25Sur-25 Local 106, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.181734199999999,
+  "lng": -75.5822354,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–19:30",
+    "martes: 11:30–19:30",
+    "miércoles: 11:30–19:30",
+    "jueves: 11:30–19:30",
+    "viernes: 11:30–20:30",
+    "sábado: 11:30–20:30",
+    "domingo: 11:30–19:00"
+  ],
+  "review_count": 5
+}

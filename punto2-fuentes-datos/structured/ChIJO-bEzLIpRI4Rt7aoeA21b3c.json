@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJO-bEzLIpRI4Rt7aoeA21b3c",
+  "name": "¡Hasta la pizza, baby!",
+  "address": "Cl. 2 #20-50 Edificio q office, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.197610699999999,
+  "lng": -75.5565079,
+  "rating": 4.4,
+  "price_level": null,
+  "types": [
+    "bar",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 17:00–22:00",
+    "martes: 17:00–22:00",
+    "miércoles: 17:00–22:00",
+    "jueves: 17:00–22:00",
+    "viernes: 12:30–23:00",
+    "sábado: 12:30–23:00",
+    "domingo: 12:30–22:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJz33pvSkoRI4Rp3jsj_c-VNw",
+  "name": "Envy Rooftop - Rooftop en Medellín",
+  "address": "Cl. 9A #37-16, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.208922299999999,
+  "lng": -75.5670602,
+  "rating": 4.3,
+  "price_level": 3,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 17:00–24:00",
+    "martes: 17:00–24:00",
+    "miércoles: 17:00–1:00",
+    "jueves: 16:00–2:00",
+    "viernes: 16:00–2:00",
+    "sábado: 16:00–2:00",
+    "domingo: 16:00–24:00"
+  ],
+  "review_count": 5
+}

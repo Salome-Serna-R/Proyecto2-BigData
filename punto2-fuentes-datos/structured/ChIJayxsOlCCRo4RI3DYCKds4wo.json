@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJayxsOlCCRo4RI3DYCKds4wo",
+  "name": "Restaurante Con Sabor a Mar",
+  "address": "Cl. 30 Sur #44A - 16, Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1775636,
+  "lng": -75.5859072,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 12:00–15:00, 18:00–22:00",
+    "miércoles: 12:00–15:00, 18:00–22:00",
+    "jueves: 12:00–15:00, 18:00–22:00",
+    "viernes: 12:00–15:00, 18:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–17:00"
+  ],
+  "review_count": 5
+}

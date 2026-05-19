@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJA-wUfqApRI4RUxF-qfHF2gQ",
+  "name": "Tito Valmore",
+  "address": "Cl 10 #42-45 Oficina 245-246, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2103367,
+  "lng": -75.5700782,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "art_gallery"
+  ],
+  "hours": [
+    "lunes: 9:00–17:00",
+    "martes: 9:00–17:00",
+    "miércoles: 9:00–17:00",
+    "jueves: 9:00–17:00",
+    "viernes: 9:00–17:00",
+    "sábado: 9:00–17:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 2
+}

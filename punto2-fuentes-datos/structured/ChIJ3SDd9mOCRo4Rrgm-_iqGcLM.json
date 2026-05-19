@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ3SDd9mOCRo4Rrgm-_iqGcLM",
+  "name": "Automall Santa María de Las Vegas",
+  "address": "Cra. 48 #13 S, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.1928268,
+  "lng": -75.5797841,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 10:00–20:00",
+    "martes: 10:00–20:00",
+    "miércoles: 10:00–20:00",
+    "jueves: 10:00–20:00",
+    "viernes: 10:00–20:00",
+    "sábado: 10:00–20:00",
+    "domingo: 10:00–20:00"
+  ],
+  "review_count": 5
+}

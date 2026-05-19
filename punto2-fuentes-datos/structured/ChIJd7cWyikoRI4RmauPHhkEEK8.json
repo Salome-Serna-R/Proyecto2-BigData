@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJd7cWyikoRI4RmauPHhkEEK8",
+  "name": "Cubata",
+  "address": "Cra. 35 #8A-89, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2083046,
+  "lng": -75.5658152,
+  "rating": 3.9,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 15:00–2:00",
+    "martes: 15:00–2:00",
+    "miércoles: 15:00–2:00",
+    "jueves: 16:00–3:00",
+    "viernes: 16:00–3:30",
+    "sábado: 16:00–3:30",
+    "domingo: 16:00–2:00"
+  ],
+  "review_count": 5
+}

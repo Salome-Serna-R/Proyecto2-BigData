@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJw5P6KnqCRo4RYWABLkx1xs4",
+  "name": "cafetería maria madre de los huérfanos",
+  "address": "Cl. 6 Sur, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.201768599999999,
+  "lng": -75.58312149999999,
+  "rating": 3.6,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 5:00–16:30",
+    "martes: 5:00–16:30",
+    "miércoles: 5:00–16:30",
+    "jueves: 5:00–16:30",
+    "viernes: 5:00–16:30",
+    "sábado: 5:00–16:30",
+    "domingo: 5:00–16:30"
+  ],
+  "review_count": 3
+}

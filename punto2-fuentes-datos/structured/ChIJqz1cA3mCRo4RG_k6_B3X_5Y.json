@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJqz1cA3mCRo4RG_k6_B3X_5Y",
+  "name": "Restaurante Amelia",
+  "address": "Cra 50E #2Sur-39, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.204497099999999,
+  "lng": -75.5825377,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 7:00–16:00",
+    "martes: 7:00–16:00",
+    "miércoles: 7:00–16:00",
+    "jueves: 7:00–16:00",
+    "viernes: 7:00–16:00",
+    "sábado: 7:00–16:00",
+    "domingo: 7:00–16:00"
+  ],
+  "review_count": 5
+}

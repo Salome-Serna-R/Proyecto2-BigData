@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ2dNTiSYoRI4R0YJJObBA28A",
+  "name": "Donde Juancho (Inferior)",
+  "address": "Cra. 29c #10c-20, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.211062999999999,
+  "lng": -75.5587414,
+  "rating": 4.4,
+  "price_level": 1,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 13:00–4:00",
+    "martes: 13:00–4:00",
+    "miércoles: 13:00–4:00",
+    "jueves: 13:00–4:00",
+    "viernes: 13:00–4:00",
+    "sábado: 13:00–4:00",
+    "domingo: 13:00–4:00"
+  ],
+  "review_count": 5
+}

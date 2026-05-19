@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJsTv_FAApRI4R63IqDdNtatQ",
+  "name": "ALOHA Medellín",
+  "address": "Cra. 39 #8-74, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.208457699999999,
+  "lng": -75.5680265,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 21:00–4:00",
+    "miércoles: 21:00–4:00",
+    "jueves: 21:00–4:00",
+    "viernes: 21:00–4:00",
+    "sábado: 21:00–4:00",
+    "domingo: 21:00–4:00"
+  ],
+  "review_count": 2
+}

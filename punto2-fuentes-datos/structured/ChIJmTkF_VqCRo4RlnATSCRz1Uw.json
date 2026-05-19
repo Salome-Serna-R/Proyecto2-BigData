@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJmTkF_VqCRo4RlnATSCRz1Uw",
+  "name": "La Ostreria",
+  "address": "Zona 2, Envigado, Antioquia, Colombia",
+  "neighborhood": "Envigado",
+  "lat": 6.1790086,
+  "lng": -75.5829207,
+  "rating": 2.6,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–21:00",
+    "sábado: 12:00–21:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

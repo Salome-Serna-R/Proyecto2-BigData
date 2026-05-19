@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJ-dmt-YCCRo4RrTjzhjL0mns",
+  "name": "Chef Burger Artesanal - Milla de Oro",
+  "address": "Cl. 3 #43a-37, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.204413799999999,
+  "lng": -75.5719455,
+  "rating": 4.7,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "meal_takeaway",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–22:00",
+    "martes: 12:00–22:00",
+    "miércoles: 12:00–22:00",
+    "jueves: 12:00–22:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–22:00"
+  ],
+  "review_count": 5
+}

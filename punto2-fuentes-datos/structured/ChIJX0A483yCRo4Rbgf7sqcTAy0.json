@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJX0A483yCRo4Rbgf7sqcTAy0",
+  "name": "De Lolita Universidad Eafit",
+  "address": "Carrera 49 N° 7 Sur 50 Local 117 B, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2016048,
+  "lng": -75.5785995,
+  "rating": 4.2,
+  "price_level": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 6:30–19:30",
+    "martes: 6:30–19:30",
+    "miércoles: 6:30–19:30",
+    "jueves: 6:30–19:30",
+    "viernes: 6:30–19:30",
+    "sábado: 7:00–14:30",
+    "domingo: Cerrado"
+  ],
+  "review_count": 4
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJIewtLCQoRI4RgasEFt2VCH8",
+  "name": "FIREHOUSE Interplaza",
+  "address": "Cra. 30 #10C - 228 Local 217, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2129594,
+  "lng": -75.5591245,
+  "rating": 4.5,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:30",
+    "martes: 12:00–21:30",
+    "miércoles: 12:00–21:30",
+    "jueves: 12:00–21:30",
+    "viernes: 12:00–22:15",
+    "sábado: 12:00–22:15",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

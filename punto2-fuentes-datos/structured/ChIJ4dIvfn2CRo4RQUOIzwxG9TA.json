@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ4dIvfn2CRo4RQUOIzwxG9TA",
+  "name": "Juan Valdez Café",
+  "address": "Cl. 6 Sur #200, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2001638,
+  "lng": -75.5754085,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 9:00–21:00",
+    "martes: 9:00–21:00",
+    "miércoles: 9:00–21:00",
+    "jueves: 9:00–21:00",
+    "viernes: 9:00–21:00",
+    "sábado: 9:00–21:00",
+    "domingo: 9:00–21:00"
+  ],
+  "review_count": 5
+}

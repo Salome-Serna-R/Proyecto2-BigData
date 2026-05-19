@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJrXn0qmKCRo4RDl3Aky46Fl0",
+  "name": "J&C Delicias Santafé",
+  "address": "Centro Comercial Santafé, Cra. 43A #7 Sur 170 Local 3325, Piso 3, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 43A #7 Sur 170 Local 3325",
+  "lat": 6.196852,
+  "lng": -75.574351,
+  "rating": 3.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–22:00",
+    "sábado: 12:00–22:00",
+    "domingo: 12:00–20:00"
+  ],
+  "review_count": 5
+}

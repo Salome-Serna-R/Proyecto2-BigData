@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJPTkiBEaDRo4RVARrpYHnawg",
+  "name": "El Cortijo",
+  "address": "Dg. 32, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.174913,
+  "lng": -75.5824191,
+  "rating": 4.9,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 14:14–23:14",
+    "martes: 14:14–23:14",
+    "miércoles: 14:14–23:14",
+    "jueves: 14:14–23:14",
+    "viernes: 14:14–23:14",
+    "sábado: 14:14–23:14",
+    "domingo: 14:14–23:14"
+  ],
+  "review_count": 5
+}

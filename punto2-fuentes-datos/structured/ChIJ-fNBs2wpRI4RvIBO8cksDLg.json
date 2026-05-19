@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ-fNBs2wpRI4RvIBO8cksDLg",
+  "name": "Restaurante Nuquimar",
+  "address": "AMSTERDAM PLAZA, Cra. 25 #4 - 165 LOCAL 154, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 25 #4 - 165 LOCAL 154",
+  "lat": 6.2007783,
+  "lng": -75.5565484,
+  "rating": 4.5,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–21:00",
+    "martes: 11:00–21:00",
+    "miércoles: 11:00–21:00",
+    "jueves: 11:00–21:00",
+    "viernes: 11:00–22:00",
+    "sábado: 11:00–22:00",
+    "domingo: 11:00–21:00"
+  ],
+  "review_count": 5
+}

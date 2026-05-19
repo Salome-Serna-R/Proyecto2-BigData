@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJt0yfAEuDRo4RPevi1aRtLZM",
+  "name": "AKASHI Sushi bar",
+  "address": "Tv. Superior #5-23, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.201597599999999,
+  "lng": -75.55652669999999,
+  "rating": 4,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–23:00",
+    "sábado: 12:00–23:00",
+    "domingo: 12:00–21:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJJQwF-CODRo4Rvjv7x5OslMo",
+  "name": "Montecarlos ice - Granizados",
+  "address": "Cl. 3 Sur #52-15, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.2058884,
+  "lng": -75.5868493,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: 15:00–23:00",
+    "miércoles: 15:00–23:00",
+    "jueves: 15:00–23:00",
+    "viernes: 16:00–1:00",
+    "sábado: 16:00–1:00",
+    "domingo: 16:00–1:00"
+  ],
+  "review_count": 3
+}

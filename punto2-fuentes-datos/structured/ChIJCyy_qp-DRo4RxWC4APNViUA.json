@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJCyy_qp-DRo4RxWC4APNViUA",
+  "name": "Santa Leña Mall San Lucas",
+  "address": "Mall San Lucas, Cl. 20 Sur #27 55 Local 137, La Abadia, Envigado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl. 20 Sur #27 55 Local 137",
+  "lat": 6.1805501,
+  "lng": -75.5681211,
+  "rating": 4.7,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:00–18:00",
+    "martes: 7:00–19:00",
+    "miércoles: 7:00–19:00",
+    "jueves: 7:00–19:00",
+    "viernes: 7:00–19:00",
+    "sábado: 7:00–19:00",
+    "domingo: 7:00–19:00"
+  ],
+  "review_count": 5
+}

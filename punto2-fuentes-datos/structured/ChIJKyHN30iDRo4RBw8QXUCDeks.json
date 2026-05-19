@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJKyHN30iDRo4RBw8QXUCDeks",
+  "name": "Standard Drinks",
+  "address": "Cl. 2 Sur #Carrera 53, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+  "neighborhood": "Guayabal",
+  "lat": 6.20664,
+  "lng": -75.5869459,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 14:00–23:00",
+    "martes: 14:00–23:00",
+    "miércoles: 14:00–23:00",
+    "jueves: 14:00–1:00",
+    "viernes: 14:00–2:00",
+    "sábado: 14:00–2:00",
+    "domingo: 14:00–23:00"
+  ],
+  "review_count": 5
+}

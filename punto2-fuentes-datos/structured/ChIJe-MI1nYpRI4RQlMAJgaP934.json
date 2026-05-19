@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJe-MI1nYpRI4RQlMAJgaP934",
+  "name": "Cuatro Vientos Mercado de Origen",
+  "address": "Tv. 5a #45 - 117, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2073602,
+  "lng": -75.5754935,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:00–19:00",
+    "martes: 8:00–19:00",
+    "miércoles: 8:00–19:00",
+    "jueves: 8:00–19:00",
+    "viernes: 8:00–19:00",
+    "sábado: 8:00–17:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

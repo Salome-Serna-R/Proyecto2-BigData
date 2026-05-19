@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ9b7aZJqCRo4RX3WZpZtdTRk",
+  "name": "J&C Delicias Tesoro Jardín",
+  "address": "Parque Comercial, Cra. 25a #1A Sur 45 Piso 1 Local 1380, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 25a #1A Sur 45 Piso 1 Local 1380",
+  "lat": 6.1974567,
+  "lng": -75.558218,
+  "rating": 3.4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–21:00",
+    "martes: 12:00–21:00",
+    "miércoles: 12:00–21:00",
+    "jueves: 12:00–21:00",
+    "viernes: 12:00–21:00",
+    "sábado: 12:00–21:00",
+    "domingo: 12:00–20:00"
+  ],
+  "review_count": 5
+}

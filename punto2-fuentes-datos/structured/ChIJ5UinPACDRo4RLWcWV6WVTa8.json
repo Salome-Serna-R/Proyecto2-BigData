@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJ5UinPACDRo4RLWcWV6WVTa8",
+  "name": "Buñuelo",
+  "address": "Cra. 43A, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.196517999999999,
+  "lng": -75.5739598,
+  "rating": 3.7,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 9:00–21:00",
+    "martes: 9:00–21:00",
+    "miércoles: 9:00–21:00",
+    "jueves: 9:00–21:00",
+    "viernes: 9:00–21:00",
+    "sábado: 9:00–21:00",
+    "domingo: 9:00–21:00"
+  ],
+  "review_count": 3
+}

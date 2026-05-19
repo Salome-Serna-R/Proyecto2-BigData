@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJdYWGjUwpRI4RzNay6-EHqXM",
+  "name": "Omnia Nightclub",
+  "address": "Cl. 9 #39-05, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.208795900000001,
+  "lng": -75.5681015,
+  "rating": 3.7,
+  "price_level": null,
+  "types": [
+    "night_club"
+  ],
+  "hours": [
+    "lunes: 20:00–4:00",
+    "martes: 20:00–4:00",
+    "miércoles: 20:00–4:00",
+    "jueves: 20:00–4:00",
+    "viernes: 20:00–4:00",
+    "sábado: 20:00–4:00",
+    "domingo: 20:00–4:00"
+  ],
+  "review_count": 5
+}

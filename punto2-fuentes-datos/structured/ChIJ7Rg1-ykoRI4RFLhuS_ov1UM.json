@@ -1,0 +1,25 @@
+{
+  "place_id": "ChIJ7Rg1-ykoRI4RFLhuS_ov1UM",
+  "name": "Hooters Medellín",
+  "address": "Cra. 37a #8-44, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.207627,
+  "lng": -75.5674448,
+  "rating": 4.6,
+  "price_level": 2,
+  "types": [
+    "bar",
+    "meal_delivery",
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 12:00–23:00",
+    "martes: 12:00–23:00",
+    "miércoles: 12:00–24:00",
+    "jueves: 12:00–24:00",
+    "viernes: 12:00–24:00",
+    "sábado: 12:00–24:00",
+    "domingo: 12:00–21:30"
+  ],
+  "review_count": 5
+}

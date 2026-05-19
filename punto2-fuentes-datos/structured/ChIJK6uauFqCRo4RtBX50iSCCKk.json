@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJK6uauFqCRo4RtBX50iSCCKk",
+  "name": "Fonda Calle Jardín",
+  "address": "Carrera 43 a N° 29 sur 85, Zona 2, Medellín, Antioquia, Colombia",
+  "neighborhood": "Zona 2",
+  "lat": 6.1774556,
+  "lng": -75.58519319999999,
+  "rating": 4.6,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [],
+  "review_count": 5
+}

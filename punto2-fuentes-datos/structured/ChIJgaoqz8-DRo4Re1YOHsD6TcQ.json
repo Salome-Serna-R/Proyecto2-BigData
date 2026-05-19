@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJgaoqz8-DRo4Re1YOHsD6TcQ",
+  "name": "Café Quindío Santafé Medellín",
+  "address": "Carrera 43A, Cl. 7 Sur #170, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cl. 7 Sur #170",
+  "lat": 6.196848999999999,
+  "lng": -75.5740265,
+  "rating": 3.3,
+  "price_level": null,
+  "types": [
+    "cafe",
+    "store"
+  ],
+  "hours": [
+    "lunes: 7:30–20:00",
+    "martes: 7:30–20:00",
+    "miércoles: 7:30–20:00",
+    "jueves: 7:30–21:00",
+    "viernes: 7:30–21:00",
+    "sábado: 7:30–21:00",
+    "domingo: 8:30–20:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,15 @@
+{
+  "place_id": "ChIJEagF7ecpRI4R90j79qpaFIM",
+  "name": "De Cacao La Experiencia",
+  "address": "92, Cra. 36 #8A, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 36 #8A",
+  "lat": 6.2083756,
+  "lng": -75.5661547,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "cafe"
+  ],
+  "hours": [],
+  "review_count": 2
+}

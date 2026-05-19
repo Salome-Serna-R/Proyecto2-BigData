@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ_2h82FGCRo4RS3TDWOirMMk",
+  "name": "Los Verdes",
+  "address": "Cra. 43 #33 S-26, Zona 9, Envigado, Antioquia, Colombia",
+  "neighborhood": "Zona 9",
+  "lat": 6.173348499999999,
+  "lng": -75.5857077,
+  "rating": 3.6,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–23:00",
+    "martes: 11:00–23:00",
+    "miércoles: 11:00–23:00",
+    "jueves: 11:00–23:00",
+    "viernes: 11:00–2:00",
+    "sábado: 11:00–2:00",
+    "domingo: 11:00–23:00"
+  ],
+  "review_count": 5
+}

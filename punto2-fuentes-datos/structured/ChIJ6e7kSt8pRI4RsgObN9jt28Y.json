@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ6e7kSt8pRI4RsgObN9jt28Y",
+  "name": "Galería La Cometa",
+  "address": "Cl 10A # 37 - 40, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2100421,
+  "lng": -75.5665793,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "art_gallery"
+  ],
+  "hours": [
+    "lunes: 10:00–19:00",
+    "martes: 10:00–19:00",
+    "miércoles: 10:00–19:00",
+    "jueves: 10:00–19:00",
+    "viernes: 10:00–19:00",
+    "sábado: 11:00–17:00",
+    "domingo: Cerrado"
+  ],
+  "review_count": 5
+}

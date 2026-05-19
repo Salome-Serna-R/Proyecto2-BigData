@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJdSz0lBkpRI4RRE7dDRWSbQg",
+  "name": "Tipsy Cocktails",
+  "address": "Cra. 43B #8-42, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2094744,
+  "lng": -75.571564,
+  "rating": 3,
+  "price_level": null,
+  "types": [
+    "bar"
+  ],
+  "hours": [
+    "lunes: 16:00–4:00",
+    "martes: 16:00–4:00",
+    "miércoles: 16:00–4:00",
+    "jueves: 16:00–4:00",
+    "viernes: 16:00–4:00",
+    "sábado: 16:00–4:00",
+    "domingo: 16:00–4:00"
+  ],
+  "review_count": 5
+}

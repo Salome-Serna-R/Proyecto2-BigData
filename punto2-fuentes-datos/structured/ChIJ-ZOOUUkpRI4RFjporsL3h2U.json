@@ -1,0 +1,26 @@
+{
+  "place_id": "ChIJ-ZOOUUkpRI4RFjporsL3h2U",
+  "name": "Tejipaz - Café de la Memoria - Provenza",
+  "address": "Cra. 36 #8A-5, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.2075493,
+  "lng": -75.56672710000001,
+  "rating": 5,
+  "price_level": null,
+  "types": [
+    "bar",
+    "cafe",
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 8:30–21:00",
+    "martes: 8:30–21:00",
+    "miércoles: 8:30–21:00",
+    "jueves: 8:30–21:00",
+    "viernes: 8:30–21:00",
+    "sábado: 8:30–21:00",
+    "domingo: 8:30–16:00"
+  ],
+  "review_count": 5
+}

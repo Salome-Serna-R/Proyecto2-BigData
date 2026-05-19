@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJTfLutS-DRo4ROEzfxM1FOO4",
+  "name": "Pizza Hut",
+  "address": "Zona 1, Envigado, Antioquia, Colombia",
+  "neighborhood": "Envigado",
+  "lat": 6.1871757,
+  "lng": -75.58274329999999,
+  "rating": 4.4,
+  "price_level": 2,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:00–21:00",
+    "martes: 11:00–21:00",
+    "miércoles: 11:00–21:00",
+    "jueves: 11:00–21:00",
+    "viernes: 11:00–21:00",
+    "sábado: 11:00–21:00",
+    "domingo: 11:00–21:00"
+  ],
+  "review_count": 5
+}

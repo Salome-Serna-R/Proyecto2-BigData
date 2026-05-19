@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJI7qHKtQpRI4RTHE1ve3V5Bg",
+  "name": "Club Oráculo",
+  "address": "Cra. 36 #8A-123, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.208653399999999,
+  "lng": -75.56629269999999,
+  "rating": 4.3,
+  "price_level": null,
+  "types": [
+    "bar",
+    "night_club"
+  ],
+  "hours": [
+    "lunes: Cerrado",
+    "martes: Cerrado",
+    "miércoles: Cerrado",
+    "jueves: 22:00–4:00",
+    "viernes: 22:00–4:00",
+    "sábado: 22:00–4:00",
+    "domingo: 22:00–4:00"
+  ],
+  "review_count": 5
+}

@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJM16TDSgoRI4RuMM76eK275g",
+  "name": "Juan Valdez Cafe Vizcaya",
+  "address": "a 9-114, Cra. 32d #9-2, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "Cra. 32d #9-2",
+  "lat": 6.208059700000001,
+  "lng": -75.5632641,
+  "rating": 4,
+  "price_level": 2,
+  "types": [
+    "cafe"
+  ],
+  "hours": [
+    "lunes: 10:00–20:00",
+    "martes: 10:00–20:00",
+    "miércoles: 10:00–20:00",
+    "jueves: 10:00–20:00",
+    "viernes: 10:00–20:00",
+    "sábado: 10:00–20:00",
+    "domingo: 10:00–20:00"
+  ],
+  "review_count": 5
+}

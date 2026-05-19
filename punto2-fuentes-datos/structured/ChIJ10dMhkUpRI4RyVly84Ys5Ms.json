@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJ10dMhkUpRI4RyVly84Ys5Ms",
+  "name": "Burger & Grill - Poblado Las Vegas",
+  "address": "Cra. 48 #5-18, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.207858799999999,
+  "lng": -75.5765474,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:30–23:00",
+    "martes: 11:30–23:00",
+    "miércoles: 11:30–23:00",
+    "jueves: 11:30–23:00",
+    "viernes: 11:30–24:00",
+    "sábado: 14:00–24:00",
+    "domingo: 14:00–22:00"
+  ],
+  "review_count": 5
+}

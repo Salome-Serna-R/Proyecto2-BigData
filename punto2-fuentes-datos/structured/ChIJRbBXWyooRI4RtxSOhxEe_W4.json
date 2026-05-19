@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJRbBXWyooRI4RtxSOhxEe_W4",
+  "name": "Rapi Alitas El Poblado",
+  "address": "a 42- 44,, Cl. 8 #4210, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "",
+  "lat": 6.208869,
+  "lng": -75.57078829999999,
+  "rating": 4.1,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 11:45–22:00",
+    "martes: 11:45–22:00",
+    "miércoles: 11:45–22:00",
+    "jueves: 11:45–22:00",
+    "viernes: 11:45–22:00",
+    "sábado: 11:45–22:00",
+    "domingo: 11:45–22:00"
+  ],
+  "review_count": 5
+}

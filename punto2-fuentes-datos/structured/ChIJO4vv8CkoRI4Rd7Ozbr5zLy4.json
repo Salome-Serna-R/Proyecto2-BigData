@@ -1,0 +1,23 @@
+{
+  "place_id": "ChIJO4vv8CkoRI4Rd7Ozbr5zLy4",
+  "name": "Dogger Parque Lleras",
+  "address": "Cra. 38 #42, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.207792899999999,
+  "lng": -75.5679353,
+  "rating": 3.3,
+  "price_level": null,
+  "types": [
+    "restaurant"
+  ],
+  "hours": [
+    "lunes: 8:00–18:00",
+    "martes: 8:00–18:00",
+    "miércoles: 8:00–18:00",
+    "jueves: 8:00–18:00",
+    "viernes: 8:00–18:00",
+    "sábado: 9:00–18:00",
+    "domingo: 9:00–18:00"
+  ],
+  "review_count": 4
+}

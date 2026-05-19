@@ -1,0 +1,24 @@
+{
+  "place_id": "ChIJHRAzlisoRI4RAhu36qsAtYg",
+  "name": "Pollos A La Brasa - Mario El Poblado",
+  "address": "Av. El Poblado #10-71, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "neighborhood": "El Poblado",
+  "lat": 6.211194799999999,
+  "lng": -75.5704313,
+  "rating": 4.2,
+  "price_level": 1,
+  "types": [
+    "restaurant",
+    "store"
+  ],
+  "hours": [
+    "lunes: 9:00–18:00",
+    "martes: 9:00–18:00",
+    "miércoles: 9:00–18:00",
+    "jueves: 9:00–18:00",
+    "viernes: 9:00–18:00",
+    "sábado: 9:00–18:00",
+    "domingo: 9:00–18:00"
+  ],
+  "review_count": 5
+}
