@@ -14,21 +14,16 @@ Uso:
   pip install pandas pymysql boto3 requests paramiko python-dotenv
   python ingest.py
 
-Variables de entorno (.env):
-  # RDS
+Variables de entorno (.env en la raiz del proyecto):
   RDS_HOST=tu-endpoint.rds.amazonaws.com
   RDS_PORT=3306
   RDS_USER=admin
-  RDS_PASSWORD=Proyecto2024*
+  RDS_PASSWORD=tu-password
   RDS_DB=medellin_places
-
-  # EC2
   EC2_HOST=ec2-XX-XX-XX-XX.compute-1.amazonaws.com
   EC2_USER=ec2-user
-  EC2_KEY_PATH=ruta/a/tu-keypair.pem
+  EC2_KEY_PATH=ruta/absoluta/a/keypair.pem
   EC2_REMOTE_DIR=/home/ec2-user/data
-
-  # S3
   S3_BUCKET=proyecto2-bigdata
   AWS_REGION=us-east-1
 """
@@ -42,10 +37,13 @@ import paramiko
 import pandas as pd
 from dotenv import load_dotenv
 from datetime import datetime
+from pathlib import Path
 
-load_dotenv()
+# Cargar .env desde la raiz del proyecto (2 niveles arriba de este script)
+dotenv_path = Path(__file__).resolve().parent.parent / ".env"
+load_dotenv(dotenv_path=dotenv_path)
 
-# ── Configuración ──────────────────────────────────────────
+# ── Configuracion ──────────────────────────────────────────
 RDS_HOST       = os.getenv("RDS_HOST")
 RDS_PORT       = int(os.getenv("RDS_PORT", 3306))
 RDS_USER       = os.getenv("RDS_USER", "admin")
@@ -62,7 +60,6 @@ AWS_REGION     = os.getenv("AWS_REGION", "us-east-1")
 
 MEDATA_URL     = "https://medata.gov.co/sites/default/files/distribution/1-009-05-000270/encuesta_cultura_2019.csv"
 
-# Rutas en S3
 S3_RAW_RDS     = "raw/rds/"
 S3_RAW_FILES   = "raw/files/"
 S3_RAW_URL     = "raw/url/"
@@ -84,19 +81,19 @@ def upload_df_to_s3(s3, df: pd.DataFrame, bucket: str, key: str):
         Body=buffer.getvalue().encode("utf-8"),
         ContentType="text/csv",
     )
-    print(f"    ✅ s3://{bucket}/{key}  ({len(df):,} filas)")
+    print(f"    OK s3://{bucket}/{key}  ({len(df):,} filas)")
 
 
 def upload_bytes_to_s3(s3, data: bytes, bucket: str, key: str):
     """Sube bytes crudos a S3."""
     s3.put_object(Bucket=bucket, Key=key, Body=data, ContentType="text/csv")
     size_kb = len(data) / 1024
-    print(f"    ✅ s3://{bucket}/{key}  ({size_kb:.1f} KB)")
+    print(f"    OK s3://{bucket}/{key}  ({size_kb:.1f} KB)")
 
 
 # ── Fuente 1: RDS MariaDB ──────────────────────────────────
 def ingest_from_rds(s3):
-    print("\n📦 Fuente 1 — RDS MariaDB")
+    print("\nFuente 1 - RDS MariaDB")
 
     conn = pymysql.connect(
         host=RDS_HOST, port=RDS_PORT,
@@ -104,77 +101,71 @@ def ingest_from_rds(s3):
         database=RDS_DB, charset="utf8mb4",
     )
 
-    tables = {
-        "places": f"{S3_RAW_RDS}places.csv",
-    }
-
-    for table, s3_key in tables.items():
-        print(f"  Leyendo tabla '{table}'...")
-        df = pd.read_sql(f"SELECT * FROM {table}", conn)
-        upload_df_to_s3(s3, df, S3_BUCKET, s3_key)
-
+    print("  Leyendo tabla places...")
+    df = pd.read_sql("SELECT * FROM places", conn)
     conn.close()
-    print("  RDS ✅")
+
+    upload_df_to_s3(s3, df, S3_BUCKET, f"{S3_RAW_RDS}places.csv")
+    print("  RDS OK")
 
 
 # ── Fuente 2: EC2 Archivos ─────────────────────────────────
 def ingest_from_ec2(s3):
-    print("\n📦 Fuente 2 — EC2 Archivos")
+    print("\nFuente 2 - EC2 Archivos")
+
+    # Normalizar ruta del keypair (fix para Windows con barras invertidas)
+    key_path = str(EC2_KEY_PATH).replace("\\", "/")
 
     ssh = paramiko.SSHClient()
     ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
     ssh.connect(
         hostname=EC2_HOST,
         username=EC2_USER,
-        key_filename=EC2_KEY_PATH,
+        key_filename=key_path,
+        timeout=30,
     )
     sftp = ssh.open_sftp()
 
-    files = {
-        "place_hours.csv": f"{S3_RAW_FILES}place_hours.csv",
-        "place_types.csv": f"{S3_RAW_FILES}place_types.csv",
-    }
+    files = [
+        ("place_hours.csv", f"{S3_RAW_FILES}place_hours.csv"),
+        ("place_types.csv", f"{S3_RAW_FILES}place_types.csv"),
+    ]
 
-    for filename, s3_key in files.items():
+    for filename, s3_key in files:
         remote_path = f"{EC2_REMOTE_DIR}/{filename}"
         print(f"  Leyendo {remote_path}...")
 
-        with sftp.open(remote_path, "r") as remote_file:
+        # FIX: leer en modo binario para evitar problemas de encoding
+        with sftp.open(remote_path, "rb") as remote_file:
             content = remote_file.read()
 
-        # Parsear para mostrar info y re-subir a S3
-        df = pd.read_csv(io.BytesIO(content))
+        df = pd.read_csv(io.BytesIO(content), encoding="utf-8")
         upload_df_to_s3(s3, df, S3_BUCKET, s3_key)
 
     sftp.close()
     ssh.close()
-    print("  EC2 ✅")
+    print("  EC2 OK")
 
 
-# ── Fuente 3: URL Pública ──────────────────────────────────
+# ── Fuente 3: URL Publica ──────────────────────────────────
 def ingest_from_url(s3):
-    print("\n📦 Fuente 3 — URL Pública (MeData)")
-    print(f"  Descargando desde {MEDATA_URL}...")
+    print("\nFuente 3 - URL Publica (MeData)")
+    print(f"  Descargando desde medata.gov.co...")
 
-    response = requests.get(MEDATA_URL, timeout=60)
+    # FIX: headers para evitar bloqueo por user-agent
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; proyecto2-bigdata/1.0)"}
+    response = requests.get(MEDATA_URL, timeout=60, headers=headers)
     response.raise_for_status()
 
     content = response.content
     s3_key = f"{S3_RAW_URL}encuesta_cultura_2019.csv"
     upload_bytes_to_s3(s3, content, S3_BUCKET, s3_key)
-    print("  URL ✅")
+    print("  URL OK")
 
 
-# ── Crear estructura de S3 si no existe ───────────────────
+# ── Crear estructura de S3 ─────────────────────────────────
 def ensure_s3_structure(s3):
-    """Crea los prefijos base en S3 (raw, trusted, refined)."""
-    prefixes = [
-        "raw/rds/",
-        "raw/files/",
-        "raw/url/",
-        "trusted/",
-        "refined/",
-    ]
+    prefixes = ["raw/rds/", "raw/files/", "raw/url/", "trusted/", "refined/"]
     for prefix in prefixes:
         s3.put_object(Bucket=S3_BUCKET, Key=prefix, Body=b"")
     print(f"  Estructura de S3 verificada en s3://{S3_BUCKET}/")
@@ -185,63 +176,66 @@ def main():
     start = datetime.now()
 
     print("=" * 55)
-    print("  Punto 3 — Ingesta automática a S3 Data Lake")
+    print("  Punto 3 - Ingesta automatica a S3 Data Lake")
     print(f"  Bucket: s3://{S3_BUCKET}")
     print(f"  Inicio: {start.strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 55)
 
     # Validar variables de entorno
-    missing = []
-    for var in ["RDS_HOST", "RDS_PASSWORD", "EC2_HOST", "EC2_KEY_PATH"]:
-        if not os.getenv(var):
-            missing.append(var)
+    missing = [v for v in ["RDS_HOST", "RDS_PASSWORD", "EC2_HOST", "EC2_KEY_PATH"] if not os.getenv(v)]
     if missing:
-        print(f"❌ Faltan variables de entorno: {', '.join(missing)}")
-        print("   Crea el archivo .env con esas variables y vuelve a correr.")
+        print(f"ERROR: Faltan variables en el .env: {', '.join(missing)}")
+        print(f"       Buscando .env en: {dotenv_path}")
+        return
+
+    # Validar que el keypair existe
+    if not Path(EC2_KEY_PATH).exists():
+        print(f"ERROR: No se encontro el keypair en: {EC2_KEY_PATH}")
+        print("       Verifica que EC2_KEY_PATH en el .env sea la ruta absoluta correcta")
         return
 
     s3 = get_s3_client()
 
-    # Verificar que el bucket existe
+    # Verificar bucket
     try:
         s3.head_bucket(Bucket=S3_BUCKET)
-        print(f"\n✅ Bucket s3://{S3_BUCKET} encontrado")
+        print(f"\nBucket s3://{S3_BUCKET} encontrado")
     except Exception:
-        print(f"\n❌ No se encontró el bucket s3://{S3_BUCKET}")
-        print("   Créalo en la consola AWS → S3 → Create bucket")
+        print(f"\nERROR: No se encontro el bucket s3://{S3_BUCKET}")
+        print("       Crealo en la consola AWS -> S3 -> Crear bucket")
         return
 
     ensure_s3_structure(s3)
 
-    # Ingestar desde cada fuente
+    # Ingestar desde cada fuente (errores no detienen las demas)
     errors = []
 
     try:
         ingest_from_rds(s3)
     except Exception as e:
-        print(f"  ❌ Error en RDS: {e}")
+        print(f"  ERROR en RDS: {e}")
         errors.append("RDS")
 
     try:
         ingest_from_ec2(s3)
     except Exception as e:
-        print(f"  ❌ Error en EC2: {e}")
+        print(f"  ERROR en EC2: {e}")
         errors.append("EC2")
 
     try:
         ingest_from_url(s3)
     except Exception as e:
-        print(f"  ❌ Error en URL: {e}")
+        print(f"  ERROR en URL: {e}")
         errors.append("URL")
 
     # Resumen final
     elapsed = (datetime.now() - start).seconds
     print("\n" + "=" * 55)
     if not errors:
-        print(f"  ✅ Ingesta completada en {elapsed}s — 0 errores")
+        print(f"  Ingesta completada en {elapsed}s - 0 errores")
     else:
-        print(f"  ⚠️  Ingesta completada con errores en: {', '.join(errors)}")
-    print(f"\n  Datos disponibles en:")
+        print(f"  Ingesta con errores en: {', '.join(errors)}")
+    print(f"\n  Datos en S3:")
     print(f"    s3://{S3_BUCKET}/raw/rds/places.csv")
     print(f"    s3://{S3_BUCKET}/raw/files/place_hours.csv")
     print(f"    s3://{S3_BUCKET}/raw/files/place_types.csv")

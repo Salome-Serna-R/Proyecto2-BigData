@@ -30,7 +30,9 @@ RDS_USER     = os.getenv("RDS_USER", "admin")
 RDS_PASSWORD = os.getenv("RDS_PASSWORD")
 RDS_DB       = os.getenv("RDS_DB", "medellin_places")
 
-CSV_PLACES = "../../data/csv/places.csv"
+# Ruta relativa al script mismo, no a donde se corre
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CSV_PLACES = os.path.join(BASE_DIR, "..", "data", "csv", "places.csv")
 # ───────────────────────────────────────────────────────────
 
 
@@ -59,13 +61,18 @@ def load_places(conn, csv_path: str):
             (%s, %s, %s, %s, %s, %s, %s, %s, %s)
     """
 
-    rows = [
-        (
-            row.place_id, row.name, row.address, row.neighborhood,
-            row.lat, row.lng, row.rating, row.price_level, row.review_count,
-        )
-        for row in df.itertuples(index=False)
-    ]
+    rows = []
+    for row in df.itertuples(index=False):
+        rows.append((
+            str(row.place_id) if row.place_id is not None else None,
+            str(row.name) if row.name is not None else None,
+            str(row.address) if row.address is not None else None,
+            str(row.neighborhood) if row.neighborhood is not None else None,
+            float(row.lat) if row.lat is not None else None,
+            float(row.lng) if row.lng is not None else None,
+            float(row.rating) if row.rating is not None else None,
+            int(row.price_level) if (row.price_level is not None and str(row.price_level) != 'nan') else None,            int(row.review_count) if row.review_count is not None else None,
+        ))
 
     with conn.cursor() as cur:
         cur.executemany(sql, rows)
