@@ -132,7 +132,7 @@ proyecto2-bigdata/
 ### Prerrequisitos
 - Cuenta AWS Academy activa
 - Python 3.10+
-- `pip install pandas boto3 pymysql streamlit matplotlib pyspark`
+- Git
 
 ### Paso a paso
 
@@ -141,14 +141,31 @@ proyecto2-bigdata/
 git clone https://github.com/TU_USUARIO/proyecto2-bigdata
 cd proyecto2-bigdata
 
-# 2. Preparar los datos localmente
+# 2. Crear y activar el entorno virtual
+python -m venv venv
+
+# En Mac/Linux:
+source venv/bin/activate
+
+# En Windows:
+venv\Scripts\activate
+
+# 3. Instalar dependencias
+pip install -r requirements.txt
+
+# 4. Preparar los datos localmente (solo la primera vez)
 python prepare_data.py --input ./data/places_json --output ./data/csv
 
-# 3. Seguir las instrucciones de cada punto en orden:
+# 5. Crear el archivo .env con tus credenciales AWS
+#    (ver punto2-fuentes-datos/README.md para el formato)
+
+# 6. Seguir las instrucciones de cada punto en orden:
 #    punto2 → punto3 → punto4 → punto5 → punto6 → punto7 → punto8
 ```
 
-> Cada carpeta tiene su propio `README.md` con instrucciones detalladas y capturas de pantalla.
+> Cada carpeta tiene su propio README.md con instrucciones detalladas y capturas de pantalla.
+
+> ⚠️ El archivo .env con credenciales nunca se sube al repo — está en .gitignore.
 
 ---
 
@@ -156,9 +173,9 @@ python prepare_data.py --input ./data/places_json --output ./data/csv
 
 | Nombre | Email EAFIT |
 |---|---|
-| << nombre >> | << email >> |
-| << nombre >> | << email >> |
-| << nombre >> | << email >> |
+| Brahiam Steven Quintero | << email >> |
+| Laura Ortiz Usme  | << email >> |
+| Salomé Serna Restrepo | << email >> |
 
 **Profesor:** Álvaro Ospina — aeospinas@eafit.edu.co  
 **Nube:** AWS Academy

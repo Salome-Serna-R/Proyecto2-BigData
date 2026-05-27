@@ -1,0 +1,29 @@
+# Proyecto 2 - Big Data ST0263
+# Instalar con: pip install -r requirements.txt
+
+# ── Datos y procesamiento ──────────────────────────────────
+pandas==2.2.2
+numpy==1.26.4
+
+# ── AWS ───────────────────────────────────────────────────
+boto3==1.34.69
+
+# ── Base de datos ─────────────────────────────────────────
+pymysql==1.1.0
+
+# ── Conexión SSH / EC2 ────────────────────────────────────
+paramiko==3.4.0
+
+# ── HTTP / descarga de URLs ───────────────────────────────
+requests==2.31.0
+
+# ── Variables de entorno ──────────────────────────────────
+python-dotenv==1.0.1
+
+# ── PySpark (Puntos 4 y 7) ────────────────────────────────
+pyspark==3.5.1
+
+# ── Visualización (Punto 8) ───────────────────────────────
+streamlit==1.35.0
+matplotlib==3.8.4
+plotly==5.22.0
