@@ -1,0 +1,17 @@
+primary_type,places_count,weekend_open_places,weekend_open_ratio
+restaurant,342,309,90.35
+bar,236,209,88.56
+cafe,173,135,78.03
+night_club,71,59,83.1
+bakery,51,49,96.08
+park,39,29,74.36
+art_gallery,26,19,73.08
+meal_delivery,14,14,100.0
+museum,6,5,83.33
+meal_takeaway,3,3,100.0
+lodging,3,2,66.67
+clothing_store,1,1,100.0
+grocery_or_supermarket,1,1,100.0
+health,1,1,100.0
+gas_station,1,1,100.0
+book_store,1,0,0.0

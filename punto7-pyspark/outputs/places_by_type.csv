@@ -1,0 +1,17 @@
+primary_type,places_count,average_rating,total_reviews
+restaurant,342,4.28,1598
+bar,236,4.54,1119
+cafe,173,4.4,756
+night_club,71,4.05,324
+bakery,51,4.38,251
+park,39,4.59,185
+art_gallery,26,4.74,115
+meal_delivery,14,3.95,70
+museum,6,4.58,27
+lodging,3,4.47,15
+meal_takeaway,3,4.6,12
+clothing_store,1,4.3,5
+book_store,1,4.6,5
+grocery_or_supermarket,1,4.5,5
+health,1,4.2,5
+gas_station,1,4.3,5
