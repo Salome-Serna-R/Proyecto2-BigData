@@ -76,8 +76,8 @@ aws s3 ls s3://proyecto2-bigdata-2026/scripts/
 | Parámetro        | Valor                                                        |
 |------------------|--------------------------------------------------------------|
 | Job name         | raw-to-trusted-medellin                                      |
-| IAM Role         | AWSGlueServiceRole                                           |
-| Glue version     | Glue 4.0 (Spark 3.3)                                         |
+| IAM Role         | LabRole                                                      |
+| Glue version     | Glue 5.1 (Spark 3.5)                                         |
 | Worker type      | G.1X                                                         |
 | Number of workers| 2                                                            |
 | Job bookmark     | Disabled                                                     |
