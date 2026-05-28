@@ -177,5 +177,8 @@ python prepare_data.py --input ./data/places_json --output ./data/csv
 | Laura Ortiz Usme  | << email >> |
 | Salomé Serna Restrepo | << email >> |
 
+Porcentaje de trabajo realizado: 98-100%
+
+
 **Profesor:** Álvaro Ospina — aeospinas@eafit.edu.co  
 **Nube:** AWS Academy
